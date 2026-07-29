@@ -25,7 +25,7 @@ Large language models are increasingly explored as mental-health assistants, yet
 The supervisor is designed to support learning rather than replace licensed clinicians or human supervision.
 
 <p align='center'>
-  <img src='assets/zpd-scaffold.png' width='50%' alt='AI supervision within the zone of proximal development'>
+  <img src='assets/zpd-scaffold.png' width='40%' alt='AI supervision within the zone of proximal development'>
 </p>
 
 ## Highlights
