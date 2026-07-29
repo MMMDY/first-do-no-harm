@@ -6,6 +6,8 @@
 
 [[Paper](https://arxiv.org/pdf/2508.09042)] · [[Project Page](https://mmmdy.github.io/first-do-no-harm.github.io/)]
 
+This repository is the **official implementation** of the paper **First, Do No Harm: AI Supervisor Scaffolds Novice Growth in Counselor Education**.
+
 An ethics-first AI supervisor that helps novice counselors recognize subtle ethical violations, understand their risks, and learn safer responses through structured feedback.
 
 </div>
