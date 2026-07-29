@@ -1,0 +1,5673 @@
+{
+  "total_files": 300,
+  "max_workers": 15,
+  "successful_evaluations": 295,
+  "failed_evaluations": 5,
+  "stats": {
+    "completed": 300,
+    "failed": 0,
+    "in_progress": 0
+  },
+  "results": [
+    {
+      "case_name": "simpsydial_104",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_104.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 5.625,
+          "PSC": 6.428571428571429,
+          "TES": 8.333333333333334,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_108",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_108.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 5.384615384615385,
+          "MITI": 5.0,
+          "PSC": 6.190476190476191,
+          "TES": 7.962962962962962,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_101",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_101.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 4.615384615384615,
+          "MITI": 4.375,
+          "PSC": 6.666666666666666,
+          "TES": 6.111111111111111,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_107",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_107.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 5.961538461538462,
+          "MITI": 6.875,
+          "PSC": 7.3809523809523805,
+          "TES": 7.962962962962964,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_1",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_1.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.576923076923077,
+          "HTAIS": 3.5576923076923075,
+          "MITI": 5.625,
+          "PSC": 7.619047619047619,
+          "TES": 7.5925925925925934,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_0",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_0.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 5.480769230769231,
+          "MITI": 8.125,
+          "PSC": 8.095238095238097,
+          "TES": 8.888888888888891,
+          "WAI": 8.333333333333334
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_103",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_103.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.0,
+          "MITI": 8.125,
+          "PSC": 5.714285714285714,
+          "TES": 9.25925925925926,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_106",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_106.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.288461538461538,
+          "MITI": 8.125,
+          "PSC": 7.857142857142857,
+          "TES": 9.074074074074074,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_102",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_102.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 4.230769230769231,
+          "MITI": 5.0,
+          "PSC": 6.666666666666667,
+          "TES": 8.333333333333334,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_11",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_11.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.230769230769231,
+          "MITI": 3.75,
+          "PSC": 5.0,
+          "TES": 6.296296296296296,
+          "WAI": 6.666666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_105",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_105.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.096153846153846,
+          "MITI": 5.0,
+          "PSC": 6.428571428571429,
+          "TES": 7.222222222222222,
+          "WAI": 3.125
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_100",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_100.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.7884615384615383,
+          "HTAIS": 4.519230769230769,
+          "MITI": 3.75,
+          "PSC": 4.761904761904762,
+          "TES": 7.037037037037037,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_10",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_10.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.25,
+          "HTAIS": 3.9423076923076925,
+          "MITI": 6.25,
+          "PSC": 7.1428571428571415,
+          "TES": 8.148148148148147,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_109",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_109.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 5.0,
+          "PSC": 4.523809523809524,
+          "TES": 7.592592592592592,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_110",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_110.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 7.5,
+          "PSC": 7.6190476190476195,
+          "TES": 8.703703703703702,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_112",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_112.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 6.25,
+          "PSC": 4.285714285714286,
+          "TES": 7.777777777777778,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_113",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_113.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 4.134615384615385,
+          "MITI": 5.0,
+          "PSC": 4.523809523809524,
+          "TES": 6.111111111111112,
+          "WAI": 3.9583333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_111",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_111.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 6.730769230769231,
+          "MITI": 8.125,
+          "PSC": 5.714285714285714,
+          "TES": 5.555555555555555,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_114",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_114.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.673076923076923,
+          "MITI": 5.625,
+          "PSC": 6.19047619047619,
+          "TES": 7.777777777777778,
+          "WAI": 3.9583333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_127",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_127.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "error": "division by zero",
+      "full_error": "Error evaluating session 1: division by zero\nTraceback: Traceback (most recent call last):\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 379, in process_single_file_thread\n    results = loop.run_until_complete(self.evaluate_single(test_case))\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda/envs/data/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 667, in evaluate_single\n    evaluations = await asyncio.gather(*tasks)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 661, in run_evaluation\n    score = await method.evaluate(gpt_api, formatted_dialogue, profile)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/methods/counselor/htais.py\", line 66, in evaluate\n    mean_score /= len(scores)\nZeroDivisionError: division by zero\n",
+      "evaluation_results": {},
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_12",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_12.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.769230769230769,
+          "HTAIS": 3.8461538461538463,
+          "MITI": 5.625,
+          "PSC": 8.095238095238097,
+          "TES": 8.518518518518517,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_123",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_123.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.173076923076923,
+          "HTAIS": 5.673076923076923,
+          "MITI": 7.5,
+          "PSC": 7.142857142857143,
+          "TES": 8.88888888888889,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_115",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_115.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.173076923076923,
+          "HTAIS": 5.288461538461538,
+          "MITI": 6.25,
+          "PSC": 7.142857142857143,
+          "TES": 9.444444444444443,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_116",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_116.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.038461538461538,
+          "HTAIS": 4.711538461538462,
+          "MITI": 6.875,
+          "PSC": 6.666666666666666,
+          "TES": 7.962962962962964,
+          "WAI": 3.3333333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_119",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_119.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.38461538461538464,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 6.875,
+          "PSC": 7.142857142857144,
+          "TES": 8.88888888888889,
+          "WAI": 6.666666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_118",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_118.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 4.326923076923077,
+          "MITI": 4.375,
+          "PSC": 5.714285714285714,
+          "TES": 8.518518518518519,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_122",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_122.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.615384615384615,
+          "HTAIS": 4.903846153846154,
+          "MITI": 5.0,
+          "PSC": 6.428571428571429,
+          "TES": 6.851851851851851,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_117",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_117.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.8461538461538463,
+          "HTAIS": 3.8461538461538463,
+          "MITI": 5.625,
+          "PSC": 7.61904761904762,
+          "TES": 8.88888888888889,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_121",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_121.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 4.423076923076923,
+          "MITI": 3.75,
+          "PSC": 4.761904761904761,
+          "TES": 7.037037037037038,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_124",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_124.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 4.423076923076923,
+          "MITI": 5.0,
+          "PSC": 4.523809523809524,
+          "TES": 5.740740740740741,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_120",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_120.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 4.615384615384615,
+          "MITI": 6.25,
+          "PSC": 6.42857142857143,
+          "TES": 7.5925925925925934,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_128",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_128.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.288461538461538,
+          "MITI": 5.625,
+          "PSC": 5.0,
+          "TES": 6.851851851851853,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_125",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_125.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.384615384615385,
+          "MITI": 5.625,
+          "PSC": 4.523809523809524,
+          "TES": 5.925925925925926,
+          "WAI": 2.7083333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_129",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_129.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 8.125,
+          "PSC": 5.476190476190476,
+          "TES": 7.777777777777778,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_126",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_126.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 5.0,
+          "TES": 7.592592592592592,
+          "WAI": 6.875
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_13",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_13.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.038461538461538,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 5.0,
+          "PSC": 5.7142857142857135,
+          "TES": 8.518518518518519,
+          "WAI": 3.125
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_132",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_132.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 4.326923076923077,
+          "MITI": 6.25,
+          "PSC": 4.2857142857142865,
+          "TES": 7.7777777777777795,
+          "WAI": 1.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_130",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_130.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.25,
+          "PSC": 6.904761904761905,
+          "TES": 9.25925925925926,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_133",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_133.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 4.903846153846154,
+          "MITI": 6.25,
+          "PSC": 5.476190476190476,
+          "TES": 6.851851851851852,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_131",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_131.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.0,
+          "HTAIS": 5.096153846153846,
+          "MITI": 6.25,
+          "PSC": 5.0,
+          "TES": 6.296296296296297,
+          "WAI": 3.3333333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_135",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_135.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.615384615384615,
+          "HTAIS": 4.423076923076923,
+          "MITI": 6.875,
+          "PSC": 6.190476190476192,
+          "TES": 10.0,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_136",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_136.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.8461538461538463,
+          "HTAIS": 4.519230769230769,
+          "MITI": 4.375,
+          "PSC": 6.190476190476191,
+          "TES": 7.222222222222222,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_134",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_134.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 6.25,
+          "PSC": 5.952380952380953,
+          "TES": 8.148148148148149,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_139",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_139.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.25,
+          "PSC": 5.7142857142857135,
+          "TES": 8.703703703703702,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_138",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_138.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 6.538461538461538,
+          "HTAIS": 5.288461538461538,
+          "MITI": 6.25,
+          "PSC": 7.142857142857143,
+          "TES": 7.222222222222222,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_14",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_14.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.9423076923076925,
+          "HTAIS": 6.153846153846154,
+          "MITI": 7.5,
+          "PSC": 6.428571428571429,
+          "TES": 7.407407407407408,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_140",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_140.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.576923076923077,
+          "MITI": 4.375,
+          "PSC": 5.714285714285714,
+          "TES": 6.296296296296296,
+          "WAI": 2.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_141",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_141.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.0,
+          "MITI": 7.5,
+          "PSC": 7.3809523809523805,
+          "TES": 8.333333333333334,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_142",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_142.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.19230769230769232,
+          "HTAIS": 4.134615384615385,
+          "MITI": 4.375,
+          "PSC": 3.8095238095238093,
+          "TES": 7.222222222222222,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_137",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_137.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.875,
+          "PSC": 8.333333333333334,
+          "TES": 8.518518518518519,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_144",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_144.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 4.519230769230769,
+          "MITI": 5.625,
+          "PSC": 5.238095238095238,
+          "TES": 7.777777777777778,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_148",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_148.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.673076923076923,
+          "MITI": 6.25,
+          "PSC": 7.142857142857144,
+          "TES": 10.0,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_149",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_149.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.0,
+          "PSC": 4.285714285714286,
+          "TES": 6.481481481481482,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_143",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_143.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 4.711538461538462,
+          "MITI": 8.75,
+          "PSC": 6.904761904761905,
+          "TES": 8.88888888888889,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_147",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_147.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.961538461538462,
+          "HTAIS": 5.673076923076923,
+          "MITI": 7.5,
+          "PSC": 8.095238095238097,
+          "TES": 8.88888888888889,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_145",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_145.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.673076923076923,
+          "MITI": 5.625,
+          "PSC": 5.952380952380952,
+          "TES": 7.777777777777778,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_146",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_146.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 3.8461538461538463,
+          "MITI": 6.25,
+          "PSC": 8.095238095238097,
+          "TES": 7.962962962962964,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_15",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_15.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.0,
+          "HTAIS": 6.153846153846154,
+          "MITI": 6.25,
+          "PSC": 6.428571428571429,
+          "TES": 8.148148148148147,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_150",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_150.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 4.903846153846154,
+          "MITI": 4.375,
+          "PSC": 3.095238095238095,
+          "TES": 6.48148148148148,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_151",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_151.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 4.423076923076923,
+          "MITI": 7.5,
+          "PSC": 7.857142857142857,
+          "TES": 8.333333333333334,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_152",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_152.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.980769230769231,
+          "HTAIS": 4.519230769230769,
+          "MITI": 5.0,
+          "PSC": 5.0,
+          "TES": 5.925925925925926,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_154",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_154.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.0,
+          "MITI": 5.625,
+          "PSC": 4.047619047619048,
+          "TES": 7.407407407407408,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_153",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_153.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.096153846153846,
+          "MITI": 5.625,
+          "PSC": 7.3809523809523805,
+          "TES": 7.4074074074074066,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_155",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_155.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.25,
+          "PSC": 6.428571428571429,
+          "TES": 7.962962962962964,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_159",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_159.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.5769230769230769,
+          "HTAIS": 4.038461538461538,
+          "MITI": 8.125,
+          "PSC": 4.523809523809524,
+          "TES": 7.4074074074074066,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_156",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_156.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 3.6538461538461537,
+          "MITI": 5.625,
+          "PSC": 3.333333333333333,
+          "TES": 7.592592592592592,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_16",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_16.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 3.8461538461538463,
+          "MITI": 5.0,
+          "PSC": 5.476190476190475,
+          "TES": 6.851851851851851,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_160",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_160.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 6.875,
+          "PSC": 8.80952380952381,
+          "TES": 8.518518518518519,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_157",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_157.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 5.238095238095238,
+          "TES": 8.88888888888889,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_161",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_161.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 6.730769230769231,
+          "MITI": 6.25,
+          "PSC": 5.238095238095239,
+          "TES": 7.407407407407408,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_158",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_158.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 6.153846153846154,
+          "MITI": 6.875,
+          "PSC": 5.952380952380952,
+          "TES": 6.111111111111111,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_175",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_175.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "error": "division by zero",
+      "full_error": "Error evaluating session 1: division by zero\nTraceback: Traceback (most recent call last):\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 379, in process_single_file_thread\n    results = loop.run_until_complete(self.evaluate_single(test_case))\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda/envs/data/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 667, in evaluate_single\n    evaluations = await asyncio.gather(*tasks)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 661, in run_evaluation\n    score = await method.evaluate(gpt_api, formatted_dialogue, profile)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/methods/counselor/wai.py\", line 64, in evaluate\n    mean_score /= len(scores)\nZeroDivisionError: division by zero\n",
+      "evaluation_results": {},
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_162",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_162.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.9615384615384616,
+          "HTAIS": 6.153846153846154,
+          "MITI": 5.625,
+          "PSC": 7.3809523809523805,
+          "TES": 6.851851851851851,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_163",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_163.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.4615384615384617,
+          "HTAIS": 5.480769230769231,
+          "MITI": 5.625,
+          "PSC": 7.142857142857143,
+          "TES": 7.777777777777778,
+          "WAI": 7.916666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_164",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_164.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 5.961538461538462,
+          "MITI": 9.375,
+          "PSC": 8.095238095238097,
+          "TES": 9.814814814814817,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_165",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_165.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 5.865384615384615,
+          "MITI": 8.125,
+          "PSC": 8.333333333333334,
+          "TES": 9.074074074074074,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_166",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_166.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 2.2115384615384617,
+          "MITI": 6.875,
+          "PSC": 7.380952380952382,
+          "TES": 8.148148148148149,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_168",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_168.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 5.961538461538462,
+          "MITI": 7.5,
+          "PSC": 8.80952380952381,
+          "TES": 8.518518518518519,
+          "WAI": 0.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_167",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_167.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 5.769230769230769,
+          "MITI": 5.625,
+          "PSC": 4.0476190476190474,
+          "TES": 6.851851851851851,
+          "WAI": 3.3333333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_169",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_169.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.9615384615384616,
+          "HTAIS": 5.096153846153846,
+          "MITI": 6.875,
+          "PSC": 5.714285714285714,
+          "TES": 7.037037037037036,
+          "WAI": 7.083333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_17",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_17.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.19230769230769232,
+          "HTAIS": 4.134615384615385,
+          "MITI": 6.875,
+          "PSC": 6.190476190476191,
+          "TES": 7.592592592592592,
+          "WAI": 1.0416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_171",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_171.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 5.961538461538462,
+          "MITI": 7.5,
+          "PSC": 5.952380952380953,
+          "TES": 8.148148148148149,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_170",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_170.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.480769230769231,
+          "MITI": 5.625,
+          "PSC": 5.238095238095239,
+          "TES": 6.666666666666666,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_173",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_173.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.384615384615385,
+          "HTAIS": 4.038461538461538,
+          "MITI": 5.0,
+          "PSC": 4.285714285714286,
+          "TES": 8.703703703703702,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_174",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_174.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.4615384615384617,
+          "HTAIS": 5.576923076923077,
+          "MITI": 8.125,
+          "PSC": 6.666666666666667,
+          "TES": 7.222222222222222,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_176",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_176.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 4.615384615384615,
+          "MITI": 6.875,
+          "PSC": 5.476190476190475,
+          "TES": 6.851851851851852,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_177",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_177.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 6.538461538461538,
+          "MITI": 8.75,
+          "PSC": 6.190476190476191,
+          "TES": 9.444444444444445,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_179",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_179.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 7.5,
+          "PSC": 7.380952380952381,
+          "TES": 9.62962962962963,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_178",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_178.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 5.576923076923077,
+          "MITI": 5.0,
+          "PSC": 5.952380952380951,
+          "TES": 6.851851851851853,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_172",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_172.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.384615384615385,
+          "HTAIS": 5.576923076923077,
+          "MITI": 7.5,
+          "PSC": 5.714285714285714,
+          "TES": 8.88888888888889,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_18",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_18.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 5.238095238095238,
+          "TES": 8.148148148148149,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_184",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_184.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.19230769230769232,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 6.25,
+          "PSC": 6.666666666666666,
+          "TES": 6.481481481481481,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_182",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_182.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 6.25,
+          "PSC": 5.714285714285714,
+          "TES": 7.037037037037037,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_181",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_181.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 6.25,
+          "PSC": 6.666666666666666,
+          "TES": 8.518518518518519,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_183",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_183.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.173076923076923,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.0,
+          "PSC": 5.714285714285714,
+          "TES": 7.5925925925925934,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_185",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_185.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.875,
+          "PSC": 6.666666666666666,
+          "TES": 7.777777777777778,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_186",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_186.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 6.153846153846154,
+          "HTAIS": 6.826923076923077,
+          "MITI": 5.625,
+          "PSC": 6.904761904761905,
+          "TES": 8.148148148148149,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_187",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_187.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.4615384615384617,
+          "HTAIS": 3.8461538461538463,
+          "MITI": 3.75,
+          "PSC": 6.666666666666666,
+          "TES": 7.037037037037037,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_188",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_188.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.288461538461538,
+          "MITI": 6.875,
+          "PSC": 7.142857142857143,
+          "TES": 8.148148148148149,
+          "WAI": 6.875
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_189",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_189.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.7692307692307693,
+          "HTAIS": 5.480769230769231,
+          "MITI": 7.5,
+          "PSC": 7.6190476190476195,
+          "TES": 7.4074074074074066,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_19",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_19.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 4.134615384615385,
+          "MITI": 5.0,
+          "PSC": 4.523809523809524,
+          "TES": 5.5555555555555545,
+          "WAI": 2.2916666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_180",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_180.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.384615384615385,
+          "HTAIS": 5.480769230769231,
+          "MITI": 6.25,
+          "PSC": 6.904761904761905,
+          "TES": 6.851851851851853,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_190",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_190.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.711538461538462,
+          "HTAIS": 5.480769230769231,
+          "MITI": 7.5,
+          "PSC": 7.3809523809523805,
+          "TES": 7.962962962962964,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_192",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_192.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.384615384615385,
+          "HTAIS": 5.480769230769231,
+          "MITI": 6.25,
+          "PSC": 5.476190476190476,
+          "TES": 8.333333333333334,
+          "WAI": 2.7083333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_193",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_193.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.096153846153846,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.875,
+          "PSC": 5.952380952380951,
+          "TES": 7.037037037037038,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_194",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_194.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 5.384615384615385,
+          "MITI": 7.5,
+          "PSC": 6.904761904761905,
+          "TES": 8.518518518518519,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_195",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_195.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 5.0,
+          "MITI": 6.25,
+          "PSC": 4.285714285714285,
+          "TES": 6.111111111111111,
+          "WAI": 1.4583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_191",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_191.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 5.576923076923077,
+          "MITI": 4.375,
+          "PSC": 4.285714285714286,
+          "TES": 6.851851851851852,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_196",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_196.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.19230769230769232,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 5.625,
+          "PSC": 4.285714285714286,
+          "TES": 4.999999999999999,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_197",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_197.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 6.25,
+          "PSC": 3.8095238095238098,
+          "TES": 6.666666666666668,
+          "WAI": 3.9583333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_198",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_198.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 4.903846153846154,
+          "MITI": 4.375,
+          "PSC": 6.428571428571429,
+          "TES": 7.407407407407408,
+          "WAI": 2.2916666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_199",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_199.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.096153846153846,
+          "MITI": 8.75,
+          "PSC": 6.666666666666666,
+          "TES": 8.703703703703704,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_2",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_2.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.038461538461538,
+          "HTAIS": 2.5961538461538463,
+          "MITI": 2.5,
+          "PSC": 4.285714285714286,
+          "TES": 4.62962962962963,
+          "WAI": 3.3333333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_20",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_20.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 3.3653846153846154,
+          "MITI": 6.25,
+          "PSC": 4.761904761904761,
+          "TES": 8.148148148148147,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_200",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_200.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 5.769230769230769,
+          "MITI": 6.25,
+          "PSC": 6.666666666666665,
+          "TES": 6.851851851851851,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_201",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_201.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.0,
+          "HTAIS": 3.9423076923076925,
+          "MITI": 2.5,
+          "PSC": 3.5714285714285716,
+          "TES": 6.851851851851851,
+          "WAI": 3.3333333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_202",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_202.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 8.75,
+          "PSC": 7.6190476190476195,
+          "TES": 8.518518518518519,
+          "WAI": 7.083333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_203",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_203.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 5.865384615384615,
+          "MITI": 7.5,
+          "PSC": 6.666666666666666,
+          "TES": 9.074074074074074,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_204",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_204.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.3076923076923075,
+          "HTAIS": 5.576923076923077,
+          "MITI": 7.5,
+          "PSC": 6.666666666666667,
+          "TES": 6.666666666666666,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_205",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_205.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.576923076923077,
+          "MITI": 3.75,
+          "PSC": 6.666666666666666,
+          "TES": 6.851851851851852,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_21",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_21.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.576923076923077,
+          "MITI": 5.625,
+          "PSC": 6.190476190476191,
+          "TES": 8.518518518518519,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_206",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_206.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 6.634615384615385,
+          "MITI": 8.125,
+          "PSC": 6.19047619047619,
+          "TES": 8.88888888888889,
+          "WAI": 6.458333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_207",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_207.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 4.375,
+          "PSC": 7.1428571428571415,
+          "TES": 7.7777777777777795,
+          "WAI": 2.9166666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_208",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_208.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 4.134615384615385,
+          "MITI": 4.375,
+          "PSC": 4.761904761904761,
+          "TES": 6.296296296296296,
+          "WAI": 3.9583333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_209",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_209.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 5.961538461538462,
+          "MITI": 8.75,
+          "PSC": 8.571428571428573,
+          "TES": 9.074074074074074,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_223",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_223.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "error": "division by zero",
+      "full_error": "Error evaluating session 1: division by zero\nTraceback: Traceback (most recent call last):\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 379, in process_single_file_thread\n    results = loop.run_until_complete(self.evaluate_single(test_case))\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda/envs/data/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 667, in evaluate_single\n    evaluations = await asyncio.gather(*tasks)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 661, in run_evaluation\n    score = await method.evaluate(gpt_api, formatted_dialogue, profile)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/methods/counselor/eft_tfs.py\", line 65, in evaluate\n    mean_score /= len(scores)\nZeroDivisionError: division by zero\n",
+      "evaluation_results": {},
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_210",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_210.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.0,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.0,
+          "PSC": 6.190476190476191,
+          "TES": 9.444444444444445,
+          "WAI": 1.6666666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_211",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_211.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.5769230769230769,
+          "HTAIS": 5.576923076923077,
+          "MITI": 9.375,
+          "PSC": 6.904761904761905,
+          "TES": 8.703703703703702,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_212",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_212.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 5.673076923076923,
+          "MITI": 7.5,
+          "PSC": 7.857142857142857,
+          "TES": 8.88888888888889,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_213",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_213.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.576923076923077,
+          "HTAIS": 3.6538461538461537,
+          "MITI": 6.875,
+          "PSC": 7.380952380952381,
+          "TES": 7.962962962962964,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_228",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_228.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "error": "division by zero",
+      "full_error": "Error evaluating session 1: division by zero\nTraceback: Traceback (most recent call last):\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 379, in process_single_file_thread\n    results = loop.run_until_complete(self.evaluate_single(test_case))\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda/envs/data/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 667, in evaluate_single\n    evaluations = await asyncio.gather(*tasks)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 661, in run_evaluation\n    score = await method.evaluate(gpt_api, formatted_dialogue, profile)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/methods/counselor/wai.py\", line 64, in evaluate\n    mean_score /= len(scores)\nZeroDivisionError: division by zero\n",
+      "evaluation_results": {},
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_214",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_214.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 1.9230769230769231,
+          "MITI": 4.375,
+          "PSC": 6.666666666666667,
+          "TES": 7.777777777777778,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_215",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_215.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 6.666666666666666,
+          "TES": 7.962962962962964,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_216",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_216.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.875,
+          "PSC": 7.142857142857144,
+          "TES": 8.148148148148147,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_219",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_219.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.3076923076923075,
+          "HTAIS": 5.769230769230769,
+          "MITI": 7.5,
+          "PSC": 5.714285714285714,
+          "TES": 7.5925925925925934,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_217",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_217.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.673076923076923,
+          "MITI": 5.625,
+          "PSC": 5.238095238095239,
+          "TES": 7.407407407407408,
+          "WAI": 2.7083333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_218",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_218.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 5.769230769230769,
+          "MITI": 6.875,
+          "PSC": 6.428571428571429,
+          "TES": 8.88888888888889,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_221",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_221.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.961538461538462,
+          "MITI": 5.625,
+          "PSC": 4.761904761904761,
+          "TES": 7.222222222222222,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_22",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_22.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.384615384615385,
+          "HTAIS": 5.288461538461538,
+          "MITI": 5.625,
+          "PSC": 5.952380952380952,
+          "TES": 7.222222222222222,
+          "WAI": 2.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_220",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_220.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.7692307692307693,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.875,
+          "PSC": 4.761904761904761,
+          "TES": 7.407407407407408,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_222",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_222.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 5.096153846153846,
+          "MITI": 8.75,
+          "PSC": 7.380952380952381,
+          "TES": 8.88888888888889,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_224",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_224.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 4.326923076923077,
+          "MITI": 3.75,
+          "PSC": 5.0,
+          "TES": 5.925925925925926,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_225",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_225.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 5.288461538461538,
+          "MITI": 5.625,
+          "PSC": 6.666666666666666,
+          "TES": 9.62962962962963,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_226",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_226.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 5.961538461538462,
+          "MITI": 9.375,
+          "PSC": 6.42857142857143,
+          "TES": 8.518518518518519,
+          "WAI": 9.583333333333334
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_227",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_227.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.3653846153846154,
+          "HTAIS": 5.384615384615385,
+          "MITI": 5.0,
+          "PSC": 6.904761904761905,
+          "TES": 7.777777777777778,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_231",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_231.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 6.25,
+          "PSC": 6.904761904761905,
+          "TES": 9.074074074074074,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_229",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_229.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 5.865384615384615,
+          "MITI": 7.5,
+          "PSC": 6.19047619047619,
+          "TES": 7.2222222222222205,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_23",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_23.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 4.038461538461538,
+          "MITI": 5.0,
+          "PSC": 6.428571428571429,
+          "TES": 6.851851851851851,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_230",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_230.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.0,
+          "HTAIS": 5.096153846153846,
+          "MITI": 5.625,
+          "PSC": 4.761904761904761,
+          "TES": 4.814814814814815,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_234",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_234.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.0,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 9.375,
+          "PSC": 8.333333333333334,
+          "TES": 9.62962962962963,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_232",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_232.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 5.0,
+          "MITI": 5.625,
+          "PSC": 6.666666666666667,
+          "TES": 8.333333333333334,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_233",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_233.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.288461538461538,
+          "MITI": 8.125,
+          "PSC": 6.666666666666667,
+          "TES": 9.25925925925926,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_235",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_235.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 5.673076923076923,
+          "MITI": 8.125,
+          "PSC": 7.8571428571428585,
+          "TES": 8.703703703703702,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_236",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_236.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.25,
+          "PSC": 6.904761904761905,
+          "TES": 8.518518518518519,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_237",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_237.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 6.19047619047619,
+          "TES": 7.222222222222222,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_240",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_240.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 4.423076923076923,
+          "MITI": 5.625,
+          "PSC": 5.714285714285714,
+          "TES": 7.037037037037037,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_238",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_238.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 6.923076923076923,
+          "MITI": 5.0,
+          "PSC": 5.952380952380951,
+          "TES": 7.407407407407408,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_239",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_239.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 6.730769230769231,
+          "MITI": 8.75,
+          "PSC": 7.6190476190476195,
+          "TES": 8.703703703703704,
+          "WAI": 9.166666666666666
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_241",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_241.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 4.519230769230769,
+          "MITI": 7.5,
+          "PSC": 6.904761904761905,
+          "TES": 7.962962962962964,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_24",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_24.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.480769230769231,
+          "MITI": 2.5,
+          "PSC": 5.238095238095239,
+          "TES": 6.296296296296298,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_242",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_242.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 4.519230769230769,
+          "MITI": 6.875,
+          "PSC": 6.428571428571429,
+          "TES": 8.333333333333334,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_243",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_243.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.038461538461538,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 5.0,
+          "PSC": 7.142857142857143,
+          "TES": 9.444444444444445,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_244",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_244.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.865384615384615,
+          "MITI": 6.875,
+          "PSC": 6.666666666666666,
+          "TES": 6.851851851851853,
+          "WAI": 1.875
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_245",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_245.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.5576923076923075,
+          "HTAIS": 5.384615384615385,
+          "MITI": 4.375,
+          "PSC": 7.380952380952381,
+          "TES": 9.074074074074074,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_246",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_246.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.7692307692307693,
+          "HTAIS": 3.6538461538461537,
+          "MITI": 4.375,
+          "PSC": 3.8095238095238093,
+          "TES": 8.148148148148147,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_247",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_247.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.519230769230769,
+          "HTAIS": 5.384615384615385,
+          "MITI": 7.5,
+          "PSC": 7.857142857142857,
+          "TES": 8.148148148148147,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_248",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_248.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 5.480769230769231,
+          "MITI": 6.25,
+          "PSC": 6.666666666666667,
+          "TES": 7.407407407407408,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_249",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_249.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.615384615384615,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 6.875,
+          "PSC": 5.476190476190476,
+          "TES": 7.407407407407408,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_25",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_25.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 5.625,
+          "PSC": 5.7142857142857135,
+          "TES": 7.592592592592592,
+          "WAI": 3.3333333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_250",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_250.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5961538461538463,
+          "HTAIS": 5.673076923076923,
+          "MITI": 6.25,
+          "PSC": 6.904761904761905,
+          "TES": 8.518518518518519,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_251",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_251.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 7.5,
+          "PSC": 6.666666666666666,
+          "TES": 7.5925925925925934,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_252",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_252.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.4038461538461537,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 6.875,
+          "PSC": 7.142857142857144,
+          "TES": 8.703703703703702,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_253",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_253.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.25,
+          "PSC": 6.42857142857143,
+          "TES": 7.962962962962964,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_257",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_257.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 4.519230769230769,
+          "MITI": 4.375,
+          "PSC": 6.428571428571428,
+          "TES": 6.666666666666667,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_255",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_255.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.1923076923076925,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 6.25,
+          "PSC": 6.190476190476191,
+          "TES": 9.074074074074074,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_256",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_256.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 5.625,
+          "PSC": 5.0,
+          "TES": 6.851851851851851,
+          "WAI": 3.125
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_258",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_258.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 5.673076923076923,
+          "MITI": 6.25,
+          "PSC": 7.3809523809523805,
+          "TES": 8.148148148148147,
+          "WAI": 7.083333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_259",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_259.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 6.730769230769231,
+          "MITI": 6.875,
+          "PSC": 6.19047619047619,
+          "TES": 7.5925925925925934,
+          "WAI": 6.458333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_26",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_26.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.4038461538461537,
+          "HTAIS": 6.346153846153846,
+          "MITI": 8.75,
+          "PSC": 7.619047619047619,
+          "TES": 9.444444444444445,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_254",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_254.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 4.038461538461538,
+          "MITI": 7.5,
+          "PSC": 7.142857142857143,
+          "TES": 8.518518518518519,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_260",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_260.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.7692307692307693,
+          "HTAIS": 5.480769230769231,
+          "MITI": 7.5,
+          "PSC": 5.952380952380953,
+          "TES": 7.037037037037037,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_262",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_262.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.961538461538462,
+          "MITI": 6.875,
+          "PSC": 5.714285714285714,
+          "TES": 8.518518518518519,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_264",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_264.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 6.826923076923077,
+          "MITI": 7.5,
+          "PSC": 6.904761904761904,
+          "TES": 7.407407407407408,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_267",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_267.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 5.769230769230769,
+          "MITI": 7.5,
+          "PSC": 5.0,
+          "TES": 9.074074074074073,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_263",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_263.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.288461538461538,
+          "MITI": 6.25,
+          "PSC": 5.238095238095238,
+          "TES": 7.5925925925925934,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_261",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_261.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 4.038461538461538,
+          "MITI": 5.0,
+          "PSC": 4.285714285714286,
+          "TES": 7.777777777777778,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_265",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_265.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.0,
+          "HTAIS": 4.519230769230769,
+          "MITI": 5.0,
+          "PSC": 4.523809523809524,
+          "TES": 7.407407407407408,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_266",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_266.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 8.125,
+          "PSC": 7.380952380952381,
+          "TES": 8.148148148148149,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_268",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_268.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 4.615384615384615,
+          "MITI": 4.375,
+          "PSC": 5.238095238095239,
+          "TES": 6.666666666666667,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_269",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_269.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.961538461538462,
+          "HTAIS": 4.423076923076923,
+          "MITI": 7.5,
+          "PSC": 5.952380952380952,
+          "TES": 8.88888888888889,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_271",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_271.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 5.961538461538462,
+          "MITI": 6.875,
+          "PSC": 5.952380952380951,
+          "TES": 8.333333333333334,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_27",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_27.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 3.9423076923076925,
+          "MITI": 3.75,
+          "PSC": 6.190476190476191,
+          "TES": 7.592592592592592,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_270",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_270.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 4.519230769230769,
+          "MITI": 3.75,
+          "PSC": 4.285714285714286,
+          "TES": 6.851851851851851,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_273",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_273.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.4615384615384617,
+          "HTAIS": 4.326923076923077,
+          "MITI": 5.0,
+          "PSC": 6.666666666666666,
+          "TES": 8.333333333333336,
+          "WAI": 2.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_274",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_274.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 5.476190476190476,
+          "TES": 6.48148148148148,
+          "WAI": 3.9583333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_275",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_275.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 8.125,
+          "PSC": 6.190476190476191,
+          "TES": 8.703703703703702,
+          "WAI": 8.125
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_272",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_272.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 4.903846153846154,
+          "MITI": 5.0,
+          "PSC": 7.3809523809523805,
+          "TES": 7.962962962962962,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_276",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_276.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 4.615384615384615,
+          "MITI": 5.625,
+          "PSC": 4.523809523809524,
+          "TES": 5.925925925925926,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_277",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_277.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.096153846153846,
+          "MITI": 6.875,
+          "PSC": 6.666666666666665,
+          "TES": 8.148148148148147,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_278",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_278.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.865384615384615,
+          "MITI": 5.0,
+          "PSC": 4.761904761904761,
+          "TES": 7.777777777777778,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_279",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_279.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 7.5,
+          "PSC": 6.904761904761904,
+          "TES": 9.25925925925926,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_28",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_28.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 4.423076923076923,
+          "MITI": 4.375,
+          "PSC": 4.523809523809524,
+          "TES": 7.037037037037038,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_280",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_280.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.038461538461538,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 6.875,
+          "PSC": 5.476190476190476,
+          "TES": 7.407407407407408,
+          "WAI": 8.125
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_281",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_281.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 6.153846153846154,
+          "HTAIS": 5.096153846153846,
+          "MITI": 5.0,
+          "PSC": 5.476190476190475,
+          "TES": 6.111111111111111,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_282",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_282.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.0,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.0,
+          "PSC": 5.476190476190475,
+          "TES": 6.666666666666667,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_283",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_283.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.615384615384615,
+          "MITI": 5.625,
+          "PSC": 7.6190476190476195,
+          "TES": 8.148148148148149,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_284",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_284.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.3653846153846154,
+          "HTAIS": 5.769230769230769,
+          "MITI": 6.875,
+          "PSC": 6.904761904761904,
+          "TES": 7.777777777777778,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_285",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_285.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.9615384615384616,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 7.5,
+          "PSC": 7.3809523809523805,
+          "TES": 6.481481481481482,
+          "WAI": 2.3076923076923075
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_286",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_286.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 6.923076923076923,
+          "MITI": 7.5,
+          "PSC": 6.904761904761905,
+          "TES": 7.4074074074074066,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_287",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_287.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.4615384615384617,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 6.428571428571429,
+          "TES": 7.2222222222222205,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_29",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_29.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.8461538461538463,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 8.125,
+          "PSC": 8.095238095238095,
+          "TES": 7.962962962962964,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_288",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_288.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.096153846153846,
+          "HTAIS": 5.576923076923077,
+          "MITI": 8.125,
+          "PSC": 7.8571428571428585,
+          "TES": 8.703703703703704,
+          "WAI": 7.291666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_289",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_289.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 4.615384615384615,
+          "MITI": 5.625,
+          "PSC": 6.666666666666666,
+          "TES": 7.962962962962964,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_290",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_290.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.038461538461538,
+          "HTAIS": 5.961538461538462,
+          "MITI": 8.75,
+          "PSC": 8.333333333333334,
+          "TES": 8.518518518518519,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_291",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_291.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.0,
+          "HTAIS": 5.576923076923077,
+          "MITI": 8.125,
+          "PSC": 8.095238095238097,
+          "TES": 9.074074074074074,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_292",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_292.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.25,
+          "PSC": 6.428571428571429,
+          "TES": 8.333333333333334,
+          "WAI": 2.2916666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_293",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_293.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.25,
+          "PSC": 5.952380952380952,
+          "TES": 8.333333333333334,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_294",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_294.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.25,
+          "PSC": 6.190476190476191,
+          "TES": 7.777777777777778,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_295",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_295.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 5.576923076923077,
+          "MITI": 5.0,
+          "PSC": 7.1428571428571415,
+          "TES": 7.777777777777778,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_296",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_296.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 3.8461538461538463,
+          "MITI": 5.0,
+          "PSC": 4.047619047619047,
+          "TES": 6.111111111111112,
+          "WAI": 2.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_297",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_297.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.4615384615384617,
+          "HTAIS": 4.8076923076923075,
+          "MITI": 5.0,
+          "PSC": 6.19047619047619,
+          "TES": 6.851851851851852,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_298",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_298.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 3.3653846153846154,
+          "MITI": 6.875,
+          "PSC": 5.238095238095236,
+          "TES": 7.222222222222222,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_299",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_299.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 4.711538461538462,
+          "MITI": 6.25,
+          "PSC": 5.952380952380953,
+          "TES": 7.4074074074074066,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_3",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_3.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 5.673076923076923,
+          "MITI": 4.375,
+          "PSC": 5.714285714285714,
+          "TES": 7.592592592592592,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_30",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_30.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.519230769230769,
+          "MITI": 4.375,
+          "PSC": 5.0,
+          "TES": 8.333333333333334,
+          "WAI": 2.2916666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_31",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_31.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.3653846153846154,
+          "HTAIS": 5.096153846153846,
+          "MITI": 6.875,
+          "PSC": 7.142857142857143,
+          "TES": 9.62962962962963,
+          "WAI": 2.7083333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_32",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_32.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.5769230769230769,
+          "HTAIS": 4.230769230769231,
+          "MITI": 6.25,
+          "PSC": 5.476190476190475,
+          "TES": 6.296296296296296,
+          "WAI": 7.291666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_33",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_33.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 5.288461538461538,
+          "MITI": 5.625,
+          "PSC": 5.952380952380952,
+          "TES": 6.666666666666666,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_47",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_47.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "error": "division by zero",
+      "full_error": "Error evaluating session 1: division by zero\nTraceback: Traceback (most recent call last):\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 379, in process_single_file_thread\n    results = loop.run_until_complete(self.evaluate_single(test_case))\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda/envs/data/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 667, in evaluate_single\n    evaluations = await asyncio.gather(*tasks)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 661, in run_evaluation\n    score = await method.evaluate(gpt_api, formatted_dialogue, profile)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/methods/counselor/eft_tfs.py\", line 65, in evaluate\n    mean_score /= len(scores)\nZeroDivisionError: division by zero\n",
+      "evaluation_results": {},
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_34",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_34.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 5.238095238095238,
+          "TES": 7.222222222222224,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_35",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_35.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.25,
+          "PSC": 8.095238095238097,
+          "TES": 8.518518518518517,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_36",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_36.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 5.096153846153846,
+          "MITI": 3.125,
+          "PSC": 5.952380952380952,
+          "TES": 6.481481481481482,
+          "WAI": 1.6666666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_37",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_37.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 3.75,
+          "MITI": 7.5,
+          "PSC": 6.904761904761905,
+          "TES": 8.148148148148147,
+          "WAI": 6.458333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_38",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_38.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.384615384615385,
+          "MITI": 5.625,
+          "PSC": 8.333333333333334,
+          "TES": 8.148148148148147,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_39",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_39.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 4.903846153846154,
+          "MITI": 5.625,
+          "PSC": 5.7142857142857135,
+          "TES": 6.851851851851853,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_4",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_4.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.615384615384615,
+          "MITI": 4.375,
+          "PSC": 6.190476190476191,
+          "TES": 6.481481481481482,
+          "WAI": 3.3333333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_40",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_40.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.3076923076923075,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.625,
+          "PSC": 6.666666666666666,
+          "TES": 8.518518518518519,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_42",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_42.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 5.0,
+          "MITI": 5.0,
+          "PSC": 6.666666666666666,
+          "TES": 8.518518518518519,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_41",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_41.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.903846153846154,
+          "MITI": 5.0,
+          "PSC": 4.523809523809524,
+          "TES": 6.111111111111111,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_43",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_43.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 5.480769230769231,
+          "MITI": 5.625,
+          "PSC": 8.333333333333334,
+          "TES": 8.703703703703704,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_44",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_44.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 3.3653846153846154,
+          "MITI": 6.25,
+          "PSC": 6.666666666666666,
+          "TES": 7.777777777777778,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_45",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_45.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 4.519230769230769,
+          "MITI": 7.5,
+          "PSC": 7.8571428571428585,
+          "TES": 8.333333333333334,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_46",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_46.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 6.153846153846154,
+          "HTAIS": 6.25,
+          "MITI": 7.5,
+          "PSC": 7.380952380952381,
+          "TES": 9.25925925925926,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_48",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_48.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.25,
+          "PSC": 6.19047619047619,
+          "TES": 7.962962962962964,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_51",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_51.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.25,
+          "PSC": 6.190476190476191,
+          "TES": 6.851851851851851,
+          "WAI": 2.9166666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_52",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_52.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.9230769230769231,
+          "HTAIS": 5.384615384615385,
+          "MITI": 8.125,
+          "PSC": 7.6190476190476195,
+          "TES": 9.444444444444445,
+          "WAI": 9.166666666666666
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_49",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_49.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 5.480769230769231,
+          "MITI": 7.5,
+          "PSC": 7.8571428571428585,
+          "TES": 8.333333333333336,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_5",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_5.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.0,
+          "PSC": 6.190476190476191,
+          "TES": 6.296296296296295,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_50",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_50.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.865384615384615,
+          "MITI": 6.25,
+          "PSC": 7.142857142857144,
+          "TES": 8.518518518518519,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_53",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_53.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.8461538461538463,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.875,
+          "PSC": 7.3809523809523805,
+          "TES": 8.518518518518519,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_54",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_54.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.5769230769230769,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.875,
+          "PSC": 6.42857142857143,
+          "TES": 7.962962962962964,
+          "WAI": 7.708333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_55",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_55.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.423076923076923,
+          "HTAIS": 5.961538461538462,
+          "MITI": 6.875,
+          "PSC": 6.904761904761906,
+          "TES": 7.777777777777778,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_56",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_56.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.8076923076923075,
+          "HTAIS": 5.673076923076923,
+          "MITI": 5.0,
+          "PSC": 6.190476190476191,
+          "TES": 7.407407407407408,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_57",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_57.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.384615384615385,
+          "MITI": 6.875,
+          "PSC": 5.238095238095239,
+          "TES": 8.333333333333334,
+          "WAI": 4.791666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_58",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_58.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.288461538461538,
+          "MITI": 6.875,
+          "PSC": 6.190476190476191,
+          "TES": 7.962962962962964,
+          "WAI": 3.9583333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_59",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_59.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 6.538461538461538,
+          "HTAIS": 6.153846153846154,
+          "MITI": 6.25,
+          "PSC": 8.571428571428571,
+          "TES": 8.333333333333334,
+          "WAI": 6.25
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_6",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_6.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 3.4615384615384617,
+          "MITI": 3.75,
+          "PSC": 6.19047619047619,
+          "TES": 5.37037037037037,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_60",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_60.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.038461538461538,
+          "HTAIS": 4.134615384615385,
+          "MITI": 6.25,
+          "PSC": 5.714285714285714,
+          "TES": 7.5925925925925934,
+          "WAI": 3.75
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_63",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_63.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.1923076923076925,
+          "HTAIS": 5.576923076923077,
+          "MITI": 6.875,
+          "PSC": 7.380952380952381,
+          "TES": 8.333333333333334,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_61",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_61.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 7.3076923076923075,
+          "HTAIS": 5.0,
+          "MITI": 6.875,
+          "PSC": 8.80952380952381,
+          "TES": 9.074074074074074,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_62",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_62.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 5.769230769230769,
+          "MITI": 5.625,
+          "PSC": 6.666666666666666,
+          "TES": 7.222222222222222,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_64",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_64.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.0,
+          "MITI": 7.5,
+          "PSC": 8.809523809523808,
+          "TES": 8.703703703703704,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_65",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_65.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 5.625,
+          "PSC": 7.6190476190476195,
+          "TES": 8.518518518518519,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_66",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_66.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 5.480769230769231,
+          "MITI": 8.125,
+          "PSC": 7.142857142857143,
+          "TES": 7.777777777777778,
+          "WAI": 6.041666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_67",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_67.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 5.384615384615385,
+          "MITI": 5.625,
+          "PSC": 7.6190476190476195,
+          "TES": 9.074074074074074,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_68",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_68.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 6.346153846153846,
+          "HTAIS": 5.480769230769231,
+          "MITI": 3.75,
+          "PSC": 7.142857142857143,
+          "TES": 8.88888888888889,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_69",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_69.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.0,
+          "HTAIS": 5.480769230769231,
+          "MITI": 5.625,
+          "PSC": 6.904761904761904,
+          "TES": 6.851851851851851,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_70",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_70.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.038461538461538,
+          "HTAIS": 6.153846153846154,
+          "MITI": 6.875,
+          "PSC": 7.61904761904762,
+          "TES": 7.962962962962964,
+          "WAI": 6.458333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_7",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_7.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.903846153846154,
+          "MITI": 3.75,
+          "PSC": 5.952380952380953,
+          "TES": 8.148148148148149,
+          "WAI": 2.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_71",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_71.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.096153846153846,
+          "HTAIS": 5.961538461538462,
+          "MITI": 7.5,
+          "PSC": 7.380952380952381,
+          "TES": 9.074074074074074,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_72",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_72.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.576923076923077,
+          "HTAIS": 5.576923076923077,
+          "MITI": 5.625,
+          "PSC": 7.142857142857144,
+          "TES": 9.25925925925926,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_73",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_73.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.269230769230769,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 3.75,
+          "PSC": 6.428571428571429,
+          "TES": 7.037037037037036,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_74",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_74.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 4.423076923076923,
+          "MITI": 5.0,
+          "PSC": 5.0,
+          "TES": 7.4074074074074066,
+          "WAI": 3.9583333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_75",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_75.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 4.423076923076923,
+          "MITI": 5.0,
+          "PSC": 7.1428571428571415,
+          "TES": 8.88888888888889,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_76",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_76.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.423076923076923,
+          "HTAIS": 6.4423076923076925,
+          "MITI": 3.75,
+          "PSC": 6.904761904761904,
+          "TES": 7.777777777777778,
+          "WAI": 4.583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_77",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_77.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 5.288461538461538,
+          "MITI": 6.25,
+          "PSC": 6.19047619047619,
+          "TES": 7.222222222222222,
+          "WAI": 5.0
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_78",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_78.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 5.1923076923076925,
+          "HTAIS": 6.153846153846154,
+          "MITI": 8.75,
+          "PSC": 8.571428571428573,
+          "TES": 8.333333333333334,
+          "WAI": 8.333333333333334
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_79",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_79.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 6.25,
+          "HTAIS": 6.346153846153846,
+          "MITI": 9.375,
+          "PSC": 8.333333333333332,
+          "TES": 8.88888888888889,
+          "WAI": 7.5
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_8",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_8.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.7307692307692308,
+          "HTAIS": 2.980769230769231,
+          "MITI": 4.375,
+          "PSC": 6.19047619047619,
+          "TES": 8.148148148148147,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_80",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_80.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 6.153846153846154,
+          "HTAIS": 5.961538461538462,
+          "MITI": 7.5,
+          "PSC": 8.333333333333334,
+          "TES": 9.074074074074074,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_81",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_81.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.5769230769230769,
+          "HTAIS": 5.0,
+          "MITI": 5.0,
+          "PSC": 4.761904761904761,
+          "TES": 7.5925925925925934,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_82",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_82.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.8461538461538463,
+          "HTAIS": 6.826923076923077,
+          "MITI": 6.25,
+          "PSC": 6.666666666666667,
+          "TES": 8.518518518518517,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_83",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_83.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.5,
+          "HTAIS": 3.3653846153846154,
+          "MITI": 6.875,
+          "PSC": 6.190476190476189,
+          "TES": 7.222222222222222,
+          "WAI": 3.3333333333333335
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_84",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_84.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.5384615384615385,
+          "HTAIS": 5.480769230769231,
+          "MITI": 5.0,
+          "PSC": 5.238095238095238,
+          "TES": 5.925925925925926,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_85",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_85.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 7.5,
+          "HTAIS": 5.673076923076923,
+          "MITI": 6.25,
+          "PSC": 6.428571428571429,
+          "TES": 7.5925925925925934,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    },
+    {
+      "case_name": "simpsydial_86",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_86.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 9.23076923076923,
+          "HTAIS": 5.576923076923077,
+          "MITI": 8.125,
+          "PSC": 8.80952380952381,
+          "TES": 9.25925925925926,
+          "WAI": 5.416666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_14"
+    },
+    {
+      "case_name": "simpsydial_87",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_87.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.076923076923077,
+          "HTAIS": 5.673076923076923,
+          "MITI": 4.375,
+          "PSC": 6.904761904761905,
+          "TES": 9.074074074074074,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_6"
+    },
+    {
+      "case_name": "simpsydial_88",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_88.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 5.0,
+          "MITI": 5.625,
+          "PSC": 5.952380952380952,
+          "TES": 7.037037037037037,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_7"
+    },
+    {
+      "case_name": "simpsydial_89",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_89.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.230769230769231,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 9.375,
+          "PSC": 7.857142857142857,
+          "TES": 8.88888888888889,
+          "WAI": 7.916666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_9"
+    },
+    {
+      "case_name": "simpsydial_9",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_9.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.288461538461538,
+          "MITI": 4.375,
+          "PSC": 4.285714285714285,
+          "TES": 6.481481481481481,
+          "WAI": 1.6666666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_1"
+    },
+    {
+      "case_name": "simpsydial_90",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_90.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.3461538461538463,
+          "HTAIS": 5.673076923076923,
+          "MITI": 5.0,
+          "PSC": 5.952380952380953,
+          "TES": 7.7777777777777795,
+          "WAI": 4.166666666666667
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_3"
+    },
+    {
+      "case_name": "simpsydial_91",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_91.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 4.423076923076923,
+          "HTAIS": 5.673076923076923,
+          "MITI": 4.375,
+          "PSC": 5.952380952380953,
+          "TES": 7.4074074074074066,
+          "WAI": 5.625
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_11"
+    },
+    {
+      "case_name": "simpsydial_92",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_92.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.1153846153846154,
+          "HTAIS": 5.384615384615385,
+          "MITI": 5.625,
+          "PSC": 5.0,
+          "TES": 7.407407407407408,
+          "WAI": 1.4583333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_4"
+    },
+    {
+      "case_name": "simpsydial_95",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_95.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.134615384615385,
+          "MITI": 5.625,
+          "PSC": 6.428571428571429,
+          "TES": 7.592592592592592,
+          "WAI": 5.208333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_13"
+    },
+    {
+      "case_name": "simpsydial_93",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_93.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.8846153846153846,
+          "HTAIS": 5.480769230769231,
+          "MITI": 6.875,
+          "PSC": 6.190476190476191,
+          "TES": 9.074074074074073,
+          "WAI": 8.125
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_8"
+    },
+    {
+      "case_name": "simpsydial_96",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_96.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.0,
+          "HTAIS": 5.1923076923076925,
+          "MITI": 5.0,
+          "PSC": 5.238095238095238,
+          "TES": 7.222222222222222,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_5"
+    },
+    {
+      "case_name": "simpsydial_94",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_94.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 0.9615384615384616,
+          "HTAIS": 6.0576923076923075,
+          "MITI": 5.0,
+          "PSC": 5.238095238095238,
+          "TES": 7.5925925925925934,
+          "WAI": 6.458333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_12"
+    },
+    {
+      "case_name": "simpsydial_98",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_98.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 3.6538461538461537,
+          "HTAIS": 5.673076923076923,
+          "MITI": 6.25,
+          "PSC": 5.476190476190476,
+          "TES": 7.222222222222222,
+          "WAI": 5.833333333333333
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_2"
+    },
+    {
+      "case_name": "simpsydial_97",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_97.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 2.6923076923076925,
+          "HTAIS": 5.673076923076923,
+          "MITI": 7.5,
+          "PSC": 6.904761904761905,
+          "TES": 8.703703703703702,
+          "WAI": 3.5416666666666665
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_10"
+    },
+    {
+      "case_name": "simpsydial_99",
+      "case_number": "",
+      "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_99.json",
+      "session_number": 1,
+      "session_file": "session_1",
+      "evaluation_results": {
+        "counselor": {
+          "EFT_TFS": 1.1538461538461537,
+          "HTAIS": 4.711538461538462,
+          "MITI": 3.125,
+          "PSC": 4.285714285714286,
+          "TES": 7.222222222222222,
+          "WAI": 4.375
+        }
+      },
+      "session_count": 1,
+      "thread_id": "ThreadPoolExecutor-0_0"
+    }
+  ]
+}

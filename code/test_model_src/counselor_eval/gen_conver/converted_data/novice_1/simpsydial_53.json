@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_53",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious. The thoughts about the wedding list are still weighing on me."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really overwhelming. Have you noticed any patterns in when the anxiety comes up?"
+        },
+        {
+          "role": "Client",
+          "text": "It usually starts when I think about talking to them again. I can feel my chest tight and my mind racing before I even say a word."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a lot to carry. Have you considered talking to someone about how you feel before the conversation?"
+        },
+        {
+          "role": "Client",
+          "text": "I try, but they always say they know best. I end up feeling like I’m not being heard, which just makes me more scared of disappointing them."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’re trying to please them, but it’s leaving you feeling stuck. Have you thought about what you’d need to feel heard?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t even know what I need anymore. It feels like no matter what I do, I’m not enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a heavy feeling to carry. Have you ever thought about what would help you feel like you’re enough, even if it’s just for a moment?"
+        },
+        {
+          "role": "Client",
+          "text": "Sometimes I imagine what it would be like if they really saw me. But the moment I let myself feel that, the fear comes back and crushes it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’re holding onto hope, even when it feels impossible. Have you ever tried grounding yourself when the fear comes back?"
+        },
+        {
+          "role": "Client",
+          "text": "I try to focus on my breath, but the fear is so strong it pulls me back into the old patterns. I can’t seem to stay present."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like the fear is really pulling you under. Have you noticed if there’s anything specific that makes the fear feel stronger?"
+        },
+        {
+          "role": "Client",
+          "text": "The more I think about how they’ll react, the worse it gets. I can’t even imagine saying no without feeling like I’m breaking something inside."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a deep fear of losing their approval. Have you ever thought about what it would be like to set a boundary without feeling like you’re breaking something?"
+        },
+        {
+          "role": "Client",
+          "text": "I’ve never really imagined it. The thought of standing up for myself feels like it would destroy the only thing I have left — their love."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a painful realization. Have you ever thought about what you’d need to feel like you’re still loved, even if you set a boundary?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I could even believe it. It feels like if I try, I’ll just end up hurting them — and myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a heavy burden to carry. Have you ever thought about what it would be like to feel safe enough to try?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I’m brave enough to try. Every time I think about it, I feel like I’m walking into a storm I can’t escape."
+        }
+      ]
+    }
+  ]
+}

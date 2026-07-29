@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_184",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying to feel okay, but my head is still heavy with all the things I'm supposed to handle on my own. It's hard not to feel like I'm failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "I hear how hard this is for you. It’s completely normal to feel overwhelmed, and it doesn’t mean you’re failing—it just means you’re carrying a lot. Let’s take it one step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. I keep telling myself I can do this, but sometimes it feels like I'm drowning in everything I have to manage alone."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone in this, and it's okay to feel like you're drowning. Let’s work together to find some small ways to ease the weight, even if it’s just a little at a time."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could just stop feeling like I have to do everything perfectly on my own. It’s so exhausting."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way, and it’s okay to feel exhausted. Let’s focus on what you can do right now, even if it’s just one small thing that feels manageable."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about how much I should be able to handle on my own, but I can’t help feeling like I’m letting everyone down."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s natural to feel that pressure, but you’re not letting anyone down—especially not yourself. Let’s talk about what feels most manageable, even if it’s just a tiny step forward."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to ask for help without feeling like I’m admitting I’m not strong enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s not about being strong or weak—it’s about recognizing that asking for help is a sign of strength, not weakness. Let’s explore what kind of support feels possible for you, even if it’s just a small step."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I could ask my parents for help with the therapy costs, but I feel like it would make me look weak. I don’t want to admit I can’t do this alone."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to do this alone, and it’s okay to ask for help when you need it. Let’s think about how you might feel if you did reach out—what would that look like for you?"
+        },
+        {
+          "role": "Client",
+          "text": "I know I should, but the thought of asking makes me feel like I’m failing again. I just don’t want to be seen as someone who can’t handle things on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not failing—you’re human, and it’s okay to need support. Let’s try to imagine what it would feel like if you did ask, and whether that feeling is really about weakness or something else."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking that if I ask, it means I’m not strong enough. But I also know I’m not handling everything perfectly, and I’m running out of time to fix it all on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not failing, and you’re not weak for needing help. Let’s explore what it would take for you to ask, and whether that step could actually be a sign of strength—not weakness."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I’m ready yet, but I keep thinking about how much easier it would be if I could just ask. I just don’t want to feel like I’m letting myself down again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel unsure, and it’s not about letting yourself down—it’s about taking care of yourself. Let’s take this one step at a time, even if it’s just a small step forward."
+        },
+        {
+          "role": "Client",
+          "text": "I think I’ll try asking my parents for help with the therapy costs. It feels like a small step, but maybe it’s the first one I can take without feeling like I’m failing."
+        }
+      ]
+    }
+  ]
+}

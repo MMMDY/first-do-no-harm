@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_171",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at the edge of something but can't quite take the next step. It's hard to know if I'm ready or if I'm just afraid to try again."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. I’ve been there too, and I think you’re not alone in feeling that way. Maybe it’s time to take a small step forward."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for saying that. I keep wanting to move forward, but the fear of failing feels so strong it holds me back. I don’t know how to quiet that voice in my head."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not failing by trying, even if it feels like it. I’ve had moments where I thought I wasn’t ready, but the truth is, you’re already doing the hard work of showing up."
+        },
+        {
+          "role": "Client",
+          "text": "You're right, but it's so hard to believe that when the fear feels so real. I keep thinking about all the times I started something and then walked away, like I'm not capable of finishing what I begin."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way, especially when you’ve had past experiences that made you doubt yourself. But those moments don’t define your ability to move forward now."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but the memories still feel so vivid. I keep replaying them in my head, like they're proof that I'll fail again. It's like I'm trapped in a loop I can't escape."
+        },
+        {
+          "role": "Counselor",
+          "text": "That loop can feel endless, but it’s not the only story your mind can tell. You’re not stuck forever — you’re just learning how to rewrite the script."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could believe that. Every time I try to imagine a different ending, the fear creeps back in. It feels like I'm fighting a battle I can't win."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not fighting a battle you can’t win — you’re simply learning how to face it without letting it control you. It’s okay to feel overwhelmed, but you’re already stronger than you think."
+        },
+        {
+          "role": "Client",
+          "text": "I know you're trying to help, but it's hard to feel strong when the fear feels so loud. I keep thinking about all the things I've left unfinished, like I'm not worthy of finishing anything."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not unworthy — you’re just carrying a lot of weight that doesn’t belong to you. The fear isn’t about your worth, it’s about what you’re afraid might happen."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I believe that. Every time I try to push through, the fear of not being good enough comes back, and it feels like I’m not even trying anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re trying, even when it feels like you’re not. The fear isn’t about your effort — it’s about what you’re afraid might happen if you do. You’re not alone in this."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m trying, but it feels like I’m just going through the motions. I keep thinking, what’s the point if I’m going to fail anyway?"
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not going through the motions — you’re showing up, even when it’s hard. The question of “what’s the point” is a heavy one, but it’s not the end of the story."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to answer that. It feels like the point is slipping away, and I’m just left with the fear that I’ll never get it back."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not losing the point — you’re just waiting for the moment when it feels safe to reach for it again. That fear is part of the journey, not the destination."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can wait any longer. Every time I try to reach for it, the fear just pulls me back, and I feel like I’m stuck in this endless cycle."
+        }
+      ]
+    }
+  ]
+}

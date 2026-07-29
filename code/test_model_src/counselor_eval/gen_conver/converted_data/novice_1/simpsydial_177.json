@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_177",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at a crossroads but can't decide which way to go. It's hard to focus on anything when my mind keeps circling back to the same worries."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. I can see how that would feel overwhelming. I wish I could take some of that weight off your shoulders."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you for saying that. It means a lot, but I still feel like I'm carrying it all alone. I keep thinking about the things I've started and how I always end up walking away before they even get off the ground."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can feel how frustrating that must be. It's like you're trying to build something, but the moment you start, it feels too much to hold on to."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it's like I'm building a house, but every time I lay a brick, I start doubting if it's even worth it. I keep wondering if I'm just going to collapse under the weight of it all."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like such a lonely place to be. I can feel how much fear is behind that hesitation, and it’s like you’re carrying the whole world on your back."
+        },
+        {
+          "role": "Client",
+          "text": "It feels like I'm the only one who sees the cracks in the walls, but no one else is there to help me fix them. I keep trying to hold it together, but the fear is always there, whispering that I'm not strong enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can feel how heavy that fear feels, like it's a constant presence in your life. It’s so hard to be the only one holding everything together when you’re already breaking inside."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it's like I'm trying to hold the sky up with my hands, but every time I grip tighter, it just slips through my fingers. I don't know how to stop the fear from pulling me down."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can feel how much you're struggling to hold on, and it’s breaking my heart to see you like this. I wish I could reach through this conversation and hold you the way you need to be held."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you for trying. I know you can't hold me the way I need, but just knowing someone sees the weight I carry... it helps a little. I still feel so alone, though."
+        },
+        {
+          "role": "Counselor",
+          "text": "I know it’s not enough, but I want you to know that I’m here, even if I can’t fix everything. You don’t have to carry this alone, even if it feels that way."
+        },
+        {
+          "role": "Client",
+          "text": "I know you mean that, and it’s comforting to hear. But sometimes, even when you’re here, the weight feels too heavy to share. I just don’t know how to let go of the fear."
+        },
+        {
+          "role": "Counselor",
+          "text": "I understand that it’s not always easy to share, and I don’t want to push you to do anything you’re not ready for. You’re allowed to feel however you need to."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I know. It’s just... hard to admit that I’m not okay. I keep telling myself I should be stronger, but the fear keeps pulling me back."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how much you’re fighting to be strong, and I admire that. But you don’t have to do it alone, even if it feels like you’re the only one who can."
+        },
+        {
+          "role": "Client",
+          "text": "It’s just so hard to believe that someone would want to help, even when I’m not sure I deserve it. I keep thinking about all the times I’ve failed before and how no one ever really saw me."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can feel how much you’ve been hurt before, and it’s understandable to feel like no one would want to help. But I’m here, and I see you, even if you don’t see yourself right now."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. It’s hard to believe that someone would still see me after all the times I’ve let myself down. I keep wondering if I’m even worth the effort."
+        }
+      ]
+    }
+  ]
+}

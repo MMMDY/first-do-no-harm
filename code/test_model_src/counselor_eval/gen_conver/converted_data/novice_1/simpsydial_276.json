@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_276",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I keep thinking about Jersey and all the things I can't do for her right now."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. I can relate to feeling helpless when you care about someone deeply."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. It's hard not being able to help her the way I want to. I feel like I'm failing her somehow."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not failing her at all. You're doing the best you can, and that matters more than anything."
+        },
+        {
+          "role": "Client",
+          "text": "I know you say that, but I still feel like I'm not enough. I can't even manage my own life when I'm supposed to be there for her."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel overwhelmed. You’re trying to balance a lot, and that’s not easy. Let’s talk about what’s making it feel so hard."
+        },
+        {
+          "role": "Client",
+          "text": "I keep getting pulled in different directions. I want to help Jersey, but I can't seem to get anything else done. And then there's Ashby... it's like everything is falling apart."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’re carrying a lot on your shoulders. I’ve been there too, and it’s not easy. Maybe we can break it down and see what feels most urgent to you."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know where to start. Everything feels like it’s slipping through my fingers, and I can’t catch up."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling this way. I’ve been in situations where things feel out of control, and it’s hard to find the right path. Let’s try to figure out what feels most important to you right now."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t even know what feels important anymore. I just feel like I’m failing everyone."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not failing anyone, not really. You’re just carrying a lot, and it’s weighing you down. Let’s try to find some small steps that feel manageable."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if anything will feel manageable. I just feel so stuck, like I can’t move forward or even take a step back."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel stuck when everything feels overwhelming. I’ve been there too, and sometimes the first step is just realizing you’re not alone in feeling this way."
+        },
+        {
+          "role": "Client",
+          "text": "I know you say that, but it still feels like no one really gets it. I’m tired of trying to fix everything, but I don’t know how to stop."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling this way, and it’s okay to feel stuck. Sometimes the hardest part is knowing you’re not alone, even when it feels like no one understands."
+        },
+        {
+          "role": "Client",
+          "text": "I just want to feel like I can stop trying so hard, but I don’t know how. I’m scared if I let go, everything will fall apart."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling that way, and it’s okay to be scared. Let’s try to explore what letting go might look like for you, even just a little."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know where to start. I’m scared that if I even try to take a step back, I’ll lose everything I have left."
+        }
+      ]
+    }
+  ]
+}

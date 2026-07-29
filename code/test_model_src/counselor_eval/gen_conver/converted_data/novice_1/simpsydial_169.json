@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_169",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at a crossroads but can't decide which way to go. It's frustrating because I know I've done things before that worked, but now I'm afraid of failing again."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. I can see how that fear might make it hard to move forward, but I believe you have the strength to find your way. Let's explore what's been working for you before."
+        },
+        {
+          "role": "Client",
+          "text": "I remember feeling excited about my website and the work I did overseas. It felt like I was making a difference, but now I'm scared that if I try again, people won't like it or won't care."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way, especially after what you’ve accomplished before. I think you’re capable of creating something meaningful again—maybe we can start by looking at what made your past work feel impactful."
+        },
+        {
+          "role": "Client",
+          "text": "I used to feel like my work was a way to prove I was worth something. But now, when I think about it, I'm afraid that if I try again, I'll just end up disappointing myself or others."
+        },
+        {
+          "role": "Counselor",
+          "text": "That fear of disappointing yourself or others is really common, and it makes sense why it feels so overwhelming. I think you’re already showing courage by being honest about how you feel."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if I'm being honest or just avoiding the truth. Every time I think I'm ready to try again, something inside me freezes, like I'm waiting for the right moment that will never come."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel uncertain—sometimes the right moment feels like it’s always just around the corner. I believe you’re already taking steps toward what you need, even if it’s not obvious yet."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about my father and that letter I wrote. It feels like part of me is trying to forgive him, but another part is still holding on to the hurt. I don’t know if I can let go."
+        },
+        {
+          "role": "Counselor",
+          "text": "That letter must have meant a lot to you. I think you’re already doing something powerful by wanting to forgive, even if it feels difficult. Let’s see if we can explore what that forgiveness might look like for you."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if forgiveness means forgetting or if it means accepting that I can’t change the past. I just feel like I’m stuck between wanting to move on and needing to hold on to something real."
+        },
+        {
+          "role": "Counselor",
+          "text": "Forgiveness doesn’t mean forgetting—it means choosing to let go of the pain that’s holding you back. You’re not stuck forever, and it’s okay to take your time finding your way forward."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about how I used to feel so much more confident in my work. Now, even the smallest challenge makes me question if I’m worthy of trying. I feel like I’m losing that part of myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel like you’re losing that confidence, but I believe it’s still there, just buried under the weight of fear. Let’s try to uncover it together."
+        },
+        {
+          "role": "Client",
+          "text": "I used to feel like my ideas were worth sharing, like they could make a difference. Now, I’m afraid even the smallest thing I do will be judged or ignored. It’s like I’m waiting for someone to tell me I’m good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That fear of judgment or being ignored can be really heavy. I think you’re already doing something important by wanting to be seen and valued—let’s try to build that confidence back, step by step."
+        },
+        {
+          "role": "Client",
+          "text": "I used to feel like my work was a way to prove I mattered. Now, I’m afraid that if I try again, I’ll just end up feeling like a failure. I don’t know how to stop waiting for validation."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel like you’re waiting for validation—it’s a natural part of the process. But I believe you already have value, even if it’s not always clear to you right now."
+        },
+        {
+          "role": "Client",
+          "text": "I keep trying to tell myself that, but the fear is louder. I feel like I have to prove I’m worth something every single day, or else I’m just a waste."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_173",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious. I keep thinking about all the things I haven't finished and worry I'll never get them done."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really overwhelming. Have you noticed if this anxiety comes up at certain times of day or in specific situations?"
+        },
+        {
+          "role": "Client",
+          "text": "It creeps in when I'm alone, especially at night. I can't stop thinking about what might go wrong, and it makes it hard to sleep."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like your anxiety is really affecting your sleep. Have you considered talking to a doctor about how you're feeling?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if I want to talk to a doctor. I feel like I'm just making things worse by bringing it up. I'd rather try to figure it out on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel that way, but it's important to remember that your body and mind are connected. Sometimes what feels like a mental issue could have a physical component too."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I just don't want to feel like I'm not in control. Every time I try to do something, I end up doubting myself and stopping. It's like I can't even trust my own thoughts anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of self-doubt, and that can be really exhausting. Have you ever thought about how your body feels when this happens—like your heart racing or your mind going blank?"
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, my chest feels tight, and my mind goes blank. I can't focus on anything. It's like I'm stuck in a loop of fear and self-criticism."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really difficult. It might help to explore what triggers these feelings and how they make you feel physically and emotionally."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know where to start. Every time I try to think about it, I just feel more trapped. I keep thinking about all the things I've failed at before, and I can't shake the feeling that I'm not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's understandable to feel trapped when you're overwhelmed by these thoughts. Sometimes focusing on the physical sensations can help ground you in the present moment."
+        },
+        {
+          "role": "Client",
+          "text": "I try to focus on my breathing, but my mind keeps drifting back to the things I haven't done. I feel like I'm always falling behind, and I don't know how to stop it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to break free from those thoughts when they feel so persistent. Have you noticed if there’s a pattern to when they show up—like after certain events or during specific parts of the day?"
+        },
+        {
+          "role": "Client",
+          "text": "They come on me when I'm alone, especially after I've been working for a while. I feel like I'm not good enough, and I start doubting everything I've done."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like those thoughts are tied to your work and time alone. Have you ever thought about how your body reacts when you feel like you're not good enough—like your stomach tightens or your hands get shaky?"
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, my stomach gets tight, and my hands shake. It's like my body is warning me that I'm about to fail again, and I can't stop it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like your body is reacting to these feelings in a way that makes them even harder to shake. Have you ever tried grounding techniques when this happens?"
+        },
+        {
+          "role": "Client",
+          "text": "I've tried a few things, like counting or focusing on my breath, but it's like my mind just ignores them. I can't seem to stay present for more than a few seconds."
+        }
+      ]
+    }
+  ]
+}

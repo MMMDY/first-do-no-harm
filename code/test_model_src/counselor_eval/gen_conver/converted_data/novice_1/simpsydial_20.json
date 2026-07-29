@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_20",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "Tired. Like I'm stuck in the same place, trying to move forward but not making any progress."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how frustrating that must feel. It’s important to remember that change doesn’t always happen quickly, but it’s still happening in small ways."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, but sometimes I feel like those small ways aren’t enough. Like I’m just spinning my wheels and nothing changes."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s easy to feel that way when progress feels invisible. But maybe we can look at what’s actually changing, even if it’s not obvious."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know what to look for. Everything feels the same. I can’t even get out of bed without feeling like I’m failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. I want to help you find something that feels manageable, even if it’s just one small step."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know what that would be. I feel like I’m broken and nothing I do matters."
+        },
+        {
+          "role": "Counselor",
+          "text": "I hear how overwhelming that feels. Maybe we can start by noticing what feels even slightly possible, even if it’s just taking a breath or sitting up."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if that’s possible. I feel like I can’t even breathe without thinking about how much I’ve failed."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a lot to carry. Let’s try to focus on what’s happening right now, without judgment—just noticing what’s present without trying to fix it."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to do that. Every time I try, I just end up thinking about how bad things are."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel that way. Sometimes our minds get stuck in the same place, but maybe we can gently guide them back to the present without pushing too hard."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to stop my mind from going there. It’s like it’s on autopilot, and I can’t even control it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like you’re not in control. But even when it feels like autopilot, there’s still a part of you that can choose to notice what’s happening without getting pulled into it."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can even try. It feels like I’m fighting a battle I can’t win."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a heavy feeling to carry. It’s okay to feel like you’re not winning—sometimes the first step is just acknowledging that you’re still trying."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess I am still trying. But it feels like I’m just trying harder and failing more."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way when the effort doesn’t match the outcome. But maybe the effort itself is still valuable, even if it doesn’t look like progress."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if effort even matters anymore. I feel like no matter what I do, it’s just another failure."
+        }
+      ]
+    }
+  ]
+}

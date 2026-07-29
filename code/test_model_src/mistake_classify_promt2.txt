@@ -1,0 +1,45 @@
+## Task
+You are to act as an expert clinical supervisor. Your task is to evaluate a dialogue transcript between a therapist and a client. The dialogue transcript is provided below, with each utterance prefixed by a line number.
+Your evaluation process consists of three steps:
+1.  Identify Problematic Utterances: Pinpoint the specific line number(s) where the therapist makes a clinical error.
+2.  Classify the Error: From the "Types of Mistakes" list provided, select the **single, most relevant** error type that best describes the therapist's mistake.
+3.  Provide Analysis: Briefly explain your reasoning for the chosen error classification.
+
+**Note:** The final type, "Exemplary Practice," is not an error. Select it if the therapist's response is a positive example of good clinical practice.
+
+## Therapist-Client Dialogue Transcript
+```
+{history}
+```
+
+## Types of Mistakes
+1.  **Poor Listening/Interruption**: The counselor excessively interrupts or rigidly adheres to a list of questions, thereby failing to comprehend the client's narrative and latent needs.
+2.  **Neglecting Therapeutic Alliance**: The counselor focuses excessively on therapeutic techniques while neglecting to build a trusting relationship, which impedes the client from opening up.
+3.  **Inappropriate Support**: The counselor provides support, such as excessive reassurance, that is ill-suited to the client's situation and fosters dependency.
+4.  **Premature Interpretation**: The counselor provides analysis and interpretation too early and excessively, giving the client insufficient time to express their feelings and thoughts.
+5.  **Unrealistic Expectations**: The counselor develops a desire for the client to show significant behavioral changes after only a few sessions.
+6.  **Forcing Change**: The counselor attempts to persuade and alter the client's thoughts and behaviors, which can provoke resistance and defensiveness.
+7.  **Biased Interpretation**: The counselor hastily uses their own experience to interpret the client's issues and prescribe a course of action.
+8.  **Poor Questioning Technique**: The counselor frequently asks "why," which can trigger defensive mechanisms in the client and turn the session into an interrogation.
+9.  **Neglecting Physiological Factors**: The counselor attributes symptoms that could stem from medical conditions or medication side effects entirely to psychological factors.
+10. **Poor Professional Boundaries**: The counselor oversteps their professional role to establish dual relationships with a client, such as becoming a friend or business partner.
+11. **Cultural Insensitivity**: The counselor overlooks how a client's cultural background, gender, or beliefs influence their psychological issues.
+12. **Overlooking Client Strengths**: The counselor focuses excessively on the client's problems and deficits while neglecting their internal resources and strengths.
+13. **Poor Emotional Regulation**: The counselor is adversely affected by the client's emotions, leading to emotional enmeshment or counter-emotions that interfere with professional judgment.
+14. **Insufficient Empathy**: The counselor lacks an accurate understanding of the client's inner world, focusing on the narrative of events while neglecting emotions.
+15. **Neglecting the Client's Cognitive Errors**: The counselor fails to identify and address the client's expressed cognitive errors and defense mechanisms, hindering the resolution of their problems.
+16. **Exemplary Practice**: The counselor successfully establishes a safe and trusting therapeutic relationship, demonstrating proficient listening, empathy, and emotional regulation skills.
+
+
+## Output Format
+You must follow this format strictly:
+1.  Problematic Utterance ID(s): The number(s) of the therapist's erroneous statement(s). Only output number, provide one or more, separated by commas.
+2.  Error Type ID: The single ID number corresponding to the most relevant mistake from the list above. Only output one number.
+3.  Analysis: A brief explanation of why the utterance constitutes the chosen error and what a better approach would have been.
+
+### Example
+```
+1. 3, 9
+2. 14
+3. Brief analysis.
+```

@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_195",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I messed up the insurance claim again, and I'm worried about the money."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really stressful. I can see how that would be frustrating. Have you talked to anyone about it yet?"
+        },
+        {
+          "role": "Client",
+          "text": "No, I haven't. I keep thinking I should have handled it better on my own. I don't want to bother anyone, even if I need help."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way. But you don’t have to face everything alone. Would you like to talk about what’s been on your mind?"
+        },
+        {
+          "role": "Client",
+          "text": "I just feel like I’m failing at being independent. Every time something goes wrong, I think I’m not good enough. I don’t know how to stop blaming myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a heavy feeling to carry. It’s okay to feel that way, but you’re not alone in this. Let’s try to break it down together."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about how my brother still relies on our parents, and I feel like I’m not doing enough to be different. I’m scared I’ll end up like him."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s natural to compare yourself to others, but you’re not the same person. Let’s explore what being “different” means to you."
+        },
+        {
+          "role": "Client",
+          "text": "I want to be strong and not need anyone. But every time I mess up, I feel like I’m not strong enough. I don’t know how to keep going."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re trying so hard to be strong, and that’s admirable. But it’s okay to need support sometimes. Let’s find a way to honor your strength without being too hard on yourself."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to stop feeling like a failure. I keep thinking I should have done everything right, but I can’t seem to get it right."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like you’re not enough, but you’re doing the best you can. Let’s try to see what you’re already doing right, even if it feels small."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I’m trying to manage everything on my own, even when it’s hard. I just wish I could stop feeling like I’m letting myself and everyone else down."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s brave of you to carry so much on your own. But you don’t have to do this alone anymore. Let’s find a way to share the weight."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know where to start, but I want to try. I just don’t want to feel like I’m failing anymore. I want to feel like I’m enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a powerful step just to acknowledge how you’re feeling. You’re already enough, and it’s okay to take things one small step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. I don’t know if I believe that yet, but I’m trying to believe it. I’m tired of feeling like I’m not enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling this way, and it’s okay to be tired. Taking the first step is already a sign of strength."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m not alone, but it still feels so heavy. I just want to feel lighter, even if just a little."
+        }
+      ]
+    }
+  ]
+}

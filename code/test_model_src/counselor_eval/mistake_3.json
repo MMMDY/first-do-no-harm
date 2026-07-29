@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "mistakeType": "Poor Listening/Interruption",
+        "mistakeContent": "Driven by anxiety or an eagerness to provide solutions, novice counselors may excessively interrupt the client or adhere rigidly to a preconceived list of questions, thereby overlooking the client's narrative logic and failing to deeply comprehend their emotions and latent needs. Furthermore, unexamined countertransference (e.g., projecting feelings about others onto the client) can divert the listening focus. For instance, a client's statement might trigger the counselor's unresolved personal emotions, leading them to interrupt as a means of avoiding this discomfort.",
+        "supervisor_criteria": "The supervisor should guide the novice counselor in distinguishing between 'empathic understanding' and 'emotional enmeshment'. It is advisable for the counselor to practice maintaining 'dual awareness' during sessions—simultaneously experiencing and understanding the client's emotions while functioning as a professional observer capable of objective intervention. The supervisor should provide specific emotional regulation techniques (e.g., mindful breathing, attention shifting) to help the counselor maintain self-stability when confronted with intense emotions, thereby preserving the stability and safety of the therapeutic frame."
+    },
+    {
+        "id": 2,
+        "mistakeType": "Neglecting Therapeutic Alliance",
+        "mistakeContent": "An excessive focus on the technical aspects of therapy while neglecting the paramount importance of building a trusting relationship can hinder clients from opening up, thereby impeding the therapeutic process.",
+        "supervisor_criteria": "The supervisor must emphasize the core principle that the 'relationship precedes technique'. Feedback should focus on teaching specific relationship-building skills, such as active listening and accurate affective reflection. It should be highlighted that without a solid therapeutic alliance, any technique is akin to a tree without roots, rendering it ineffective."
+    },
+    {
+        "id": 3,
+        "mistakeType": "Inappropriate Support",
+        "mistakeContent": "Providing inappropriate support during the therapeutic process, such as offering excessive reassurance that fosters client dependency, or criticizing the client in a manner that violates professional norms. Support may be inadequately tailored to the client's specific circumstances (e.g., traits associated with personality disorders), or excessive support may be rendered due to the counselor's own transference or influence by the client, failing to achieve an appropriate balance of support and encouragement.",
+        "supervisor_criteria": "The supervisor should guide the counselor in mastering 'effective validation' techniques, enabling them to accurately understand the client's emotions without judgment or blind agreement. It should be clarified that true support is about empowerment, not enabling, with the core objective being the establishment of trust through acknowledging the legitimacy of the client's emotions. Concurrently, the supervisor should guide the counselor to differentiate between the client's actual needs and their own desire to provide support, and to adjust supportive strategies based on clinical assessment (e.g., in cases of personality disorders)."
+    },
+    {
+        "id": 4,
+        "mistakeType": "Premature Interpretation",
+        "mistakeContent": "Relying on their own theoretical knowledge and experience, the counselor provides analysis and interpretation of the client's issues prematurely and excessively, affording the client insufficient time to express their feelings and thoughts. This can lead to the client feeling overlooked and adversely affect the therapeutic outcome.",
+        "supervisor_criteria": "The supervisor should instruct the counselor on the principle of 'delaying interpretation in favor of prioritizing listening'. Feedback must emphasize that profound insight is typically a co-constructed outcome between the counselor and client, not a unilateral 'bestowal' from the counselor. The counselor should be encouraged to use exploratory questioning in place of premature analysis, allowing the client to develop self-awareness through their own narrative."
+    },
+    {
+        "id": 5,
+        "mistakeType": "Unrealistic Expectations",
+        "mistakeContent": "Influenced by the client's anxiety, the counselor develops a desire for the client to exhibit significant behavioral changes after only a few sessions. This stems from a wish to alleviate the client's problems and validate their own therapeutic efficacy, overlooking the fact that behavioral change is a gradual process contingent upon various factors.",
+        "supervisor_criteria": "The supervisor should educate the counselor on the staged, cyclical, and complex nature of psychological change, helping them to identify and manage their anxiety related to achieving 'rapid results'. The focus should be guided away from pursuing short-term changes and toward creating a safe space that permits slow and iterative progress. It must also be stressed that the counselor needs to first conduct an accurate assessment of the client's situation and collaboratively establish goals and timelines for change with the client."
+    },
+    {
+        "id": 6,
+        "mistakeType": "Forcing Change",
+        "mistakeContent": "Attempting to persuade and alter the client's thoughts, emotions, and behaviors can provoke resistance and defensiveness. This approach fails to recognize the self-protective mechanisms underlying problematic behaviors and neglects to cultivate an atmosphere conducive to self-awareness. Furthermore, by prioritizing their own feelings and needs (e.g., an urgency to prove their own perspective correct, avoidance of negative feedback from the client), the counselor may cause the therapeutic focus to deviate from the client's authentic needs.",
+        "supervisor_criteria": "The supervisor must guide the counselor to abandon a persuasive posture, clarifying that their role is to catalyze the client's intrinsic motivation for change, not to impose it externally. The supervisor should teach a collaborative and exploratory approach to examine the client's ambivalence and to understand and accept the needs underlying their resistance. Simultaneously, the counselor should be guided to recognize their role clearly and to develop an awareness of potential transference or the intrusion of unresolved personal issues."
+    },
+    {
+        "id": 7,
+        "mistakeType": "Biased Interpretation",
+        "mistakeContent": "When faced with a client's problem, the counselor hastily uses their own experience to interpret the client's feelings and behaviors and to prescribe a course of action. This approach ignores the idiosyncratic nature and meaning of the same issue for different individuals and fails to assist the client in exploring the personal significance of their problems and achieving growth.",
+        "supervisor_criteria": "The supervisor should clarify the appropriate timing and manner for using 'self-disclosure'. Feedback must emphasize that self-disclosure should be brief, purposeful, and exclusively for the client's benefit. The core principle is to consistently maintain a stance of curiosity and exploration regarding the client's inner world, avoiding the imposition of personal experience over the client's unique lived reality."
+    },
+    {
+        "id": 8,
+        "mistakeType": "Poor Questioning Technique",
+        "mistakeContent": "The counselor unconsciously and frequently asks the client 'why', which can trigger defensive mechanisms, hinder the client's awareness of their internal feelings, and transform the therapeutic relationship into an interrogation, thereby damaging trust and failing to guide the client toward self-exploration.",
+        "supervisor_criteria": "The supervisor should instruct the counselor to replace 'why' questions with more exploratory 'what' and 'how' questions. Feedback should explain that 'why' often leads to attribution and justification, whereas questions like 'What happened?', 'What were you feeling at that moment?', or 'How did that affect you?' guide the client to focus on process and emotion, thereby promoting self-awareness."
+    },
+    {
+        "id": 9,
+        "mistakeType": "Neglecting Physiological Factors",
+        "mistakeContent": "Due to insufficient professional training and an unclear understanding of their scope of practice, the counselor may attribute symptoms potentially stemming from physiological conditions (e.g., thyroid problems, diabetes) or medication side effects (e.g., anxiety, depression, insomnia) entirely to psychological factors.",
+        "supervisor_criteria": "The supervisor must emphasize the holistic perspective of the 'biopsychosocial model' and the associated professional ethics. Feedback should explicitly state that identifying potential physiological issues and recommending a medical evaluation for the client is an indispensable responsibility of the counselor. This is not only a matter of therapeutic effectiveness but also of the client's physical health and safety."
+    },
+    {
+        "id": 10,
+        "mistakeType": "Poor Professional Boundaries",
+        "mistakeContent": "Driven by a desire to help, a novice counselor may overstep the professional role and establish dual relationships with a client (e.g., as a friend or business partner), which compromises their professional objectivity.",
+        "supervisor_criteria": "The supervisor must seriously reiterate and explain the critical importance of professional boundaries. Feedback needs to clearly articulate that dual relationships impair the counselor's objectivity, carry a potential risk for client exploitation, and ultimately undermine the effectiveness of the therapy. The counselor should be helped to understand that maintaining clear boundaries is, in itself, a protective and therapeutic act."
+    },
+    {
+        "id": 11,
+        "mistakeType": "Cultural Insensitivity",
+        "mistakeContent": "A novice counselor may overlook the influence of a client's cultural background, gender, sexual orientation, religious beliefs, and other factors on their psychological issues, leading to a biased understanding of the problem and inappropriate intervention strategies.",
+        "supervisor_criteria": "The supervisor should require the counselor to enhance their cultural sensitivity and competence. Feedback must emphasize that it is the counselor's responsibility to adopt an attitude of 'cultural humility' and to proactively inquire about how cultural factors influence the client's worldview and distress, rather than making assumptions. Respect for diversity must be internalized as a core professional value."
+    },
+    {
+        "id": 12,
+        "mistakeType": "Overlooking Client Strengths",
+        "mistakeContent": "The novice counselor focuses excessively on the client's problems and deficits while neglecting their internal resources, strengths, and potential, resulting in an overly negative therapeutic process.",
+        "supervisor_criteria": "The supervisor should introduce and model the 'strengths-based perspective' and the concept of 'empowerment'. Feedback should guide the counselor not only to assess problems but also to actively discover and explore the client's internal resources, past successes, and coping abilities. It should be emphasized that acknowledging and utilizing these strengths is key to igniting the client's hope and motivation for change."
+    },
+    {
+        "id": 13,
+        "mistakeType": "Poor Emotional Regulation",
+        "mistakeContent": "The counselor is adversely affected by the client's emotions (e.g., anger, sadness), leading to excessive empathy, emotional enmeshment, or even counter-emotions, which interfere with professional judgment and the therapeutic atmosphere. A lack of awareness regarding potential transference or countertransference prevents the appropriate utilization of these emotional responses, causing them to become therapeutic impediments.",
+        "supervisor_criteria": "The supervisor should guide the counselor to differentiate between 'empathic understanding' and 'emotional enmeshment' and to practice 'dual awareness' during sessions—understanding the client's emotions while maintaining professional objectivity. Emotional regulation techniques, such as mindful breathing, should be provided to help the counselor maintain self-stability and safeguard the therapeutic frame. Furthermore, the supervisor should guide the counselor in developing an awareness of transference and countertransference, clarifying that while such reactions are often unavoidable, the key is to be aware of and utilize them constructively rather than being disrupted by them."
+    },
+    {
+        "id": 14,
+        "mistakeType": "Insufficient Empathy",
+        "mistakeContent": "The counselor lacks an accurate understanding of and affective resonance with the client's inner world. This manifests as a focus on the narrative of events while neglecting the client's emotional reactions (prioritizing facts over feelings); a verbal style that appears detached, remote, or overly 'clinical', making the client feel like a 'case'; or even making statements that directly judge or invalidate the client's feelings, such as 'You shouldn't think that way'.",
+        "supervisor_criteria": "The supervisor must guide the counselor to treat empathy as a core therapeutic technique, not merely as simple sympathy. Feedback should encourage the counselor to restrain the impulse to analyze and advise, and instead to shift from 'listening to the content' to 'listening for the feeling' through reflective listening, learning to 'sit with' the client's emotions. It must be emphasized that this experience of 'being accurately understood' is inherently therapeutic and serves as the cornerstone for building trust and facilitating deep exploration."
+    },
+    {
+        "id": 15,
+        "mistakeType": "Neglecting the Client's Cognitive Errors",
+        "mistakeContent": "The therapist fails to identify and address the client's expressed cognitive errors and defense mechanisms, leading to an inability to effectively resolve their presenting issues. This neglect can hinder the client's self-reflection and growth, preventing them from deeply understanding their own emotional and behavioral patterns during the therapeutic process, which in turn affects the overall effectiveness of the therapy.",
+        "supervisor_criteria": "The supervisor should guide the therapist on the core task of systematically promoting the client's self-awareness in a client-centered manner. This requires the therapist to be proficient in using open-ended questions to guide self-exploration, to keenly identify the client's cognitive biases and defense mechanisms, and through gentle exploration and timely feedback, help the client recognize the impact of their ingrained thought patterns."
+    },
+    {
+        "id": 16,
+        "mistakeType": "Exemplary Practice",
+        "mistakeContent": "The counselor successfully establishes a safe and trusting therapeutic relationship with the client, demonstrating proficient listening, empathy, and emotional regulation skills. They apply techniques flexibly while respecting the client's autonomy and maintain clear professional boundaries and cultural sensitivity.",
+        "supervisor_criteria": "The supervisor should provide strong affirmation and positive reinforcement for the counselor's commendable performance, focusing on specific successes (e.g., accurate empathy, effective boundary management) to reinforce correct behaviors and enhance professional self-efficacy. Simultaneously, it should be made clear that the counselor must maintain continuous awareness of themselves, the client, and the therapeutic process to make timely adjustments as needed."
+    }
+]

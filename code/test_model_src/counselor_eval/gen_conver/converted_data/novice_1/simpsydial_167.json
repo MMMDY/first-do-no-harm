@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_167",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious. I keep thinking about all the things I haven't finished and wonder if I'll ever feel like I'm doing enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. You're not alone in feeling this way, and it's okay to feel overwhelmed."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for saying that. I guess I just feel like I'm always falling short, even when I've done things I'm proud of. It's like the fear of not being good enough is always there."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's understandable to feel that way, but you're doing more than you realize. You're already showing strength by being honest about how you feel."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's hard to believe that when I'm stuck in my head. I keep thinking about all the projects I started and never finished, like I'm not capable of seeing them through."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel stuck sometimes—everyone has moments like that. You’re not failing, you’re just human."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it feels like I’m failing anyway. Every time I try to push forward, I get this voice in my head saying I’m not good enough, and it’s so loud."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice is trying to protect you, but it’s not helping. You’re doing the right thing by pushing forward—even if it feels hard."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could silence that voice. It’s like every time I take a step, it reminds me of all the times I’ve fallen short before."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in hearing that voice—it’s part of the struggle, but it doesn’t have to define you. You’re stronger than you think."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m stronger, but it’s so hard to remember that when the fear is so loud. I feel like I’m stuck in this loop of doubting myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not stuck—you’re just fighting a battle that’s harder than it should be. And that’s okay. You don’t have to win it all at once."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess that’s true. It’s just… hard to take one step at a time when the fear feels so big."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to take a step if it feels too big. Just being here, talking about it, is already a step forward."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess talking about it helps. It’s just hard to believe that even one step is enough when the fear feels so overwhelming."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling that way, and it’s okay to feel overwhelmed. But every small step counts, even if it feels tiny."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but sometimes even the smallest steps feel impossible. I just want to feel like I’m not wasting my time."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not wasting your time—just trying to find your way, and that’s brave. You’re already doing something important by showing up."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks. It just feels like I’m not making progress, even when I’m trying. I keep thinking about all the things I could be doing instead."
+        }
+      ]
+    }
+  ]
+}

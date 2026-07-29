@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_2",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling... tired. Like everything is too much to handle."
+        },
+        {
+          "role": "Counselor",
+          "text": "I'm sorry to hear that. You're not alone in feeling this way, and it's okay to need help."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks. I just... don't know how to stop feeling like this. It's like I'm stuck in a loop."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's understandable to feel stuck sometimes. You're doing your best, and that's more than enough."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess. But I keep thinking about the wedding. I don't want to go, but I don't want to hurt them either."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's hard to be in that situation. You're trying to be kind, and that's a strength."
+        },
+        {
+          "role": "Client",
+          "text": "I know. But every time I think about it, my head starts to spin. I can't even imagine being around them."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone in feeling that way. It's okay to feel overwhelmed, and you don't have to face it all at once."
+        },
+        {
+          "role": "Client",
+          "text": "I just... don't know how to make it better. I feel like I'm not even trying anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're trying, even if it doesn't feel like it. You're allowed to feel stuck, and that doesn't mean you're failing."
+        },
+        {
+          "role": "Client",
+          "text": "I know. But sometimes I feel like I'm just waiting for something to break. Like I'm already broken."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel that way. You're not broken, and you don't have to fix anything right now."
+        },
+        {
+          "role": "Client",
+          "text": "I just wish I could feel like I'm not... stuck. Like I could be free, even for a little while."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to be free all the time. Just being here, in this moment, is enough."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... I guess. It's just hard to believe that. I keep thinking about all the things I can't do."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to do anything you’re not ready for. It’s okay to take things one step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "I just... don't know where to start. Everything feels too big."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to start with everything. Even small steps can feel like progress."
+        },
+        {
+          "role": "Client",
+          "text": "I guess... I just need to take one step, even if it's tiny."
+        }
+      ]
+    }
+  ]
+}

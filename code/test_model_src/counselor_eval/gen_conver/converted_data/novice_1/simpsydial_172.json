@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_172",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious, like I'm stuck between wanting to move forward and being scared of failing again. It's hard to know if I should keep going or just stop."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. Can you tell me why you feel like you're stuck?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about all the projects I started before and how I ended up abandoning them. I worry that if I try again, I'll fail and prove to myself that I'm not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It makes sense that this would feel overwhelming. Can you explain why you think you're not good enough?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep comparing myself to the past, when I had more confidence and didn't second-guess everything. Now, every challenge feels like a sign that I'm not capable, and I don't know how to believe in myself anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a tough cycle to be in. Can you tell me why you feel like you're not capable anymore?"
+        },
+        {
+          "role": "Client",
+          "text": "I used to feel like I could handle anything, but now every setback feels like proof that I'm not strong enough. I keep thinking, what if I fail again? What if no one ever really sees my work?"
+        },
+        {
+          "role": "Counselor",
+          "text": "It's clear how much this is weighing on you. Can you tell me why you think no one will ever see your work?"
+        },
+        {
+          "role": "Client",
+          "text": "I used to think people would care about what I did, but now I feel like I'm just trying to prove something to myself. If I don't get validation from others, it feels like my work doesn't matter at all."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a deep sense of doubt. Can you tell me why you feel like your work only matters if others see it?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I used to believe that if I didn't succeed or if people didn't acknowledge my efforts, it meant I wasn't worth anything. I keep looking for proof that I matter, but I can't seem to find it on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "It seems like you're carrying a lot of internal pressure. Can you tell me why you feel like you need proof to know you matter?"
+        },
+        {
+          "role": "Client",
+          "text": "I used to think that if I didn't have others' approval, I wasn't enough. I keep trying to find validation because it's the only way I know how to feel like I'm not a waste."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a painful pattern to live with. Can you tell me why you feel like you're a waste if you don't get validation?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I used to believe that my worth was tied to what others thought of me. If I didn't succeed or if people didn't notice my work, it felt like I was failing and that I didn't deserve to be here."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like your self-worth has been deeply connected to external validation. Can you tell me why you feel like you don't deserve to be here?"
+        },
+        {
+          "role": "Client",
+          "text": "I used to think that if I wasn't successful or if people didn't care about what I did, it meant I wasn't valuable. I kept feeling like I was a burden, like I didn't belong or matter."
+        },
+        {
+          "role": "Counselor",
+          "text": "That must have been incredibly painful. Can you tell me why you feel like you don't belong?"
+        },
+        {
+          "role": "Client",
+          "text": "I used to think that if I wasn't recognized or appreciated, it meant I wasn't good enough to be part of anything. I kept feeling like I was always on the outside, waiting for someone to finally see me."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_79",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious. I keep thinking about my father's reaction to the wedding list."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really stressful. I can see how that might be hard to handle."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it's hard. I feel like I'm caught between wanting his approval and knowing he doesn't really support me."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel torn between wanting approval and knowing what’s right. You’re not alone in this."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could just be myself without worrying about what he thinks. It's exhausting trying to please everyone."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s brave of you to want to be yourself. Change doesn’t happen overnight, but it’s possible with time and support."
+        },
+        {
+          "role": "Client",
+          "text": "I know it's possible, but sometimes I feel like I'm not strong enough to do it. I keep doubting myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re stronger than you think, even if it doesn’t feel that way right now. Small steps can add up over time."
+        },
+        {
+          "role": "Client",
+          "text": "I try to take small steps, but the fear of losing his approval always pulls me back. It's hard to keep going."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s normal to feel pulled back by fear, especially when it’s tied to something as important as family. You’re doing better than you realize."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it still feels like I'm stuck. I don't know how to move forward without feeling like I'm losing him."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel stuck sometimes. You don’t have to move forward alone—let’s work on finding a way that feels safer for you."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can trust that it will be safer. Every time I try to set boundaries, he gets upset. It feels like I’m always causing pain."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way, but setting boundaries isn’t about causing pain—it’s about protecting what matters to you. You deserve to feel safe."
+        },
+        {
+          "role": "Client",
+          "text": "I know I deserve to feel safe, but it’s hard to believe that when he reacts the way he does. I keep wondering if I’m just making things worse."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s natural to question whether your efforts are making things worse, especially when the outcome feels uncertain. But your courage in trying is already a step toward healing."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I just want to feel like I’m not alone in this. It’s hard to carry all this weight by myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone, and it’s okay to carry this weight—especially when it feels overwhelming. I’m here to help you carry it with you."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. It means a lot to hear that. I just need to feel like I can be myself, even if it’s not perfect."
+        }
+      ]
+    }
+  ]
+}

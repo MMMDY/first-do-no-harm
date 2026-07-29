@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_194",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying to stay positive, but it's hard. I feel like I'm constantly failing at being independent."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of pressure on your own. Maybe you could try breaking things down into smaller steps?"
+        },
+        {
+          "role": "Client",
+          "text": "I know I should, but every time I think about asking for help, I feel like I'm admitting I'm not capable. It's so frustrating."
+        },
+        {
+          "role": "Counselor",
+          "text": "That feeling of not being capable can be really tough. It might help to remind yourself that asking for help is a sign of strength, not weakness."
+        },
+        {
+          "role": "Client",
+          "text": "I know that, but it's hard to believe when I feel like I'm failing every time I try to do things on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way when you’re struggling with self-doubt. Maybe it would help to write down what you’re afraid might happen if you ask for help."
+        },
+        {
+          "role": "Client",
+          "text": "I’m afraid I’ll feel like a burden, and that I’m not strong enough to handle this on my own. It’s like I’m not even trying anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that these fears are really weighing on you. Have you ever thought about what would happen if you did take a step forward, even small?"
+        },
+        {
+          "role": "Client",
+          "text": "I guess I’ve thought about it, but the fear of failing feels bigger than the possibility of success. I don’t know how to stop feeling like I’m not enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like you’re not enough when the fear of failure feels so overwhelming. Maybe it would help to focus on what you *have* accomplished, even if it feels small."
+        },
+        {
+          "role": "Client",
+          "text": "I’ve done things on my own, like paying bills and managing my health insurance. But it feels like it’s not enough, and I’m still not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’ve done a lot on your own, and that shows strength. It’s possible you’re comparing yourself to an unrealistic standard, and that’s where the feeling of not being enough comes from."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to stop comparing myself to my brother or to the idea of being a “real adult.” It’s like I’m always falling short."
+        },
+        {
+          "role": "Counselor",
+          "text": "Comparing yourself to others or to an ideal can create a lot of pressure. It might help to ask yourself, what would it mean to define “enough” on your own terms?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know what that would mean. I just feel like I’m not doing enough, and no matter what I do, it’s never enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like no matter what you do, it’s never enough. Maybe it would help to think about what would make you feel like you’re actually moving forward, even in small ways."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know what would make me feel like I’m moving forward. It’s like I’m stuck in a loop of trying and failing, and I can’t see a way out."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’re feeling trapped in a cycle that’s hard to break. Sometimes, just acknowledging that you’re stuck is the first step toward finding a way out."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m stuck, but I don’t know how to start moving. It feels like every step I take is met with failure, and I can’t even begin to see a way forward."
+        }
+      ]
+    }
+  ]
+}

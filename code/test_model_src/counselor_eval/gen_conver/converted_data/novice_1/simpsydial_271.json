@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_271",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I keep thinking about Jersey and all the things I can't do for her right now."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how that might feel overwhelming. Let's focus on what we can control right now."
+        },
+        {
+          "role": "Client",
+          "text": "I know I should focus on my own life, but it's hard when I feel like I'm failing Jersey. I keep worrying I'm not doing enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's completely normal to feel that way. Let's break down what you're actually doing for Jersey and what you're not."
+        },
+        {
+          "role": "Client",
+          "text": "I'm cooking meals for her and helping with some of the daily tasks, but I can't be there in person like I want to. I feel like I'm still not enough, even though I'm trying."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're doing a lot already. Let's talk about how you're feeling when you're not able to be there in person."
+        },
+        {
+          "role": "Client",
+          "text": "I get really tense and scared when I can't be there. I keep thinking about how I'm not helping enough, and it makes me feel like I'm not good enough for anyone."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a heavy feeling to carry. Let’s try to understand what it would look like if you were able to be there for Jersey."
+        },
+        {
+          "role": "Client",
+          "text": "I’d feel like I could actually help her the way she needs, but I’m stuck with my own stuff right now. It’s like I can’t even breathe when I think about it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like your own struggles are really impacting how you feel about yourself. Let’s try to explore what you need from yourself in this moment."
+        },
+        {
+          "role": "Client",
+          "text": "I need to stop punishing myself for not being able to do more. I need to remember that I’m doing what I can, even if it’s not enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s an important realization. Let’s try to name the parts of yourself that are feeling guilty and see if we can give them some space."
+        },
+        {
+          "role": "Client",
+          "text": "The part of me that feels guilty is always whispering that I’m not enough, that I’m failing everyone. I just want it to stop talking."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s like that voice is a part of you that’s been hurt. Let’s try to listen to it without judgment and see what it’s really trying to tell you."
+        },
+        {
+          "role": "Client",
+          "text": "It’s saying I’m not good enough, that I’ll always be a burden. It’s scared I’ll be alone again, like I was before. I don’t know how to make it stop."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice is carrying a lot of fear and pain. Let’s try to sit with it for a moment and see if we can understand where it’s coming from."
+        },
+        {
+          "role": "Client",
+          "text": "It’s coming from the times I felt like I wasn’t enough for my friends, the times I was left alone when I needed support. It’s like it’s afraid I’ll lose them again if I don’t do everything perfectly."
+        },
+        {
+          "role": "Counselor",
+          "text": "That makes sense. It sounds like that voice is trying to protect you, even if it’s doing it in a painful way. Let’s try to see if we can soften that part of you and give it the care it needs."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to care for that part of me. It feels so far away, like it’s always been broken. I just want it to feel safe."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_217",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress. It's hard to focus on anything that doesn't involve work."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. Can you tell me why you feel like you're not making progress?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about all the things I should be doing, but I can't seem to get started. It feels like no matter how hard I try, I'm just not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It must be really hard to feel that way. Why do you think you're not good enough?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep comparing myself to others, and I always feel like I'm falling short. I think if I worked harder, I'd be better, but I can't seem to push myself past the fear of failure."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of pressure on your own. Why do you think you need to work harder to feel better?"
+        },
+        {
+          "role": "Client",
+          "text": "I think I've always tied my worth to what I accomplish. If I'm not working, I feel like I'm not contributing, and that makes me feel useless."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a heavy burden to carry. Why do you think your worth depends on what you accomplish?"
+        },
+        {
+          "role": "Client",
+          "text": "I grew up thinking that if I didn't work hard enough, I wouldn't be enough. My dad always said I had to prove myself, and I took that to heart. Now, even when I'm not working, I feel like I'm failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "That must have shaped a lot of your beliefs. Why do you think your dad's words still feel so powerful today?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I still hear them in my head, even when I don't want to. I keep thinking, \"What if he's right?\" and it stops me from doing anything that doesn't feel productive."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's clear that his voice has stayed with you. Why do you think it's so hard to silence it?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know. Sometimes I try to ignore it, but then I feel like I'm not doing enough. It's like the more I try to push it away, the louder it gets."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really overwhelming. Why do you think pushing it away makes it louder?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe because I'm fighting against it instead of letting it go. I feel like if I don't acknowledge it, I'm pretending it doesn't matter, and that makes it feel more real."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's interesting how that works. Why do you think pretending it doesn't matter makes it feel more real?"
+        },
+        {
+          "role": "Client",
+          "text": "Because when I ignore the voice, I'm not facing the truth of what I'm feeling. It's like I'm avoiding the part of myself that's scared I'm not enough, and that fear just grows stronger the more I run from it."
+        },
+        {
+          "role": "Counselor",
+          "text": "That makes a lot of sense. Why do you think running from that fear makes it feel more powerful?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know. It's like the more I try to escape it, the more it clings to me. I feel trapped, like I can't move forward without facing it."
+        }
+      ]
+    }
+  ]
+}

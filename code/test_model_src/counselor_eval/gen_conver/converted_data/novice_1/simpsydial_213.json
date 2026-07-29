@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_213",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress on anything. It's hard to stay motivated when I don't feel like my efforts matter."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. It might help to explore what specifically makes you feel like your efforts don’t matter."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about my dad's letter and how he never really acknowledged the pain. It makes me feel like no one sees me, not even myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that this letter has left a deep impact on you. I wonder how that feeling of being unseen connects to the way you view your own efforts."
+        },
+        {
+          "role": "Client",
+          "text": "I feel like if I don’t work hard enough, no one will notice me. Even when I try to do things for myself, I end up doubting if it’s worth it."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a heavy pattern to carry. It seems like your fear of being unseen is deeply tied to how you value your own efforts."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess it is. I feel like if I don’t produce something tangible, it’s like I’m not really here. It’s hard to believe my own work matters when I don’t get recognition."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're struggling with a sense of invisibility, even in your own mind. That must be incredibly exhausting."
+        },
+        {
+          "role": "Client",
+          "text": "It is. I feel like I’m always trying to prove I exist, but no matter how hard I work, it’s never enough. I just want to feel like my efforts are seen, even if no one else acknowledges them."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that you’re carrying a lot of unspoken expectations on your own. Maybe it’s time to start asking yourself what it would look like if your efforts *did* feel seen, even in small ways."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t even know where to start. I guess I’d feel like I’m not wasting my time, like what I do actually matters, even if no one else cares."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a meaningful shift in perspective. It might help to think about moments when you felt your efforts mattered, even if only to yourself."
+        },
+        {
+          "role": "Client",
+          "text": "I remember when I finished that project on my own. It felt good, even if no one else knew. I guess I just needed to remember that it’s okay for things to matter to me, even if they don’t to others."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a powerful realization. It might be helpful to start noticing those small moments of validation, even if they’re only for you."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I think that could help. It’s just hard to remember that sometimes, especially when I’m feeling so alone."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel that way—sometimes the hardest part is remembering that you’re not alone in feeling this way. You’re not the only one carrying this weight."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks. It’s comforting to hear that I’m not the only one. I just wish I could feel that way more often, even when no one is around."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling that way, and it’s okay to want to feel that connection more often. It takes time to build that sense of being seen, even in the quiet moments."
+        },
+        {
+          "role": "Client",
+          "text": "I know. It’s like I’m waiting for someone to finally notice, but I don’t even know where to start looking."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_178",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at a crossroads but can't decide which way to go. It's hard to focus on anything when my mind keeps circling back to the same doubts."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're feeling overwhelmed by choices and uncertainty. Can you tell me more about what specifically is causing these doubts?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about the projects I started but never finished. I feel like I'm not good enough, and every time I face a challenge, I start doubting myself all over again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It seems like you're struggling with self-doubt and unfinished tasks. Let's focus on what you're currently working on rather than past projects."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know what I'm working on anymore. Everything feels like a half-finished idea, and I can't shake the fear that I'll fail again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear you’re feeling stuck and worried about failure. Let’s try to identify what might be holding you back from moving forward."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about how my father never understood me, and I feel like I’m not good enough for anyone to truly accept me. It’s like I’m always trying to prove myself, but no matter what I do, it’s never enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like your relationship with your father has had a lasting impact on how you see yourself. Can you share what you think might help you feel more accepted?"
+        },
+        {
+          "role": "Client",
+          "text": "I think if I could write that letter and finally say what I need to say, maybe I could start to feel like I’m not just trying to prove myself to others. I think I need to stop waiting for validation and just accept that I’m enough, even if no one else does."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like an important step. Writing the letter might help you process your feelings and begin to shift your perspective."
+        },
+        {
+          "role": "Client",
+          "text": "I’ve been thinking about it a lot, but I still feel afraid. What if I say the wrong thing? What if it doesn’t change anything?"
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s natural to feel fear when facing something important. Let’s explore what specifically makes you worry about saying the wrong thing."
+        },
+        {
+          "role": "Client",
+          "text": "I worry that if I write the letter, I’ll expose all my fears and insecurities, and then people will see me as weak or broken. I don’t want to be judged or misunderstood."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to fear being judged or misunderstood. Let’s talk about how you might feel when you finally write that letter."
+        },
+        {
+          "role": "Client",
+          "text": "I think I’d feel a mix of relief and sadness. Like I’ve finally let go of something I’ve been carrying for so long, but also like I’m opening myself up to something I’m not sure I’m ready for."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a deeply complex and emotional process. It’s okay to feel both relief and uncertainty—those feelings are part of what makes this moment meaningful."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I’m ready yet, but I feel like I have to try. It’s like I’m holding my breath, waiting for the right moment to let it out, and I’m afraid I’ll never find it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear you’re carrying a lot, and it’s brave of you to acknowledge that. Let’s explore what that \"right moment\" might look like for you."
+        },
+        {
+          "role": "Client",
+          "text": "I think the right moment would be when I feel like I’ve done enough to understand myself, when I’m not just trying to fix things but trying to be honest with myself. But I don’t know if I’ll ever feel that way."
+        }
+      ]
+    }
+  ]
+}

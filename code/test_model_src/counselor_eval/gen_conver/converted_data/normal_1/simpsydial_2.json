@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_2",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling... tired. Like everything is too much to handle."
+        },
+        {
+          "role": "Counselor",
+          "text": "I'm sorry to hear that. It sounds like you're carrying a heavy load right now. Would you like to talk about what's been on your mind?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know where to start. Everything feels so complicated, and I'm scared to say the wrong thing."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s completely normal. It’s okay to feel overwhelmed and unsure. Let’s take it one small step at a time—what’s something that’s been on your mind lately?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about my cousin's wedding. I don’t want to go, but I don’t know how to say no. It feels like everyone will judge me."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way. Social situations can be really stressful, especially when you’re worried about how others might perceive you. Would you like to explore what’s making it hard for you to say no?"
+        },
+        {
+          "role": "Client",
+          "text": "I just feel like if I go, I’ll end up being the topic of conversation. People will ask me about my weight, my past, everything. I don’t want to be seen as the weird, broken cousin."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really painful. It’s natural to want to fit in and avoid being judged, but it’s important to remember that you deserve to feel comfortable in your own skin. Would you like to explore how you might set boundaries at the event?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to set boundaries. I’ve always been the one who just disappears when things get too much. I don’t want to make waves, but I can’t keep pretending I’m okay with it."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling this way, and it’s brave of you to acknowledge how much this is weighing on you. Let’s work together to find a way to honor your needs without losing yourself in the process. What would feel possible for you right now?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe... just being able to say no without feeling like I’m letting everyone down. I don’t want to be there, but I don’t know how to explain that without sounding like I’m blaming them."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a really important step—learning to say no without guilt. It’s not about blaming anyone, but about honoring your own needs. Would you like to practice a simple way to express that?"
+        },
+        {
+          "role": "Client",
+          "text": "I guess... I could say I’m not feeling well and need to stay home. But I don’t want to lie. I just want to be honest without making them angry."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a thoughtful approach. Honesty is powerful, but it’s also okay to be gentle with how you share your truth. Let’s explore how you might phrase it in a way that feels authentic and kind."
+        },
+        {
+          "role": "Client",
+          "text": "I could say something like, \"I really wish I could be there, but I’m not feeling up to it. I hope you understand.\" I just don’t want to make them feel like I’m rejecting them."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds sincere and kind. You’re giving them space to feel respected, while also honoring your own needs. It’s a gentle way to set a boundary without blame. Would you like to try saying it out loud?"
+        },
+        {
+          "role": "Client",
+          "text": "I think I can try. It just feels so hard to say, even though I know it’s the right thing. I don’t want to hurt anyone, but I can’t keep pretending I’m okay."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re doing something important by choosing honesty over pretending. It takes courage to stand in your truth, even when it feels difficult. You’re not hurting anyone—you’re protecting yourself."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... I guess I am. It’s just so hard to believe that I deserve to feel safe, even when I’m scared to take up space."
+        }
+      ]
+    }
+  ]
+}

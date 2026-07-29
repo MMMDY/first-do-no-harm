@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_84",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying to stay calm, but my hands are shaking. I keep thinking about what my father might say if I don't include him in everything."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. I can see how that would make you feel overwhelmed. Would you like to talk more about what's going on with your father?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know what to say. Every time I try to explain how I feel, he just gets angry. It's like he doesn't understand why I can't just be the way he wants me to be."
+        },
+        {
+          "role": "Counselor",
+          "text": "That must be so frustrating. I wish there was a way to help you both feel heard. Maybe we could work on some strategies to communicate better?"
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could explain without him getting so defensive. I just want him to see that I'm not trying to hurt him, but I can't keep pretending to be someone I'm not."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's so brave of you to want to be authentic. I think you're doing more than most people ever do. Would you like to try writing down how you feel? It might help you see it more clearly."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if writing will help. Every time I try to say something, it just makes things worse. I end up apologizing for being myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s really painful. I can imagine how exhausting it must feel to always apologize for who you are. Maybe we could explore some ways to set boundaries that feel safer for you?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to set boundaries without feeling like I’m pushing him away. I keep thinking he’ll leave if I say no, and I can’t bear the thought of losing him."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling that way. It’s natural to fear losing the people we care about. But what if we tried something different—like finding a way to say no without it feeling like a rejection?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to say no without making him feel like I don’t care. I just want him to understand that I’m not trying to hurt him, but I can’t keep doing this."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re trying so hard to make things work, and that’s admirable. I think you deserve to be seen for who you are, not just what you think others want you to be."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it feels like every time I try, I just end up hurting someone. I don’t know how to stop hurting people without hurting myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s so brave of you to keep trying, even when it feels like you’re hurting. You’re not alone in this, and you don’t have to do it all by yourself."
+        },
+        {
+          "role": "Client",
+          "text": "I just want to feel like I’m not alone, but every time I try to reach out, it feels like I’m just making things worse. I don’t know how to stop feeling this way."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling this way, and it’s okay to feel stuck. I’m here to help you find a way forward, even if it feels impossible right now."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if there’s a way forward. I just feel like I’m trapped, and no matter what I do, I can’t escape the pain."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not trapped, and you don’t have to face this alone. I’m here to walk with you, even if it feels like we’re both still learning how to move forward together."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to believe that. Every time I try to hope, something happens to remind me that I’m not safe. I just want to stop hurting."
+        }
+      ]
+    }
+  ]
+}

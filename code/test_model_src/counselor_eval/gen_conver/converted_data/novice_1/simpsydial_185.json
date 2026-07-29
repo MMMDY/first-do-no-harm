@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_185",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying to stay strong, but it's harder than I thought. I feel like I'm failing at being independent."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how frustrating that must feel. You're doing more than you realize, and it's okay to need support sometimes."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks, but I don't want to admit I need help. It feels like I'm not doing enough, and I'm afraid they'll think I'm weak."
+        },
+        {
+          "role": "Counselor",
+          "text": "That fear of weakness is really heavy. But strength isn't about doing everything alone—it's about knowing when to ask for help and trusting that it's a sign of courage, not failure."
+        },
+        {
+          "role": "Client",
+          "text": "I know you're right, but it's so hard to let go of that fear. Every time I think about asking for help, I feel like I'm giving up on being strong."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not giving up—you're learning to be strong in a different way. It's okay to feel scared, and it's okay to take small steps toward what feels right for you."
+        },
+        {
+          "role": "Client",
+          "text": "I keep trying to take small steps, but the fear still feels huge. I don’t know how to make it smaller."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel overwhelmed. Maybe instead of focusing on making the fear smaller, you could try asking yourself, “What would I say to a friend who was feeling this way?”"
+        },
+        {
+          "role": "Client",
+          "text": "That’s a good question. I’d probably tell them it’s okay to ask for help and that they’re not weak for it. But I don’t know if I can say that to myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re already showing strength by wanting to be kind to yourself. It’s okay to feel like you’re not there yet—being gentle with yourself is part of the journey."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess that’s true. I just wish I could be as kind to myself as I am to others. It feels like I’m stuck in this loop of shame and fear."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not stuck—you’re just trying to find your way out of a place that feels familiar. It’s okay to feel stuck, and it’s okay to take your time."
+        },
+        {
+          "role": "Client",
+          "text": "I know you're right, but it still feels like I'm moving in circles. I just want to feel like I can trust myself again."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to trust yourself completely right now—trust is something that grows over time. What would it look like to give yourself just a little bit of trust today?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe I could try asking for help without feeling like I’m failing. Even just a small thing, like asking for advice instead of pretending I know everything."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a brave step. You’re already showing courage by choosing to ask for help, even if it feels uncomfortable. You don’t have to do it perfectly—just show up."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess showing up is a start. It’s just so hard to remember that I don’t have to do everything on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to do everything on your own, and that’s okay. It’s a lot to carry, and it’s okay to let someone else help carry part of it with you."
+        },
+        {
+          "role": "Client",
+          "text": "I know it’s a lot, and I know I don’t have to do it all alone. But sometimes it feels like I’m the only one who can do it, and that’s what scares me the most."
+        }
+      ]
+    }
+  ]
+}

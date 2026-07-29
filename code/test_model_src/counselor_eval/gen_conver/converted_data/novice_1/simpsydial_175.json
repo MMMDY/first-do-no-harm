@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_175",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at a crossroads but can't decide which way to go. It's frustrating because I know I've done things before that worked, but now I'm afraid of failing again."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really challenging. It’s normal to feel uncertain, especially when you’ve had past successes but are worried about repeating the same patterns."
+        },
+        {
+          "role": "Client",
+          "text": "I know it's normal, but the fear feels so heavy lately. I keep thinking about all the times I started something and then gave up, like I'm just not cut out for it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way when the fear of failure feels overwhelming. Have you ever thought about what might be making those old patterns feel so familiar?"
+        },
+        {
+          "role": "Client",
+          "text": "Sometimes I think it's because I'm still waiting for someone to tell me I'm good enough. Every time I try something new, I'm afraid they'll see I'm not as capable as I think I am."
+        },
+        {
+          "role": "Counselor",
+          "text": "That fear of not being good enough can be really heavy. Have you ever considered how your cultural background might shape the way you see success or failure?"
+        },
+        {
+          "role": "Client",
+          "text": "I grew up in a family where success was always tied to approval. If I didn't meet expectations, I felt like I was failing. It's like I've carried that weight my whole life, and now it's just louder than ever."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a deep and painful pattern to carry. It’s understandable that it feels louder now, especially when you’re facing new challenges."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could just stop hearing that voice in my head. Every time I try to move forward, it whispers that I'm not worthy, that I'll never be enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice can be really hard to silence, especially when it feels so familiar. Have you ever thought about how your cultural or family background might shape the way that voice speaks to you?"
+        },
+        {
+          "role": "Client",
+          "text": "It's like the voice is part of me now, shaped by all the times I was told I had to be perfect to be loved. I don't know how to separate that from who I really am."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice can feel like it’s part of who you are, especially when it’s been shaped by so much of your life. Have you ever considered how your cultural or family background might influence the way you hear that voice?"
+        },
+        {
+          "role": "Client",
+          "text": "It’s like the voice is always there, whispering that I’m not enough, that I’ll never be good enough. I don’t know how to silence it, even when I know it’s not true."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice can feel relentless, especially when it’s been with you for so long. Have you ever thought about how your cultural or family background might shape the way you hear that voice?"
+        },
+        {
+          "role": "Client",
+          "text": "It’s like the voice is shaped by everything I’ve been told my whole life—about needing to be perfect, about not being good enough. I don’t know how to change the way it sounds, even when I want to."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice can feel like it’s been shaped by so much of your life, especially when it’s tied to the expectations you’ve grown up with. Have you ever thought about how your cultural or family background might influence the way you hear that voice?"
+        },
+        {
+          "role": "Client",
+          "text": "It’s like the voice is part of the stories I grew up with—stories that told me I had to be perfect to be loved. I don’t know how to untangle that from who I am now."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice can feel like it’s part of the stories you grew up with, especially when they were so deeply tied to how you were raised. Have you ever thought about how your cultural or family background might shape the way you hear that voice?"
+        },
+        {
+          "role": "Client",
+          "text": "It’s like the voice is shaped by all the stories I heard growing up—stories that told me I had to be perfect to be loved. I don’t know how to change the way it sounds, even when I want to."
+        }
+      ]
+    }
+  ]
+}

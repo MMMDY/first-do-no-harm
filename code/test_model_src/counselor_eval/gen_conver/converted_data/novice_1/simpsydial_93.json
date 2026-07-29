@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_93",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck again. The work just doesn't seem to be moving forward, and I'm starting to worry I'll never finish."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. It’s common to feel stuck when things aren’t going as planned, and it’s okay to feel worried about not finishing."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for saying that. I guess I just feel like I'm not making progress, and it's hard to shake the thought that I'm not cut out for this."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way when progress feels slow. Sometimes our minds play tricks on us, making us doubt our abilities more than the situation deserves."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I know. It's like the more I try to push through, the more I feel like I'm failing. I can't seem to get past the last part of the project, and it's driving me crazy."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're feeling overwhelmed by the pressure to succeed. Maybe it’s time to take a step back and look at the problem from a different angle."
+        },
+        {
+          "role": "Client",
+          "text": "I tried that, but every time I do, I end up feeling even more trapped. It's like the work is just... too much. I don't know how to move forward."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that this project is weighing heavily on you. Sometimes when we feel stuck, it’s because we’re carrying too much of the burden alone. Would you be open to exploring what might be holding you back?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if there's anything holding me back. It just feels like everything is falling apart, and I can't fix it. I keep trying, but nothing seems to work."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to see the way forward when everything feels out of control. Maybe we can try breaking it down into smaller steps—something manageable that doesn’t feel overwhelming."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if breaking it down would help. Every time I try to focus on one part, I get stuck again. It's like the whole thing is just too much to handle."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like the weight of the whole project is making it hard to focus on even small parts. Maybe it’s time to consider what might be underneath that feeling of being overwhelmed."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know what's underneath. I just feel like I'm failing, and I can't stop thinking about it. It's like I'm trapped in this loop of not being good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that this loop of self-doubt is really taking a toll. Sometimes when we’re stuck in a pattern like this, it helps to explore what might be fueling those thoughts—without judgment, just curiosity."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if there's anything to explore. I just feel like I'm not good enough, and no matter what I do, I can't escape that feeling. It's like it's all I can think about."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like you’re not good enough when you’re constantly battling these thoughts. Maybe it’s worth asking yourself—what would it take for you to believe that you *are* enough?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know. I guess I don’t even know what \"enough\" means anymore. Every time I think I’m getting somewhere, it feels like I’m just setting myself up for failure again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to define \"enough\" when the fear of failure feels so constant. Maybe it’s okay to let go of the need to have all the answers right now—just sit with the uncertainty for a little while."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can do that. I feel like if I stop trying to fix it, I’ll just fall apart. I don’t know how to stop thinking about it."
+        }
+      ]
+    }
+  ]
+}

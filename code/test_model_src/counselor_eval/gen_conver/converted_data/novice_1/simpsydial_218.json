@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_218",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress. It's hard to focus on things that don't have an immediate payoff."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. Have you noticed any patterns in when these feelings show up?"
+        },
+        {
+          "role": "Client",
+          "text": "They seem to come when I'm trying to work on something I care about, like my website. I get this voice in my head saying no one will care, and I just shut down."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're struggling with self-doubt. Have you ever talked to someone about these thoughts before?"
+        },
+        {
+          "role": "Client",
+          "text": "Not really. I used to think if I talked about it, people would just see me as weak. But lately, I've been wondering if that's true."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's brave of you to be thinking about that. Have you considered how these thoughts might be connected to your overall sense of confidence or self-worth?"
+        },
+        {
+          "role": "Client",
+          "text": "Sometimes I think my worth is tied to how much I can accomplish. If I'm not working, I feel like I'm failing. It's like I'm always trying to prove something to myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a heavy burden to carry. Have you ever thought about how your body feels during these moments of self-doubt?"
+        },
+        {
+          "role": "Client",
+          "text": "My chest feels tight, like I can't breathe properly. My hands get shaky, and I just want to hide. It's like the world gets louder and I can't escape it."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really overwhelming. Have you ever considered how these physical sensations might be connected to the thoughts you're having?"
+        },
+        {
+          "role": "Client",
+          "text": "I think they're connected. When the thoughts come, my body reacts like I'm in danger. It's like my mind and body are fighting each other, and I don't know how to stop it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like your body is reacting to the stress you're feeling. Have you ever thought about how these reactions might be part of a larger pattern in your life?"
+        },
+        {
+          "role": "Client",
+          "text": "I've noticed that when I feel this way, I tend to isolate myself or push through with work. It's like I'm trying to outrun the feeling instead of facing it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're trying to manage the discomfort in ways that might be keeping you stuck. Have you ever thought about how your body responds when you try to push through these feelings?"
+        },
+        {
+          "role": "Client",
+          "text": "My body gets tense, like I'm holding my breath. I feel like I'm running on a treadmill, going nowhere, but I can't stop."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like your body is trying to protect you in some way. Have you ever thought about how these physical reactions might be connected to your sense of control in your life?"
+        },
+        {
+          "role": "Client",
+          "text": "I feel like I'm always trying to control everything, but when I can't, my body reminds me I'm not in charge. It's like I'm fighting a battle I can't win."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a really difficult struggle. Have you ever thought about how your body might be trying to tell you something about your needs or limits?"
+        },
+        {
+          "role": "Client",
+          "text": "I think my body is trying to tell me I need to slow down, but I don't know how to listen. I keep pushing through, even when I feel like I'm breaking."
+        }
+      ]
+    }
+  ]
+}

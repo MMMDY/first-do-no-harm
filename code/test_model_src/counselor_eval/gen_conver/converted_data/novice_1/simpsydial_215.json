@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_215",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress on anything. It's hard to stay motivated when I don't see a clear purpose in what I'm doing."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. Maybe you could try breaking things down into smaller steps to feel more in control."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know... I keep thinking, what's the point? If no one will ever see it, why bother?"
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel that way. But maybe there’s something deeper that you’re not seeing. What would happen if you tried to focus on just one small thing right now?"
+        },
+        {
+          "role": "Client",
+          "text": "I guess I could try... but I keep getting distracted. My mind just goes blank, and I feel like I'm wasting time."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to stay focused when you’re feeling this way. Maybe you could try setting a timer for just five minutes and see what happens."
+        },
+        {
+          "role": "Client",
+          "text": "Five minutes? I don’t know if I can even do that. It feels like I’m forcing myself to do something I don’t want to."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not forcing yourself—you’re choosing to take one small step. That’s a start, even if it feels uncomfortable."
+        },
+        {
+          "role": "Client",
+          "text": "I guess... I just don’t know where to begin. Everything feels too big, and I’m afraid I’ll fail again."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to do it all at once. Let’s focus on just one thing that feels even slightly possible. What would that be?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe... just opening the website file and adding one more section. It feels too small, but maybe that’s all I can do right now."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a good start. Even small steps can build momentum over time. You’re doing better than you think."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks... I guess. It still feels so hard, but maybe starting with that one thing is better than nothing."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not giving yourself enough credit. You’re already making progress by recognizing that small step. Keep going."
+        },
+        {
+          "role": "Client",
+          "text": "I know... it’s just hard to believe I’m actually doing something, even if it’s tiny. I keep thinking I’ll just give up again."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in that fear. But every time you take a step, even a tiny one, you’re proving to yourself that you can keep going. That’s powerful."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... I guess that’s true. It’s just hard to remember when I’m feeling so stuck."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not stuck forever. You’re just in a moment where it feels that way. And that’s okay. You’re allowed to feel stuck."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... I guess I am. It’s just hard to imagine getting out of this moment."
+        }
+      ]
+    }
+  ]
+}

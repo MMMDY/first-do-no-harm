@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_168",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck again. Old thoughts keep coming back, like I'm not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how that might feel overwhelming. It sounds like these thoughts are really taking up space in your mind."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, they're loud. I keep trying to push them away, but they just get louder."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s like they’re trying to tell you something, even if it feels uncomfortable. Have you ever tried to listen to what they’re saying?"
+        },
+        {
+          "role": "Client",
+          "text": "Sometimes I think they’re just noise. But when I try to listen, it feels like they’re saying I don’t deserve to be happy."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a heavy realization. It might help to explore what those thoughts mean to you personally."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to change them. Every time I try, I feel like I’m failing again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way. But maybe there’s a way to approach these thoughts differently—let’s try to figure it out together."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can trust myself to try again. What if I fail?"
+        },
+        {
+          "role": "Counselor",
+          "text": "Failing isn’t the end—it’s just part of the process. You’re already showing courage by being here."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I just don’t want to feel like a failure again. It’s like every time I take a step forward, I’m reminded of how far I’ve fallen."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a really painful cycle. It’s okay to feel that way, but I think there’s a way to break free from it. Let’s try to find it together."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to stop feeling like this. It’s like the weight is too heavy to carry."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to carry that weight alone, but you don’t have to do it by yourself. Let’s find some light together."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can even try. Every time I think I’m getting closer, the fear comes back."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in this fear. It’s okay to feel scared, but you’re already taking a step by talking about it."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it feels like no matter how much I try, I’m still stuck in the same place."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s frustrating when things feel stuck, isn’t it? But maybe there’s a different way to move forward that we can explore together."
+        },
+        {
+          "role": "Client",
+          "text": "I keep trying, but it feels like I’m just spinning in circles. I don’t know how to stop the fear from pulling me back."
+        }
+      ]
+    }
+  ]
+}

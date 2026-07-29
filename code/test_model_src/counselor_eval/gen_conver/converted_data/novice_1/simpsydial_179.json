@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_179",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at a crossroads but can't decide which way to go. It's hard to focus on anything when my mind keeps circling back to the same worries."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. It’s normal to feel overwhelmed when you’re trying to make decisions, especially when your thoughts keep looping."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it's like my thoughts are stuck in a loop, replaying the same fears over and over. I can't seem to break free, even when I know I should."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s frustrating when your mind keeps circling, isn’t it? Sometimes our brains get stuck on certain worries because they feel more familiar than the unknown."
+        },
+        {
+          "role": "Client",
+          "text": "It feels like I'm trapped in a maze, and every time I think I see a way out, the walls just shift. I don't know how to stop the fear from taking over."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a powerful way to describe it. It’s like your fear is rewriting the path every time you try to move forward, and it can be hard to see where you’re going."
+        },
+        {
+          "role": "Client",
+          "text": "I feel like I'm always chasing something that slips through my fingers. Every time I think I'm getting closer, it just disappears again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’re trying so hard to hold on, but the fear of losing it keeps pulling you back. That must be exhausting."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it's like I'm running on a treadmill, going nowhere, but I can't stop. Every time I try to take a step forward, the fear just drags me back."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a vivid image. It feels like you’re working really hard, but the fear is keeping you in place, making it hard to move forward."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about all the things I've started before—projects, ideas, even relationships. But something always stops me. I don't know if it's fear or just... not knowing if I'm good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s easy to feel like you’re not good enough when the fear of failure or rejection is so strong. That can make it hard to even try in the first place."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess that's it. I keep thinking, what if I fail again? What if no one cares? It's like I need everyone to approve of me just to feel like I'm worth something."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a heavy burden to carry. It’s understandable to want approval, but it’s not the only way to feel worthy."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's so hard to believe that. Every time I try to do something on my own, I feel like I'm not enough. It's like I'm always waiting for someone to tell me I'm okay."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s like you’re waiting for validation to feel like you’re enough, but that can create a cycle where you’re always looking for someone else to confirm your worth."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it's like I'm stuck in this loop where I need approval to feel okay, but the more I seek it, the more I feel like I'm failing. I don't know how to break free."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s like you’re caught in a cycle where seeking approval keeps you from feeling secure on your own, and that insecurity makes you feel like you’re failing. It’s a tough spot to be in."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about the projects I started before—like the website I built. I was excited then, but now I feel like I was just chasing something that never really mattered."
+        }
+      ]
+    }
+  ]
+}

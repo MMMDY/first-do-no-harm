@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_216",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress on anything. It's hard to stay motivated when I keep thinking no one will care about what I do."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. I’ve been there too, and I know how hard it can be to feel like your efforts don’t matter."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for understanding. I just... keep scrolling on my phone instead of working on my website. It feels easier, even though I know it's not helping."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s easy to get caught up in things that feel immediate, even if they don’t serve you in the long run. Maybe you could try setting small, manageable goals for your website?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about it, but the idea of starting feels too big. I end up just watching videos instead of doing anything real."
+        },
+        {
+          "role": "Counselor",
+          "text": "It makes sense to feel overwhelmed when facing something big. Maybe breaking it into smaller steps could help you feel less stuck."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but even small steps feel impossible. I just... don’t know where to begin."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel unsure — that’s part of the process. Maybe you could start by just opening your website and looking at it for five minutes? That’s a tiny step, but it might help you feel more connected to the work."
+        },
+        {
+          "role": "Client",
+          "text": "Five minutes? I guess... I could try. It’s just hard to imagine that it’ll ever mean anything."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to see the value in small steps when the future feels so uncertain. But even a little action can help you feel like you’re moving forward, even if it’s just a small part of the bigger picture."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess that’s true. It’s just... hard to believe that anything I do will ever matter. I keep thinking about my dad’s letter and how he never really apologized. It’s like everything I do is just... not enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way when you’re carrying unspoken hurt. I’ve seen how unresolved feelings can make it hard to believe your efforts are meaningful. Have you ever thought about how you’d like to be seen or heard?"
+        },
+        {
+          "role": "Client",
+          "text": "I wish someone would just see me for who I am, not just for what I do. It’s like I’m always trying to prove I’m worth something, but no one ever really gets it."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a deep longing to be truly seen and understood. I can imagine how exhausting it must feel to constantly be judged by what you do rather than who you are."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it’s like I’m always trying to build something to prove I’m not a waste. But even when I do, it’s never enough. I just want to feel like I matter, even if no one else does."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s heartbreaking to feel like you have to constantly prove your worth. I think you already matter — even if it doesn’t feel that way right now. You’re trying to make meaning, and that’s a sign of strength."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks... I guess I just need to remember that. It’s hard, but I’m trying. I don’t know if I’ll ever feel like I’m enough, but I’m trying to believe that I matter."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re already doing something important by trying to believe in yourself — even when it feels hard. That takes courage, and it matters more than you realize."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... I guess it does. It’s just hard to see that when everything feels so heavy. But I’m still here, trying."
+        }
+      ]
+    }
+  ]
+}

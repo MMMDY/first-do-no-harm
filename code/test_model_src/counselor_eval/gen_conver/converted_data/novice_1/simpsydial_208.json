@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_208",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I messed up the insurance claim again, and I'm worried about the money."
+        },
+        {
+          "role": "Counselor",
+          "text": "I understand that making mistakes can be stressful. It's important to focus on what you can control."
+        },
+        {
+          "role": "Client",
+          "text": "I know I should focus on fixing it, but every time I make a mistake, I feel like I'm failing. I just want to be good at managing my own life."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's natural to feel frustrated when things don't go as planned. Let's look at what steps you can take to improve the situation."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know where I went wrong, but I keep thinking I'm not cut out for this. I just want to get it right without asking for help."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's important to recognize that everyone makes mistakes. You don't have to handle everything alone."
+        },
+        {
+          "role": "Client",
+          "text": "I know that, but I feel like if I ask for help, I'm admitting I'm not capable. It's so hard to let go of that fear."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's understandable to feel that way, but asking for help is a sign of strength, not weakness. Let's explore how you can approach this with more confidence."
+        },
+        {
+          "role": "Client",
+          "text": "I try to remind myself that, but the fear of being seen as weak or helpless is still there. It feels like a betrayal of everything I'm trying to prove."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that this fear is deeply tied to your sense of self. Let’s examine how this belief might be shaping your actions and what might be behind it."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t want to be like my brother, always relying on others. But every time I mess up, I feel like I’m failing at being the person I want to be."
+        },
+        {
+          "role": "Counselor",
+          "text": "That comparison can be heavy to carry. It’s important to define success on your own terms, not in relation to others."
+        },
+        {
+          "role": "Client",
+          "text": "I know that, but it's so hard to separate myself from how I see my brother. I keep thinking, if I fail, I'll be just like him."
+        },
+        {
+          "role": "Counselor",
+          "text": "That fear of resembling someone else can feel overwhelming. It’s okay to feel that way, but let’s explore what this comparison means for you and how it might be holding you back."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t want to be like him, but every time I make a mistake, I feel like I’m proving it. I’m scared I’ll never be enough, no matter how hard I try."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that this fear is deeply rooted and has been affecting your self-worth. Let’s work together to understand where this belief comes from and how we can challenge it."
+        },
+        {
+          "role": "Client",
+          "text": "I think it started when I was younger, when I saw how my brother always had support and I didn’t. I started believing I wasn’t good enough to be on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a significant insight. It sounds like those early experiences have shaped a deep sense of insecurity that’s still influencing you today."
+        },
+        {
+          "role": "Client",
+          "text": "Yes, and it’s hard to shake. Even now, I feel like I have to prove I’m capable every single day, or else I’ll fall back into that place of feeling like I’m not enough."
+        }
+      ]
+    }
+  ]
+}

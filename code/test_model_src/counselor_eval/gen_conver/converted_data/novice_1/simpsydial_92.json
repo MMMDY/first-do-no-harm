@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_92",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck again. The work just doesn't seem to be moving forward, and I keep thinking I should be further along."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s understandable. It’s easy to feel like you’re not making progress when things feel slow, but you’re doing the best you can."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks, but I don’t feel like I’m doing enough. Every time I think I’m getting somewhere, the last part feels impossible. I end up avoiding it all together."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of pressure on your own. Maybe it’s time to let go of the need to control everything and just take things one step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "I try, but the pressure still feels too heavy. I keep thinking if I don’t finish perfectly, it’s like I’ve failed. I don’t know how to stop that thought."
+        },
+        {
+          "role": "Counselor",
+          "text": "That thought can be really heavy to carry alone. Let me tell you something—no one finishes perfectly, and that doesn’t mean they’ve failed."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it feels so different in my head. I keep hearing that voice saying I’m not good enough, even when I try to remind myself otherwise."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice is trying to control you, but it doesn’t have to be the only one you listen to. You’re stronger than that, and you’re doing better than you think."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could believe that more. Sometimes I feel like I’m fighting a battle I can’t win, and it’s exhausting."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not fighting a battle you can’t win—you’re fighting a battle that’s been shaped by things you didn’t choose. And that’s okay. You don’t have to win it all at once."
+        },
+        {
+          "role": "Client",
+          "text": "It’s just so hard to remember that. I keep getting pulled back into the same patterns, like I’m stuck in a loop I can’t escape."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not stuck in a loop—you’re just trying to find your way out of one that’s been around for a long time. And that’s a sign of strength, not weakness."
+        },
+        {
+          "role": "Client",
+          "text": "I guess that makes sense, but it still feels like I’m not making any real progress. I just want to feel like I can do this without falling apart."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not falling apart—you’re trying to hold everything together, and that takes a lot of strength. You don’t have to do it all alone."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it’s hard to ask for help when I feel like I’m the only one who can fix this. I just want to feel like I’m enough, even if I’m not perfect."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not the only one who can fix this—everyone struggles, and that’s okay. You’re already enough, just as you are."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks... but I still feel like I’m not enough. It’s like no matter what I do, I’m not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not the only one who feels that way, and it doesn’t mean you’re not enough. You’re already doing more than you realize."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it feels like I’m stuck in this loop of not being enough. I just want to feel like I can stop trying so hard."
+        }
+      ]
+    }
+  ]
+}

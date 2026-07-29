@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_17",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm tired, but I'm trying to stay calm. It's hard, but I'm here."
+        },
+        {
+          "role": "Counselor",
+          "text": "That's a lot to carry, but you're doing better than you think. You're here, and that's already a step forward."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks... I guess. It's just hard to believe I can do this. Every day feels like a battle."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone in this, and it's okay to feel overwhelmed. I believe in you, and I know you're stronger than you realize."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... I know. It's just sometimes the weight feels too heavy to carry."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not carrying it alone, and it's okay to feel that way. I'm here to help you carry it, step by step."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks... I just wish I could feel like I'm making a difference. It's like I'm stuck in this loop."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not stuck, and you're making a difference every day, even if it doesn't feel like it. I believe in your ability to break free, and I'm here to help you see it."
+        },
+        {
+          "role": "Client",
+          "text": "I know you say that, but it's hard to believe when I feel like I'm just spinning in place."
+        },
+        {
+          "role": "Counselor",
+          "text": "I understand that it can feel like you're going in circles, and that's okay. You're not alone in this, and I'm here to help you find your way out."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... I just don't know how to stop feeling like this. It's like I can't even start."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not starting alone, and it's okay to feel stuck. I'm here to walk with you, even if it's just one small step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if I can take even one step. It feels like the ground is moving, and I can't hold on."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone in this, and it's okay to feel unsteady. I'm here to hold on with you, even if it's just for a moment."
+        },
+        {
+          "role": "Client",
+          "text": "I just... I don't know how to hold on anymore. It feels like everything is slipping away."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone in this, and I'm here to hold on with you, even if it's just for a moment. You're not slipping away—you're still here, and that matters."
+        },
+        {
+          "role": "Client",
+          "text": "I know... but it feels like I'm fading, like I'm not really here. It's like I'm just... waiting to disappear."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not fading, and you're not disappearing. You're here, and that’s real. I’m here with you, and I won’t let you feel like you’re alone in this."
+        },
+        {
+          "role": "Client",
+          "text": "I know... but sometimes it feels like I'm just a shadow of who I used to be. Like I'm not even real anymore."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_204",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I just got a notice about my insurance claim, and it's all a bit overwhelming."
+        },
+        {
+          "role": "Counselor",
+          "text": "I'm sorry to hear that. Would you like to talk about what's going on with the insurance claim? I can help you figure it out."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know how I messed this up. I thought I was handling everything on my own, but now I feel like I'm failing again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel that way. You're not failing—you're just going through a tough time. Let me help you sort this out."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking I should have known better. I feel so useless, like I can't even manage my own money without making a mistake."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not useless—you're human, and everyone makes mistakes. Let me help you figure out what went wrong and how to move forward."
+        },
+        {
+          "role": "Client",
+          "text": "I just feel like I'm always letting people down. I don't want to be like my brother, always needing help. I want to be strong on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's understandable to feel that way, but you're not alone in this. I can help you build the strength you're looking for—let's work on it together."
+        },
+        {
+          "role": "Client",
+          "text": "I'm scared I'll never get it right. Every time I try to do something on my own, I mess up. It's like I'm not cut out for this."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not failing—you're learning. I'm here to help you through this, and I believe in your ability to grow. Let's take it step by step."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know how to stop feeling like this. I want to be strong, but I keep falling apart. It's so hard to do everything by myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don't have to do everything by yourself. I'm here to support you, and we can figure this out together. Let's take it one step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "I just wish I could stop feeling like I'm not enough. I try so hard, but it's never enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're trying hard, and that means a lot. I believe in you, and I'm here to help you feel more confident in your own strength."
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying, but it's like the harder I try, the more I feel like I'm failing. I don't know how to stop the guilt from creeping in."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not failing—you're struggling, and that's okay. I'm here to help you find ways to quiet the guilt and be kinder to yourself."
+        },
+        {
+          "role": "Client",
+          "text": "I feel like I'm stuck in this loop of guilt and failure. Every time I make a mistake, I feel like I'm proving I'm not capable. It's so hard to break free."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not stuck—you're just caught in a cycle that's hard to break on your own. I can help you find a way out, and I believe you're stronger than you think."
+        },
+        {
+          "role": "Client",
+          "text": "I keep telling myself I'm capable, but the guilt is louder. I feel like I'm not doing enough, and I don't know how to change that."
+        }
+      ]
+    }
+  ]
+}

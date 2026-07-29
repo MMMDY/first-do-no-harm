@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_205",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I just got a notice about my insurance claim, and it's all a bit overwhelming."
+        },
+        {
+          "role": "Counselor",
+          "text": "I'm sorry to hear that. It sounds like a lot to handle, but let's take it step by step. What specifically is making you feel anxious?"
+        },
+        {
+          "role": "Client",
+          "text": "The insurance claim had an unexpected balance, and I feel like I messed up. I thought I was handling everything on my own, but now I'm worried I'm not capable."
+        },
+        {
+          "role": "Counselor",
+          "text": "That must be really stressful. It’s normal to feel overwhelmed when things don’t go as planned, but you’re doing your best, and that’s what matters."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m trying, but it’s hard not to feel like a failure when I mess up. I keep thinking I should have known better, and that I’m not really independent after all."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel that way sometimes. But you’re not alone in this, and it doesn’t mean you’re not capable. You’re just human."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I just feel so much pressure to be perfect. Every mistake feels like a sign that I’m not cut out for this."
+        },
+        {
+          "role": "Counselor",
+          "text": "That pressure to be perfect can be really heavy. It’s understandable to feel like a mistake means you’re not enough, but that doesn’t reflect who you are as a person."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it’s so hard to stop thinking that way. Every time something goes wrong, I feel like I’m failing myself and everyone who believes I can do this."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s tough when mistakes feel like they’re betraying the people who believe in you. But you’re allowed to struggle, and it doesn’t mean you’re failing anyone."
+        },
+        {
+          "role": "Client",
+          "text": "I just feel like I’m letting them down, even though I don’t want to be. It’s like every time I make a mistake, I’m proving I’m not strong enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s painful to feel like your mistakes are a reflection of your strength or worth. But your value isn’t tied to how well you handle every situation."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it feels like everything I do is being judged. Even when I try my best, I can’t shake the feeling that I’m not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like you’re always being judged, even when you’re doing your best. But your worth isn’t defined by others’ expectations or your own perfectionism."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could believe that. But every time I mess up, it feels like I’m confirming all the worst things I think about myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel like your mistakes are confirming your worst fears. But those thoughts don’t have to define your reality — they’re just part of the struggle."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it’s so hard to break free from those thoughts. They feel like they’re part of me, not just something I’m dealing with."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like those thoughts are part of you, but they’re not who you are — they’re just temporary patterns that can change with time and support."
+        },
+        {
+          "role": "Client",
+          "text": "I want to believe that, but it’s like I’m stuck in a loop. Every time I try to move forward, the same thoughts come back, and I feel like I’m not in control."
+        }
+      ]
+    }
+  ]
+}

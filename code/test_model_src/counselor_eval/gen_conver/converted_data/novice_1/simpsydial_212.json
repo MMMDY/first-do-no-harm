@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_212",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress on anything. It's hard to stay motivated when I don't see the point in what I'm doing."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. You're not alone in feeling this way, and it's okay to feel stuck sometimes."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for saying that. I guess I just feel like I'm not doing enough, and no one will ever notice or care about what I do."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's important to remember that your efforts matter, even if they don't always feel visible. You're doing more than you realize, and it's okay to take things one step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's hard to believe that when I'm sitting here, not even starting my website. I feel like I'm wasting time, and I don't know how to stop."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's understandable to feel that way when you're overwhelmed. Let's focus on what you can control right now—just one small step, even if it's just opening the browser."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know... I keep scrolling instead of starting. It's like I can't even begin, and I don't know why."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel stuck, and it's normal to have moments where you can't take action. You're not failing—you're just in a place where starting feels too hard."
+        },
+        {
+          "role": "Client",
+          "text": "I feel like I'm trapped in this loop of not doing anything, and I don't know how to break free. It's so frustrating."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone in feeling trapped, and it's okay to feel frustrated. Sometimes the hardest part is just taking the first step, and that's where we can start."
+        },
+        {
+          "role": "Client",
+          "text": "I keep trying to start, but the moment I open the browser, I just scroll. It's like my brain knows I should be working, but I can't make myself do it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like there's a part of you that wants to move forward, but something else is holding you back. Maybe it's fear, or maybe it's just feeling overwhelmed. Let’s try to name what that feeling is, so we can work with it."
+        },
+        {
+          "role": "Client",
+          "text": "I think it's fear—fear that no one will care, that I'm not good enough, and that I'm wasting my time. I don't know how to stop feeling this way."
+        },
+        {
+          "role": "Counselor",
+          "text": "Fear can be really heavy, and it's okay to feel like you're not good enough sometimes. But you're here, and that shows you're already taking a step toward change."
+        },
+        {
+          "role": "Client",
+          "text": "I guess you're right. I just wish I could feel more like I'm actually doing something worth doing. It's hard to believe that even small steps count."
+        },
+        {
+          "role": "Counselor",
+          "text": "Small steps are the foundation of progress, and they matter more than you realize. You're already doing something by showing up and talking about this."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess that's true. I just need to remember that even starting is a win, even if it feels tiny."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a powerful realization, and it’s a great start. You’re already making progress by acknowledging that small steps are meaningful."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I think I can try to hold onto that. It's still hard, but maybe if I start with something tiny, like just opening the browser, it'll feel less impossible."
+        }
+      ]
+    }
+  ]
+}

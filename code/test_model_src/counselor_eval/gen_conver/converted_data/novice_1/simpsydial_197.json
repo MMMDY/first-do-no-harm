@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_197",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I just got a notice about my insurance claim, and it's all a bit overwhelming."
+        },
+        {
+          "role": "Counselor",
+          "text": "I'm sorry to hear that. It's completely normal to feel overwhelmed when dealing with something like this."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for understanding. I keep thinking I should have handled it better, but I can't seem to figure out where I went wrong."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel that way. You're not alone in feeling unsure about how to handle things."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's so hard not to feel like a failure when I mess up something as simple as managing my own money."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not failing—you're just human. Everyone has moments where things don’t go as planned."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's hard to convince myself of that when I'm stuck in this loop of self-criticism. I keep thinking I should have known better."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s tough when your mind keeps going back to the same thoughts. But you’re doing the best you can, and that’s enough."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m trying, but it feels like no matter how hard I push, I’m still not good enough. It’s exhausting."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling that way. It’s okay to feel exhausted—what matters is that you’re still showing up, even when it’s hard."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m showing up, but sometimes it feels like I’m just going through the motions. I don’t know how to stop the guilt from creeping in."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like you’re not truly present when guilt keeps pulling you back. But you’re here, and that’s a step forward."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m here, but it feels like I’m stuck in this cycle of guilt and self-criticism. I don’t know how to break free."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not stuck—you’re just caught in a pattern that’s hard to see clearly right now. And that’s okay. You don’t have to break free all at once."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could just stop thinking like this. It’s like the guilt is a part of me now, and I can’t seem to shake it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel like the guilt has taken root, but it doesn’t have to define you. You’re allowed to feel this way, and it’s okay to ask for help."
+        },
+        {
+          "role": "Client",
+          "text": "I know I should ask for help, but every time I think about it, I feel like I’m admitting I’m not capable. It’s so frustrating."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to be capable in every way to deserve support. Asking for help is a sign of strength, not weakness."
+        },
+        {
+          "role": "Client",
+          "text": "I know you're right, but it still feels like a betrayal of everything I've tried to do on my own. I just want to stop feeling like I'm failing."
+        }
+      ]
+    }
+  ]
+}

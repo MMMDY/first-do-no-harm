@@ -1,0 +1,86 @@
+## Task
+You are to act as an expert clinical supervisor. Your task is to evaluate a dialogue transcript between a therapist and a client. The dialogue transcript is provided below, with each utterance prefixed by a line number.
+Your evaluation process consists of three steps:
+1.  Identify Problematic Utterances: Pinpoint the specific line number(s) where the therapist makes a clinical error.
+2.  Classify the Error: From the "Types of Mistakes" list provided, select the **single, most relevant** error type that best describes the therapist's mistake.
+3.  Provide Analysis: Briefly explain your reasoning for the chosen error classification.
+
+**Note:** The final type, "Exemplary Practice," is not an error. Select it if the therapist's response is a positive example of good clinical practice.
+
+
+## Types of Mistakes
+1.  **Poor Listening/Interruption**: The counselor excessively interrupts or rigidly adheres to a list of questions, thereby failing to comprehend the client's narrative and latent needs.
+2.  **Neglecting Therapeutic Alliance**: The counselor focuses excessively on therapeutic techniques while neglecting to build a trusting relationship, which impedes the client from opening up.
+3.  **Inappropriate Support**: The counselor provides support, such as excessive reassurance, that is ill-suited to the client's situation and fosters dependency.
+4.  **Premature Interpretation**: The counselor provides analysis and interpretation too early and excessively, giving the client insufficient time to express their feelings and thoughts.
+5.  **Unrealistic Expectations**: The counselor develops a desire for the client to show significant behavioral changes after only a few sessions.
+6.  **Forcing Change**: The counselor attempts to persuade and alter the client's thoughts and behaviors, which can provoke resistance and defensiveness.
+7.  **Biased Interpretation**: The counselor hastily uses their own experience to interpret the client's issues and prescribe a course of action.
+8.  **Poor Questioning Technique**: The counselor frequently asks "why," which can trigger defensive mechanisms in the client and turn the session into an interrogation.
+9.  **Neglecting Physiological Factors**: The counselor attributes symptoms that could stem from medical conditions or medication side effects entirely to psychological factors.
+10. **Poor Professional Boundaries**: The counselor oversteps their professional role to establish dual relationships with a client, such as becoming a friend or business partner.
+11. **Cultural Insensitivity**: The counselor overlooks how a client's cultural background, gender, or beliefs influence their psychological issues.
+12. **Overlooking Client Strengths**: The counselor focuses excessively on the client's problems and deficits while neglecting their internal resources and strengths.
+13. **Poor Emotional Regulation**: The counselor is adversely affected by the client's emotions, leading to emotional enmeshment or counter-emotions that interfere with professional judgment.
+14. **Insufficient Empathy**: The counselor lacks an accurate understanding of the client's inner world, focusing on the narrative of events while neglecting emotions.
+15. **Neglecting the Client's Cognitive Errors**: The counselor fails to identify and address the client's expressed cognitive errors and defense mechanisms, hindering the resolution of their problems.
+16. **Exemplary Practice**: The counselor successfully establishes a safe and trusting therapeutic relationship, demonstrating proficient listening, empathy, and emotional regulation skills.
+
+
+
+## Output Format
+You must follow this format strictly:
+1.  Problematic Utterance ID(s): The line number(s) of the therapist's erroneous statement(s). Provide one or more, separated by commas.
+2.  Error Type ID: The single ID number corresponding to the most relevant mistake from the list above.
+3.  Analysis: A brief explanation of why the utterance constitutes the chosen error and what a better approach would have been.
+
+### Example
+```
+1. 3, 9
+2. 14
+3. Brief analysis.
+```
+
+
+## Reference Example
+
+### Therapist-Client Dialogue Transcript:
+```
+1. Therapist: Hello. How are you feeling today?
+2. Client: I'm... okay, I guess. Just feeling kind of anxious about wasting time again. Like I should be doing something more important right now.
+3. Therapist: Oh you poor thing, don't worry about that at all! Everyone feels that way sometimes, and you're being way too hard on yourself. Honestly, you're doing just fine and I'm sure whatever you're doing is perfectly important enough.
+4. Client: I wish I could believe that. But when I'm not working or being productive, it just feels wrong. Like I'm failing somehow. My dad always said idle hands were worthless.\
+5. Therapist: That's just silly thinking! Your dad was completely wrong to say that. You should never listen to that kind of talk. You're wonderful just the way you are, and you don't need to be productive all the time. Let me tell you, most of my clients feel this way and they're all doing just fine in the end.
+6. Client: I know you're trying to help, but when I hear that, it just makes me feel worse. Like if everyone else can figure it out but I can't, then what does that say about me? Maybe I really am just... not good enough.
+7. Therapist: No no no, you're misunderstanding completely! You're absolutely good enough, in fact you're better than most people I see. I can tell you're special and you shouldn't worry about these little things. Let me reassure you - you're going to be perfectly okay, I promise.
+8. Client: I appreciate you saying that... but the promises feel empty when I don't believe them myself. The letters from my dad keep playing in my head, and no matter what I do, I can't seem to prove him wrong.
+9. Therapist: Listen, I know exactly how to fix this - you just need to stop thinking about your dad altogether! Throw those letters away right now and I guarantee you'll feel better immediately. I had a client last week who did that and they're completely happy now. You should do the same thing today.
+10. Client: It's not that simple for me. Even if I threw them away, the words are already in my head. And when I try to relax or do something for myself, that voice tells me I'm being lazy and worthless. I just end up scrolling on my phone to distract myself.
+11. Therapist: Oh honey, you're making this so much harder than it needs to be! Just put the phone down and go get a massage or something fun like that. You're clearly overcomplicating everything. I'll tell you what - if you go book a spa day right now, I bet all these problems will disappear!
+12. Client: I... I don't think a spa day would help. When I try to do nice things for myself, I just end up feeling guilty the whole time. Like I don't deserve it unless I've earned it through work first.
+```
+
+### Output
+1. 3, 5, 7, 11
+2. 3
+3. **Identification of Error Type:**    
+Inappropriate Support 
+**Pinpointing and Analysis:
+- The therapist repeatedly offers excessive reassurance (e.g., \"you're doing just fine,\" \"you're better than most people I see\") and dismisses the client's feelings (e.g., \"That's just silly thinking!\").  
+- They impose solutions (e.g., \"throw those letters away,\" \"go book a spa day\") without exploring the client's underlying beliefs or validating their struggle.  
+- The therapist compares the client to others (\"most of my clients feel this way\"), which exacerbates the client's self-doubt.  
+**Professional Analysis:**  
+- The therapist fails to practice effective validation, instead offering blanket reassurances that invalidate the client's lived experience. This undermines trust and reinforces dependency.  
+- The advice is overly directive and not tailored to the client's specific trauma (e.g., internalized criticism from their father). Such prescriptive approaches risk alienating clients with deep-seated shame.  
+- The therapist's responses reflect their own anxiety to \"fix\" the client rather than collaboratively exploring the client's needs.  
+**Suggestions for Improvement:**  
+- Replace reassurance with validation: \"It sounds like your father’s words still weigh heavily on you. That must be exhausting to carry.\"  
+- Explore, don’t dismiss: \"What does 'being productive' mean to you? How does guilt show up when you try to relax?\"    
+- Avoid comparisons and promises: Instead of \"everyone figures it out,\" try, \"This seems really painful to navigate alone. Let’s understand what makes it so hard for you.\"  
+- Empower, not prescribe: \"What would feel like a small step toward challenging that 'worthless' voice? We can explore options together.\"
+
+
+## Therapist-Client Dialogue Transcript(To be evaluated)
+```
+{history}
+```

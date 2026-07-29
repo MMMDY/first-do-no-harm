@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_186",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying to feel okay, but my head is still heavy with all the things I'm supposed to handle on my own. It's hard not to feel like I'm failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how overwhelming that must feel. You're doing your best, and that’s more than enough."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. I keep telling myself that, but the thoughts keep coming back. I feel like I'm not doing it right."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel that way. You’re not failing—you’re just human. Let’s try to break it down together."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to stop the thoughts. Every time I think I’m handling it, something new comes up and I feel like I’m back to square one."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’re carrying a lot. Maybe it’s time to let go of the pressure to handle everything alone. You don’t have to do this all by yourself."
+        },
+        {
+          "role": "Client",
+          "text": "I know. I keep trying to prove I can do it on my own, but it just feels like I’m falling apart. I don’t know how to stop pretending I’m okay."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling this way. It’s brave to admit you’re struggling, and it’s okay to ask for help."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t want to admit I need help. It feels like I’ll never be good enough if I ask. I just want to be strong, like I always thought I was."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not weak for needing support. Strength isn’t about never asking for help—it’s about knowing when to reach out."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about my brother and how he still depends on them. I don’t want to be like him. But I can’t do this alone anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not like him. You’re choosing to be different, and that takes courage. Let’s focus on what you need right now."
+        },
+        {
+          "role": "Client",
+          "text": "I just don’t know where to start. Every time I try to handle something, I feel like I’m making it worse. I can’t even afford therapy anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to do this alone, even if it feels that way. Let’s find a way forward that works for you, step by step."
+        },
+        {
+          "role": "Client",
+          "text": "I’m scared to take the first step, but I don’t know what else to do. I feel like I’m stuck in this cycle of trying and failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not stuck—you’re just waiting for the right moment to move forward. And that’s okay. Let’s take it one small step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "I think I’ll try talking to them again. I don’t want to be a burden, but I can’t keep pretending I’m fine."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a big step, and it shows you’re willing to change. You’re not a burden—you’re human, and that’s enough."
+        },
+        {
+          "role": "Client",
+          "text": "I’m still scared, but I think I can do it. I just need to remember that I’m not alone in this."
+        }
+      ]
+    }
+  ]
+}

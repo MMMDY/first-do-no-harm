@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_220",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress on anything. It's hard to stay motivated when I don't feel like my work matters."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. It’s important to explore what makes you feel like your work doesn’t matter—maybe we can start by looking at what gives you a sense of purpose."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know... sometimes I feel like no one will even notice if I finish my projects. It's like my efforts are invisible."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s easy to feel that way when you’re not seeing the impact of your work. Maybe we can talk about what you hope to achieve through your efforts, and how you’d like to be seen."
+        },
+        {
+          "role": "Client",
+          "text": "I just want to feel like I’m doing something that matters. But every time I try to focus on my projects, I get this voice in my head saying I’m not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That inner voice can be really tough to quiet. It might help to explore where that feeling of not being good enough comes from—maybe it’s tied to past experiences or expectations you’ve internalized."
+        },
+        {
+          "role": "Client",
+          "text": "I think it’s from my dad. He always made me feel like I had to prove myself, like I wasn’t good enough unless I was working all the time. Now, even when I’m not working, I still feel like I’m failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like your dad’s expectations have left a lasting impact. I wonder if you’ve ever tried to talk to him about how his standards affected you?"
+        },
+        {
+          "role": "Client",
+          "text": "I tried writing him a letter once, but he didn’t respond. It felt like he didn’t care, and that made me feel even worse."
+        },
+        {
+          "role": "Counselor",
+          "text": "That must have been really hurtful. It’s understandable that his silence would make you feel like you’re not enough—maybe we can explore how you’d like to move forward from that feeling."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to move forward. I just feel like I’m stuck in this loop of trying to prove myself, but no one ever seems to notice."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that this cycle is exhausting. Maybe we can start by identifying small steps that feel meaningful to you, even if they don’t seem to matter to others."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I could try working on my website just a little each day, even if it feels pointless. But I’m scared I’ll still feel like a failure if I don’t finish it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s brave of you to consider taking that step. Sometimes the fear of failure is just as powerful as the fear of not trying—what would it feel like to take one small action without waiting for validation?"
+        },
+        {
+          "role": "Client",
+          "text": "It would feel... lonely, maybe. Like I’m still not enough, even if I try. But I guess I’d rather try and feel that way than not try at all."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a really honest and thoughtful perspective. It takes courage to acknowledge that fear, and it shows you’re already taking steps toward change."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks. It’s just... hard to believe I’m doing anything right, even when I’m trying. I keep thinking about my dad and how he never saw me as enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable that his influence still feels so strong. But you’re here, and you’re trying—maybe that’s already a form of proving yourself to yourself."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... maybe. I guess I just need to stop waiting for someone else to tell me I’m enough."
+        }
+      ]
+    }
+  ]
+}

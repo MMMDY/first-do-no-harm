@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_221",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress on anything. It's hard to stay motivated when I keep thinking no one will care about what I do."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. It’s tough to feel like your efforts don’t matter. Have you thought about what makes you feel like you’re moving forward, even if it’s small?"
+        },
+        {
+          "role": "Client",
+          "text": "Sometimes I think about the website I’m trying to build, but then I feel like it’s not worth it. I keep scrolling on my phone instead of working on it, and I feel worse for it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way when you’re trying to do something meaningful. What do you think would help you feel like you’re making a difference, even in small ways?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe if I could see some progress, even tiny, it would help. But I keep doubting myself and thinking no one will notice. It’s like I’m stuck in a loop."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to break out of that cycle when you’re feeling unseen. Have you ever thought about what you’d do if you didn’t care about what others think?"
+        },
+        {
+          "role": "Client",
+          "text": "I guess I’d still try to build the website, but I’d probably feel more like I’m doing it for myself. It’s just... I don’t know how to stop caring about what others think."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a good insight—focusing on your own purpose can make a big difference. Have you ever tried setting small goals that feel manageable, even if they don’t seem important to others?"
+        },
+        {
+          "role": "Client",
+          "text": "I’ve tried, but I always end up thinking the goals are too small. It feels like a waste of time, even if I’m doing something for myself. I just don’t know how to start."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s easy to feel like even small steps aren’t enough when you’re carrying so much weight. What would happen if you just started, even if it felt like a tiny step?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe I’d feel a little better, even if it’s just a tiny step. I guess I’m scared that if I start, I’ll still feel like it’s not enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That fear is part of the process, but it doesn’t have to stop you from taking the first step. What would feel like a manageable first step for you, even if it’s just a small thing?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe just opening the website file and writing one sentence. It feels too small, but I know if I do it, I’ll feel a little less stuck."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a great start—focusing on something small can help you build momentum. What would you say that one sentence could be?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe something like, \"This website is mine, and I’m trying to make it work.\" It feels silly, but it’s something I can write without thinking too much."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sentence might feel silly now, but it’s a powerful reminder of your effort. What would happen if you wrote it and then left the file open for a few minutes?"
+        },
+        {
+          "role": "Client",
+          "text": "I guess I’d feel a little better, even if it’s just for a few minutes. It’s hard to imagine doing that, but maybe if I just try, it’ll feel less overwhelming."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a brave step—starting with something small can help you feel more in control. What would you need to feel ready to try it?"
+        },
+        {
+          "role": "Client",
+          "text": "I need to remind myself that it’s okay if it’s not perfect. I need to believe that even a small step is worth taking, even if I don’t feel like it’s enough."
+        }
+      ]
+    }
+  ]
+}

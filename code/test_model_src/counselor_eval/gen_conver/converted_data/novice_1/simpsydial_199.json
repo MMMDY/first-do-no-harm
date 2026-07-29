@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_199",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I got a notice about my insurance claim, and it's all a bit overwhelming."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really stressful. I can see how that notice might feel overwhelming. Let's try to break it down together."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking I should have handled it better. I feel like I’m failing at being independent, like I’m not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel that way. Change takes time, and it’s normal to feel frustrated when things don’t go as planned. Let’s work on small steps together."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to fix this. I keep second-guessing everything I’ve done, like I’m not actually in control."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel in control when things feel so uncertain. But remember, even small actions can help. Let’s focus on one thing at a time."
+        },
+        {
+          "role": "Client",
+          "text": "I keep telling myself I should have checked everything before now. But the guilt just keeps coming, like I’m not doing enough to be okay."
+        },
+        {
+          "role": "Counselor",
+          "text": "Guilt can feel heavy, but it’s not a sign of failure. Let’s try to find a way to be kind to yourself, even in the middle of this."
+        },
+        {
+          "role": "Client",
+          "text": "I want to be kind to myself, but the thoughts just keep pulling me back. I feel like I’m not doing enough to be okay."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to break free from those thoughts, but you’re already showing strength by wanting to be kind to yourself. Let’s try to build something small that feels like progress."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know where to start. Every time I try, I feel like I’m just making things worse, and I’m scared I’ll never get it right."
+        },
+        {
+          "role": "Counselor",
+          "text": "You don’t have to get it right all at once. Even small steps can help, and it’s okay to feel scared. Let’s try something simple together."
+        },
+        {
+          "role": "Client",
+          "text": "I’m trying, but the fear of messing up keeps me stuck. I just want to feel like I can handle this without falling apart."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay to feel afraid. You’re not alone in this, and it’s a sign of strength that you’re still trying. Let’s take it one small step at a time, together."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can do this. Every time I try, I feel like I’m failing, and I’m so scared I’ll never be enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not failing—you’re trying, and that’s what matters. It’s okay to feel scared, but you’re already stronger than you think. Let’s take one small step forward, even if it feels tiny."
+        },
+        {
+          "role": "Client",
+          "text": "I’m trying so hard, but the fear is still there. I just want to feel like I can do this without breaking."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re doing more than you realize, even if it doesn’t feel like it right now. Let’s focus on what you can do today, no matter how small it seems."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know what to do today. Everything feels too hard, and I’m afraid I’ll just fall apart again."
+        }
+      ]
+    }
+  ]
+}

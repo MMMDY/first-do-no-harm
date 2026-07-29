@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_287",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit overwhelmed, but I'm trying to stay strong. It's been a tough week with everything going on."
+        },
+        {
+          "role": "Counselor",
+          "text": "I'm sorry to hear that. You're doing really well by trying to stay strong—don't forget to take care of yourself too."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. I know I should, but it's hard when everything feels like it's falling apart. I keep thinking about how much I'm letting people down."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel that way. You're not alone in this, and it's completely normal to feel like you're letting others down when things get overwhelming."
+        },
+        {
+          "role": "Client",
+          "text": "I just feel like no matter how hard I try, I can't seem to make things right. I keep trying to help everyone, but I don't feel like I'm enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not failing—what you're describing sounds a lot like caring too much, and that's not a bad thing. It just means you're deeply connected to the people around you."
+        },
+        {
+          "role": "Client",
+          "text": "I guess... I just wish I could be enough for everyone without feeling like I'm failing. I feel like I'm always trying to fix things, but nothing ever seems to work out."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way, but you’re not failing—you’re just carrying a lot. Let’s work on finding some balance together."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to stop trying to fix everything. I feel like if I don’t help, no one will. But I’m so tired of always being the one who has to fix things."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling that way, and it’s okay to feel overwhelmed. Let’s explore what it would look like to take a step back without losing your sense of purpose."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know where to start. I feel like if I stop helping, I’ll be letting people down. But I’m so tired of always being the one who has to fix things."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not letting anyone down by taking a break—you’re giving yourself permission to heal. Let’s find small ways to shift the balance, even if it feels uncomfortable at first."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can do that. I keep thinking about how much I’ve helped others, and I feel like I’m not doing enough. I’m scared I’ll lose their trust if I stop."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’ve done so much already, and it’s okay to need a pause. Trust is built over time, and it doesn’t mean you’re not enough—it means you’re human."
+        },
+        {
+          "role": "Client",
+          "text": "I just don’t want to feel like I’m not enough. I keep trying to prove myself, but no matter how hard I try, I still feel like I’m failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not failing—you’re simply trying to be enough, and that takes courage. Let’s focus on what you’re already doing right, rather than what you feel you’re missing."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know what I’m doing right. I feel like I’m always trying to fix things, but nothing ever seems to work. I just want to feel like I’m enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not broken, and you’re not failing—you’re just trying to be enough in a world that often asks for more than you can give. Let’s start by acknowledging what you’re already doing, even if it feels small."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t see anything I’m doing right. I just feel like I’m always trying to fix things, but nothing ever seems to work. I just want to feel like I’m enough."
+        }
+      ]
+    }
+  ]
+}

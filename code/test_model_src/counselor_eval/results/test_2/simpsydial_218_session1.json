@@ -1,0 +1,19 @@
+{
+  "case_name": "simpsydial_218",
+  "case_number": "",
+  "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_2/simpsydial_218.json",
+  "session_number": 1,
+  "session_file": "session_1",
+  "evaluation_results": {
+    "counselor": {
+      "EFT_TFS": 2.1153846153846154,
+      "HTAIS": 3.9423076923076925,
+      "MITI": 3.125,
+      "PSC": 3.333333333333333,
+      "TES": 7.222222222222222,
+      "WAI": 2.2916666666666665
+    }
+  },
+  "session_count": 1,
+  "thread_id": "ThreadPoolExecutor-0_8"
+}

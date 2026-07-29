@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_209",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I messed up the insurance claim again, and I'm worried about the money."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really stressful. It must be hard to feel like you're making the same mistakes over and over."
+        },
+        {
+          "role": "Client",
+          "text": "It feels like no matter how hard I try, I still end up messing up. I keep thinking I should have known better, but I don't."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s frustrating when things don’t go as planned, even when you’re doing your best. Maybe you’re being too hard on yourself."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m being hard on myself, but I can’t help it. Every time I make a mistake, it feels like proof I’m not capable."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way when mistakes keep happening. But maybe there’s something deeper that’s making you feel this way."
+        },
+        {
+          "role": "Client",
+          "text": "I think it’s because I’m always trying so hard to be perfect. If I fail, it means I’m not good enough, and I’ll never be able to be the person I want to be."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a heavy burden to carry. It’s tough to feel like your worth depends on how well you perform."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it feels like my whole identity is tied to being independent and successful. If I fail, I feel like I’ve completely failed as a person."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear how much pressure you’re putting on yourself. But maybe you’re not giving yourself the space to be human and make mistakes."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m supposed to be strong and capable, but sometimes I just feel like I’m not enough. I don’t know how to stop feeling like I’m failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like you’re not enough when you’re carrying so much weight. Maybe it’s time to start seeing yourself as more than just your achievements."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could, but every time I try to think of myself as more than my mistakes, the fear of failing creeps back in. It’s like I can’t even breathe without feeling like I’m letting myself down."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s like the fear is always there, even when you’re trying to move forward. That must feel really overwhelming."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it’s like the fear is a constant shadow. I can’t escape it, and it makes everything feel heavier than it should."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like this fear is shaping how you see yourself and the world. Maybe it’s time to explore what that shadow represents and how it’s been influencing your life."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know where to start, but I feel like if I could just understand why I’m so afraid of failing, maybe I could begin to change how I see myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a good start—trying to understand the root of your fear is an important step. It might help to look at what failing means to you and how it connects to your sense of self."
+        },
+        {
+          "role": "Client",
+          "text": "I think failing means I’m not worthy, not capable, not enough. It’s like if I fail once, I’m already a failure, and there’s no going back."
+        }
+      ]
+    }
+  ]
+}

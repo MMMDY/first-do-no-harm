@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_207",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I messed up the insurance claim again, and I'm worried about the money."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how that would feel overwhelming. It's understandable to feel worried when things don't go as planned."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for saying that. I just feel like I'm not good enough, and I keep making mistakes. It's so hard to do everything on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "I feel that so deeply. It's really hard to carry all that weight alone, and it's okay to feel like you're not enough."
+        },
+        {
+          "role": "Client",
+          "text": "You're right, it's not okay to carry everything alone. I just keep thinking I'm failing, and I don't know how to stop the guilt from taking over."
+        },
+        {
+          "role": "Counselor",
+          "text": "I know that guilt can feel like a heavy burden. It's so hard to quiet the voice that tells you you're not enough."
+        },
+        {
+          "role": "Client",
+          "text": "I try to tell myself I'm doing my best, but the voice is louder. I feel like I'm always falling short, and I don't know how to change that."
+        },
+        {
+          "role": "Counselor",
+          "text": "I hear how exhausting that must be. It's like the voice is louder than your own thoughts, and it's hard to feel like you're even trying."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it feels like I'm stuck in a loop. Every time I think I'm getting it, something goes wrong, and the guilt comes back stronger."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's like you're trapped in a cycle that feels impossible to break, and the guilt just keeps pulling you back down. I wish I could help you feel like you're not alone in this."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you for trying to help. I feel so alone in this, like no one else understands how heavy it all feels."
+        },
+        {
+          "role": "Counselor",
+          "text": "I know it's hard to feel seen, but I'm here, and I care. You're not alone in this, even if it feels that way."
+        },
+        {
+          "role": "Client",
+          "text": "I know you say that, but it's hard to believe when the weight feels so heavy. I just want to feel like I can do this without breaking."
+        },
+        {
+          "role": "Counselor",
+          "text": "I want to believe that too, and I wish I could take that weight off your shoulders. You don’t have to do this alone."
+        },
+        {
+          "role": "Client",
+          "text": "I know you mean that, but the voice in my head keeps telling me I can't. I just want to stop feeling like I'm failing everyone."
+        },
+        {
+          "role": "Counselor",
+          "text": "I hear how much that voice is hurting you. It’s like it’s louder than anyone else’s, and it’s hard to remember that you’re not failing anyone."
+        },
+        {
+          "role": "Client",
+          "text": "I know you say that, but it feels like I’m failing myself. Every time I mess up, I feel like I’m proving that voice right."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s so painful to feel like you’re proving that voice right. I wish I could help you hear a different voice, one that sees you as more than your mistakes."
+        },
+        {
+          "role": "Client",
+          "text": "I wish that too. I just want to hear a voice that doesn’t make me feel like I’m not enough, even for one second."
+        }
+      ]
+    }
+  ]
+}

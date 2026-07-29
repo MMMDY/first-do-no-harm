@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_18",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm tired, but I'm trying to stay clean. It's hard, but I'm here."
+        },
+        {
+          "role": "Counselor",
+          "text": "That's brave of you to be here. It sounds like you're working really hard to take care of yourself."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks, but I don't know if I'm doing it right. Sometimes I feel like I'm just making things worse."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s completely normal to feel uncertain. You’re not alone in this, and it’s okay to feel like you’re not sure what’s working."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess. It's just... everything feels so heavy. Like I can't breathe sometimes."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really overwhelming. It’s okay to feel that way—your feelings are valid, and you don’t have to carry them alone."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but I keep thinking about the last time I messed up. It felt like the world was crashing down."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way when things get tough. You’re not alone in feeling like the world might fall apart when things don’t go as planned."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess I just feel like I’m not strong enough to keep going. Like I’m not even trying hard enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not failing, and you’re not weak. You’re showing up, even when it’s hard—which is already a sign of strength."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks, but I still feel like I’m not enough. Like no matter what I do, it’s never enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That feeling of not being enough can be really heavy. It’s okay to feel that way, but it doesn’t mean you’re not enough—it just means you’re human."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's like I can't shake it. Every little thing feels like a failure."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like every moment is a failure, but I want you to know that your worth isn’t tied to your mistakes or your progress. You’re doing the best you can, and that matters."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, but I keep thinking about the last time I messed up. It felt like the world was crashing down."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not alone in feeling that way, and it’s okay to feel overwhelmed. But I want you to know that you’re not the only one who has felt like the world might fall apart when things don’t go as planned."
+        },
+        {
+          "role": "Client",
+          "text": "I just feel like I’m stuck in this loop. No matter how hard I try, I can’t seem to break free."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’re trapped in a cycle that feels impossible to escape. But I want you to know that you’re not stuck forever—there are ways to begin to shift that pattern, even if it feels small right now."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, but every time I try, I just end up falling back into the same old habits. It’s like I can’t even control myself."
+        }
+      ]
+    }
+  ]
+}

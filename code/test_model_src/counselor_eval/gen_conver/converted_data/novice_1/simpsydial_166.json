@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_166",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at the edge of something but can't quite take the next step. It's hard to know if I'm ready to move forward or if I should just stay where I am."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. It’s okay to feel uncertain—sometimes the hardest part is knowing when to take a step."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for saying that. I guess I just feel like I'm always waiting for the right moment, but I'm not sure if I'll ever find it. It's like I'm stuck in a loop of trying and failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way. You’re not failing—you’re just trying to figure out what feels right for you."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's hard to remember that when I'm so caught up in the fear of not being good enough. I keep thinking, what if I try and it still doesn't work?"
+        },
+        {
+          "role": "Counselor",
+          "text": "Fear of not being good enough is a common struggle. It’s okay to feel that way—it’s part of the process."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I know. But it feels like every time I take a step, I'm reminded of how much I don't know. It's like the ground keeps shifting beneath me."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a powerful way to put it. The uncertainty can feel overwhelming, but it’s also a sign that you’re paying attention to your own needs."
+        },
+        {
+          "role": "Client",
+          "text": "I guess that's true. It's just... hard to stop worrying about what others might think if I don't do it perfectly."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s easy to let others’ expectations shape how we see ourselves. But your worth isn’t tied to how well you meet their standards."
+        },
+        {
+          "role": "Client",
+          "text": "I know that, but it's so hard to believe it when I'm constantly comparing myself to others. I feel like I'm never enough, no matter what I do."
+        },
+        {
+          "role": "Counselor",
+          "text": "Comparison can be a heavy burden. It’s not about being enough—it’s about learning to be kind to yourself as you move forward."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I keep trying to be kind, but the voice in my head keeps saying I'm not good enough. It's like I can't turn it off, even when I want to."
+        },
+        {
+          "role": "Counselor",
+          "text": "That voice can feel relentless, but it’s not the whole story. You’re already doing the hard work of trying to be kind to yourself— that’s a sign of strength."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks, but I still feel like I'm fighting a battle I can't win. It's like every time I make progress, something pulls me back."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s frustrating when progress feels like it’s being pulled back, but that doesn’t mean the battle is unwinnable. You’re already making progress just by showing up."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess showing up is something I can do. It's just hard to feel like it's enough when everything else feels so uncertain."
+        },
+        {
+          "role": "Counselor",
+          "text": "Showing up is a huge act of courage. It’s okay to feel uncertain—it doesn’t mean you’re not enough, just that you’re human."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess I am human. It's just that sometimes I feel like I'm the only one who can see how much I'm struggling."
+        }
+      ]
+    }
+  ]
+}

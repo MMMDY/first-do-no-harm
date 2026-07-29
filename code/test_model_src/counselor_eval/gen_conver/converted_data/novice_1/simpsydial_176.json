@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_176",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at the edge of something and can't quite decide to take the next step. It's hard to know if I'm ready to try again."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. It’s okay to feel uncertain sometimes—change can be really hard."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks for saying that. I guess I just feel like I'm always waiting for the right moment, but it never comes. I keep thinking, what if I'm not ready?"
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel that way. You’re not alone in wanting to be sure before taking action."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I know. But the more I wait, the more I wonder if I'm just afraid of failing again. What if I try and it doesn't work out?"
+        },
+        {
+          "role": "Counselor",
+          "text": "Fear of failure is a common part of the process. It’s natural to worry, but it doesn’t mean you’re not capable of trying."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's like the fear is louder than the hope. I keep thinking, what if I'm not good enough?"
+        },
+        {
+          "role": "Counselor",
+          "text": "That fear can feel overwhelming, and it’s okay to feel that way. But you’ve already taken steps before—what did you learn from those experiences?"
+        },
+        {
+          "role": "Client",
+          "text": "I guess I learned that I can push through, but the fear always comes back. It's like I'm not really learning, just repeating the same cycle."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s frustrating when the fear feels like it’s winning. But you’re not stuck—you’re just in a loop that’s hard to break. What small step could you take to move forward, even a little?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe just start by writing a little more on the letter. It feels easier than facing the projects, even if it's still scary."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a good start. Taking small steps can help build confidence over time. What do you think would be the next tiny thing you could try?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe I could just look at the project again, even if it's just for a few minutes. I don’t have to do anything right away, just remember why I started."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a meaningful step. Remembering your reasons can help ground you when the fear feels too strong. You’re already showing courage by trying."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess trying to remember why I started is better than letting the fear take over. It’s still hard, but maybe it’s a start."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a real sign of strength. You’re not just surviving—you’re choosing to move forward, even when it’s difficult. That’s something to be proud of."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks. It’s not much, but it feels like a small victory. I’m still scared, but maybe I can keep going a little longer each time."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re doing more than just keeping going—you’re building something. Even small steps add up, and that’s powerful. I’m glad you’re choosing to stay with it."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I know. It’s like the fear is still there, but I’m learning to listen to the part of me that wants to keep trying. It’s not easy, but it’s getting a little clearer."
+        }
+      ]
+    }
+  ]
+}

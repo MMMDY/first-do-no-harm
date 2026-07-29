@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_198",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I messed up the insurance claim again, and I'm worried about the money."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really stressful. It must be hard to feel like you're making mistakes that affect your finances."
+        },
+        {
+          "role": "Client",
+          "text": "I know it's hard. I keep thinking I should have done something differently, and it makes me feel like I'm not good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's understandable to feel that way when things don't go as planned. But you're not the only one who makes mistakes—everyone does."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but I can't stop thinking about how this reflects on my ability to handle things on my own. It feels like I'm failing again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's easy to feel like your mistakes are a reflection of your abilities, but they don't define who you are. You're doing your best, even if it doesn't feel like it right now."
+        },
+        {
+          "role": "Client",
+          "text": "I try so hard, but it's like no matter what I do, I still feel like I'm not enough. It's so frustrating."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s frustrating to feel like your efforts aren’t enough, and I can see how that would be really overwhelming. Let me help you explore what this feeling means for you."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to stop feeling like I’m failing. Every time I try to do something on my own, I end up messing it up."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of pressure to be perfect on your own. That must feel really isolating and exhausting. Would you like to talk about what it’s like when you try to handle things alone?"
+        },
+        {
+          "role": "Client",
+          "text": "It’s like I’m trying to do everything without anyone to catch me if I fall. I feel so alone in this, even when I’m surrounded by people."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a powerful way to put it. It feels like you’re carrying the weight of everything by yourself, and that must be incredibly lonely. Would you like to explore what it would be like to share that burden?"
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can ask for help. It feels like I’d be admitting I’m not strong enough on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not admitting weakness—you’re showing strength by recognizing that you need support. It takes courage to ask for help, and that’s something worth acknowledging."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I just fear that if I ask for help, I’ll never be able to do it on my own again. It feels like a step back."
+        },
+        {
+          "role": "Counselor",
+          "text": "That fear makes sense—it’s natural to worry that asking for help might make you dependent. But asking for support doesn’t mean you’re losing your ability to handle things on your own. It’s about learning to balance what you can do with what you need help with."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking that if I ask for help, I’ll never be able to prove I’m capable. It’s like I’m stuck between wanting to be independent and needing to survive."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a tough place to be—wanting to be independent but also needing support. It’s like you’re caught between two important needs, and that must feel really confusing and heavy."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, it feels like I’m constantly walking a tightrope. I want to prove I can do this on my own, but I’m scared I’ll fall if I don’t ask for help."
+        }
+      ]
+    }
+  ]
+}

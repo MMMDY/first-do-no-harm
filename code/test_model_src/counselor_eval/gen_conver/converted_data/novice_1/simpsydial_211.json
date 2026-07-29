@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_211",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress. It's hard to focus on anything that doesn't feel productive."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how frustrating that must feel. Let's try to break it down into smaller steps so it feels more manageable."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I guess breaking things down might help. I just don't know where to start when I feel like everything is pointless."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel that way. Sometimes the first step is just acknowledging that you're feeling stuck."
+        },
+        {
+          "role": "Client",
+          "text": "I know, but it's hard to believe that just acknowledging it is enough. I keep thinking about all the things I could be doing instead."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's natural to feel that way. But maybe we can explore what those \"things\" mean to you—what do they represent?"
+        },
+        {
+          "role": "Client",
+          "text": "They represent something I think I should be doing, but I don't know if it's worth the effort. I keep wondering if anyone will even care about what I do."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. It might help to think about what matters most to you, even if it's just a small thing."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know what matters anymore. Everything feels like it's just for other people, not for me."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel that way, but I want you to know that it’s okay to feel lost. Let’s try to find something that feels even a little like it’s for you."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know where to look. Everything feels like it’s just another thing I should be doing, not something I want to do."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to feel like you’re not in control of your own life. Maybe we can start by noticing what small things feel even a little bit like your own choice."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know... I guess maybe listening to music or taking a walk? But even that feels like a waste of time."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s okay if it feels like a waste of time—sometimes the smallest things can feel like a rebellion against the pressure to be productive. What if we just try it and see?"
+        },
+        {
+          "role": "Client",
+          "text": "Yeah... maybe. I guess I could try walking for a little while. It’s not like I have anything else to do."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a good start. Even a short walk can help you feel a little more connected to yourself, even if it’s just for a few minutes."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I could try. It’s just... hard to believe that something so small could make a difference."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s hard to believe, but sometimes the smallest actions can create a ripple effect. You don’t have to believe it right now—just try it and see what happens."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I'll try. Even if it doesn't change anything, it's something I can do without feeling like I'm wasting time."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_174",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm standing at a crossroads but can't decide which way to go. It's hard to focus on anything when my mind keeps circling back to the same worries."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. I can relate to feeling stuck sometimes, and I'd love to help you figure out what's holding you back. Let's talk about what's been on your mind lately."
+        },
+        {
+          "role": "Client",
+          "text": "I've been thinking a lot about the projects I started but never finished. I get excited at first, but then doubt creeps in, and I end up walking away before I even see them through. It feels like I'm always starting over, and I'm not sure why I keep doing it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of self-criticism. I think you're doing something important by reflecting on this. Would you like to explore what those projects mean to you?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if they mean anything anymore. I used to think they were a way to prove I was worth something, but now I feel like I'm just chasing validation. I don't even know what I'm trying to prove anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a really deep realization. I think you’re starting to see something important about yourself, and I’d love to help you unpack that further. Would you like to talk about what led you to this feeling?"
+        },
+        {
+          "role": "Client",
+          "text": "I think it started when I was younger, when I felt like I had to be perfect to be loved. I remember my dad always pushing me to do better, to be more, but I never felt like I was enough. Even now, I can't shake the feeling that if I don't succeed, I'm not worthy."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a really painful pattern to carry. I can see how that would shape the way you see yourself and your work. Would you like to explore how that might be showing up in your current projects?"
+        },
+        {
+          "role": "Client",
+          "text": "I think it's showing up in the way I start things with so much energy, but then get overwhelmed by fear of failure. I feel like if I don't finish, it's proof that I'm not good enough. I don't even want to try anymore, but I can't stop myself from starting."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a really tough cycle to be caught in. I think you’re doing something brave by facing this, and I’d love to help you find a way to move forward without feeling like you have to prove yourself."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know how to stop the fear, but I do know I can't keep living like this. I want to feel like I'm enough, even if no one else sees it. I just don't know how to get there."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a powerful statement, and I really admire your courage. I think you’re already on the path to something meaningful, and I’d love to walk that path with you."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. It feels like a small step, but I'm ready to try. I don't know where it will lead, but I'm tired of feeling like I have to be perfect to be seen."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a huge step, and I’m so glad you’re willing to take it. I think you’re already showing up as the person you want to be—strong, honest, and brave. Let’s keep moving forward together."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, I think I am. It’s still scary, but I’m not running away this time. I’m just here, trying to be real."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s exactly where you need to be—right here, in this moment, being real. I’m so proud of you for showing up, even when it’s hard."
+        },
+        {
+          "role": "Client",
+          "text": "Thank you. It's not easy, but I'm trying. I don't know what's next, but I'm not alone anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone, and that's a powerful thing to realize. I'm here to walk this path with you, even if it's just one step at a time."
+        },
+        {
+          "role": "Client",
+          "text": "Yeah, that means a lot. I'm still scared, but I'm not walking this alone anymore."
+        }
+      ]
+    }
+  ]
+}

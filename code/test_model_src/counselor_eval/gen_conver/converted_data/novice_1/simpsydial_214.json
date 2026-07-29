@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_214",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress on anything. It's hard to stay motivated when I don't see the point in what I'm doing."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. I can see how it would feel overwhelming to not see any progress. Let's try to break things down into smaller steps together."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know where to start. Everything feels too big, and I'm scared I'll just end up doing nothing again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's completely normal to feel that way. You're not alone in this, and it's okay to take things one small step at a time. Let's figure out what feels even a little manageable for you."
+        },
+        {
+          "role": "Client",
+          "text": "Maybe I could just spend five minutes on the website. I don't know if that's enough, but it's something."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a great start. Five minutes is a small but meaningful step—let’s build from there. What would feel good after that?"
+        },
+        {
+          "role": "Client",
+          "text": "Maybe I could take a short walk. It feels like it might help me feel a little better, even if just for a little while."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a nice idea. Taking a walk can be a simple way to reconnect with yourself and feel more grounded. Let’s try it and see how it goes."
+        },
+        {
+          "role": "Client",
+          "text": "I think I'll go for a walk. It might help me feel less stuck, even if just for a little while."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a brave choice. I’m glad you’re giving it a try. Let me know how it feels afterward—no matter what happens, you’re doing something important."
+        },
+        {
+          "role": "Client",
+          "text": "I hope it helps. Sometimes even small things feel like a win, even if it's just a little."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're absolutely right. Even small wins matter, and they add up over time. I believe in you, and I'm here to support you every step of the way."
+        },
+        {
+          "role": "Client",
+          "text": "Thanks. It's hard to believe in myself sometimes, but I'm trying. I appreciate you being here."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone in feeling that way, and it's okay to struggle with self-belief. What you're doing now—trying, showing up—is already a sign of strength. I'm here because I believe in you too."
+        },
+        {
+          "role": "Client",
+          "text": "It's hard to feel strong when everything feels so heavy, but I'm glad you're here. I don't know what else to do, but I'm trying."
+        },
+        {
+          "role": "Counselor",
+          "text": "You're not alone in feeling that way, and it's okay to feel heavy. What you're doing—just showing up—is already a kind of strength. I'm here because I believe in you, and I'm here to walk this path with you."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know how much longer I can keep going, but I'm not giving up. It's just so hard to feel like I'm doing anything right."
+        },
+        {
+          "role": "Counselor",
+          "text": "You’re not giving up, and that’s something to be proud of. It’s okay to feel like you’re not doing anything right—what matters is that you’re still here, still trying, and still showing up."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m still here, but it feels like I’m just existing. I don’t know how to make it feel like I’m actually moving forward."
+        }
+      ]
+    }
+  ]
+}

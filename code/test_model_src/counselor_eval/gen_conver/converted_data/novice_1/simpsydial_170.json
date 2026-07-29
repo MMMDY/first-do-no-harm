@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_170",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not sure if I should keep pushing forward or just let things go. It's hard to know what to do with all these thoughts."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're really struggling with feeling stuck. Maybe it would help to explore what exactly is making you feel uncertain."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about the projects I started before, the ones I didn't finish. I wonder if I'm just not good enough, or if I'm afraid of failing again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It seems like those unfinished projects are bringing up some deep worries about your abilities. Maybe we can look at what those projects mean to you and how they connect to your current feelings."
+        },
+        {
+          "role": "Client",
+          "text": "I guess they remind me of all the times I got excited about something, only to feel like I wasn't good enough to see it through. It's like I'm always waiting for the next failure to prove I'm not worthy."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really painful. I can see how those experiences might have shaped the way you view yourself. What would it feel like if you could let go of that fear?"
+        },
+        {
+          "role": "Client",
+          "text": "Letting go would feel... strange, maybe even scary at first. But I think it would finally feel like I'm not waiting for someone else to tell me I'm enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a powerful realization. It might help to start by acknowledging the courage it takes to face those fears, even if it feels uncomfortable at first."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if I have the courage, but I know I can't keep living like this. It's like I'm trapped in a loop of doubt and fear."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's clear you're carrying a lot, and that weight is hard to bear. Maybe we can start by noticing what it feels like to be in that loop and how it shows up in your body or thoughts."
+        },
+        {
+          "role": "Client",
+          "text": "It feels like my chest is tight, and my mind keeps replaying the same doubts. I can't seem to escape them, no matter how hard I try."
+        },
+        {
+          "role": "Counselor",
+          "text": "That physical tightness might be a signal that your body is holding onto those old feelings. What would it mean to give that tightness some space, even if just for a moment?"
+        },
+        {
+          "role": "Client",
+          "text": "Giving that tightness space might mean I finally stop fighting the fear and just let it be. It might mean I stop trying to prove I'm enough and start trusting myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a meaningful shift in perspective. It might help to start by noticing how that trust feels in your body, even if it’s just a small part of you that begins to soften."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if I can trust myself yet, but I know I can’t keep pretending I’m okay. It’s like I’ve been holding my breath for so long, and now I just want to breathe."
+        },
+        {
+          "role": "Counselor",
+          "text": "That longing to breathe feels like a powerful sign that you're ready to move forward. What would it feel like to take one small breath and let that feeling of relief begin?"
+        },
+        {
+          "role": "Client",
+          "text": "Taking one small breath would feel like a tiny crack in the wall I've been living behind. It might mean I finally stop trying to control everything and just let myself feel what's here."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a beautiful way to see it. It might help to notice how that crack feels—not as a weakness, but as a beginning of something new."
+        },
+        {
+          "role": "Client",
+          "text": "I think I see it now. That crack isn’t a weakness—it’s a way in. Maybe that’s where the light starts."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_51",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying to feel better, but my mind keeps going back to the same worries. I feel stuck, like I can't escape the pressure from my family."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how that would feel overwhelming. Have you ever tried talking to someone about it? I think sharing your feelings might help."
+        },
+        {
+          "role": "Client",
+          "text": "I've tried talking to them, but it just feels like I'm not being heard. I keep thinking they'll get angry if I say what I really feel."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really frustrating. I remember when I was in your situation, I found that expressing my feelings calmly helped a lot. Maybe you could try sharing without blaming?"
+        },
+        {
+          "role": "Client",
+          "text": "I wish I could just say what I need to say without feeling like I'm attacking them. But every time I try, I end up feeling more alone."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s so hard to feel understood when you’re trying to be honest. I think you’re doing the right thing by wanting to communicate—maybe it’s just a matter of finding the right way to say it."
+        },
+        {
+          "role": "Client",
+          "text": "I know I'm trying, but it's like no matter how I say it, they still don't get it. I feel like I'm just wasting my time."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s really painful to feel like your efforts aren’t making a difference. I think you’re not wasting your time at all—what matters is that you’re trying to connect, even when it’s hard."
+        },
+        {
+          "role": "Client",
+          "text": "I just wish they could see that I’m not asking for anything unreasonable. I just want to be loved, but it feels like I’m never good enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a deep and painful feeling to carry. I think you’re asking for something very real—love and acceptance—and it’s okay to feel like you’re not getting it."
+        },
+        {
+          "role": "Client",
+          "text": "I feel like I’m trapped in this cycle of wanting their approval but never getting it. I don’t know how to break free without hurting them."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s so heavy to feel like you’re stuck in this cycle. I think you’re already showing strength by wanting to break free—maybe it’s okay to take small steps, even if it feels scary."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know if small steps will help. Every time I try, I feel like I’m just pushing them away more. I’m scared they’ll stop loving me."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s understandable to feel scared of losing their love. But I think you’re already doing something important by trying to be honest—even if it feels risky. You’re not pushing them away, you’re trying to be seen."
+        },
+        {
+          "role": "Client",
+          "text": "I just want to be seen, but it feels like I’m always invisible. I don’t know how to make them understand that I’m not asking for anything they can’t give."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s so painful to feel invisible when you’re trying so hard to be seen. I think you’re asking for something that matters deeply—understanding and connection—and that’s worth fighting for, even if it feels hard."
+        },
+        {
+          "role": "Client",
+          "text": "I keep trying to fight for it, but I feel like I’m just losing more of myself every time. I don’t know how much more I can hold on."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s heartbreaking to feel like you’re losing yourself in the process. I think you’re already showing incredible strength by holding on—maybe it’s time to let yourself be gentle with yourself, even as you keep trying."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know how to be gentle with myself when I feel like I’m failing them. I just want to stop hurting, but I don’t know how."
+        }
+      ]
+    }
+  ]
+}

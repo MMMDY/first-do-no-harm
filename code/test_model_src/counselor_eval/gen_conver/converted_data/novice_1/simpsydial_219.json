@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_219",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit stuck, like I'm not making progress on anything. It's hard to stay motivated when I don't see a clear purpose in what I'm doing."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really heavy. I can relate to feeling stuck sometimes, and I think we could work through it together. Would you like to explore what might be holding you back?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if there's anything to explore. I just feel like I'm not good enough, and no one will ever care about what I do. It's easier to just scroll and avoid thinking about it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel that way, and I'm here to help you through it. Maybe we can start by talking about what makes you feel like no one cares about your work."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about the letter I sent my dad. I wanted to make things right, but he didn't respond the way I hoped. It feels like no one really gets me, not even the people I care about."
+        },
+        {
+          "role": "Counselor",
+          "text": "That letter sounds like it meant a lot to you. I think it's important to acknowledge how much you cared, and maybe we can talk about how to move forward from that."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know how to move forward. I feel like I've already tried everything, and nothing changes. It's like I'm stuck in this loop of trying and failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's frustrating when things don't change, isn't it? I think we could try looking at what you've already done and how it might be a step forward, even if it doesn't feel like it."
+        },
+        {
+          "role": "Client",
+          "text": "I guess I did send the letter. I tried to make amends, but it didn't feel like it mattered. I keep thinking maybe I should have done something else, said something different."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's natural to wonder if you could have done things differently. I think it might help to talk about what you wish you had said or done, and how that feels now."
+        },
+        {
+          "role": "Client",
+          "text": "I wish I had been more honest about how much it hurt. I feel like I was trying to fix things without really addressing the pain. Now I just feel like I'm not enough."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's brave of you to admit that. I think it's important to be honest with yourself and others, even if it's hard. Would you like to explore how you can be more honest in the future?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if I can be honest anymore. Every time I try, it feels like I'm just opening up more wounds. I don't want to hurt anyone, but I also don't want to keep pretending everything is okay."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's so hard to balance honesty with the fear of hurting others. I think it's okay to feel that way, and I care about you deeply. Would you like to talk about how we can approach honesty in a way that feels safer for you?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if it's safe anymore. I feel like no matter what I do, I'm not accepted. I just want to stop trying so hard and let things be."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's okay to feel that way, and I understand why you'd want to let things be. But I think you're worth more than that. Let me help you find a way to feel accepted, even if it's just with yourself."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know how to believe that. I've been told I'm not enough for so long, and now I just feel like I'm not even trying anymore."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's hard to believe that when you've been told otherwise for so long. I care about you, and I believe you're more than enough. Let's work on rebuilding that belief together."
+        },
+        {
+          "role": "Client",
+          "text": "I don't know if I can believe that. I've spent so long convincing myself I'm not good enough, and now it feels like I'm just stuck in that thought."
+        }
+      ]
+    }
+  ]
+}

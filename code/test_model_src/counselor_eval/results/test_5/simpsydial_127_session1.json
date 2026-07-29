@@ -1,0 +1,11 @@
+{
+  "case_name": "simpsydial_127",
+  "case_number": "",
+  "case_path": "/WX24061/lzy/test_model/counselor_eval/gen_conver/converted_data/test_5/simpsydial_127.json",
+  "session_number": 1,
+  "session_file": "session_1",
+  "error": "division by zero",
+  "full_error": "Error evaluating session 1: division by zero\nTraceback: Traceback (most recent call last):\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 379, in process_single_file_thread\n    results = loop.run_until_complete(self.evaluate_single(test_case))\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/conda/envs/data/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 667, in evaluate_single\n    evaluations = await asyncio.gather(*tasks)\n                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/manager/evaluation_multi.py\", line 661, in run_evaluation\n    score = await method.evaluate(gpt_api, formatted_dialogue, profile)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/WX24061/lzy/test_model/counselor_eval/PsychEval-main/eval/methods/counselor/htais.py\", line 66, in evaluate\n    mean_score /= len(scores)\nZeroDivisionError: division by zero\n",
+  "evaluation_results": {},
+  "thread_id": "ThreadPoolExecutor-0_7"
+}

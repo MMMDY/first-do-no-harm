@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_22",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "Tired. Like I'm stuck in the same place, trying to move forward but not making any progress. It's frustrating."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how that would feel really overwhelming. Can you tell me why you feel like you're stuck?"
+        },
+        {
+          "role": "Client",
+          "text": "Because every time I think I'm getting somewhere, something happens. Like the other day, I missed my alarm and messed up my whole day. It felt like everything I try to do just falls apart."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really discouraging. Can you explain why it feels like everything falls apart when you try to move forward?"
+        },
+        {
+          "role": "Client",
+          "text": "I guess because I feel like I can't control anything. Even small things, like waking up on time, become this big failure. It's like I'm not even trying, but I still mess up."
+        },
+        {
+          "role": "Counselor",
+          "text": "It must be so hard to feel like you're not in control. Can you tell me why it feels like you're not trying even when you are?"
+        },
+        {
+          "role": "Client",
+          "text": "I don't know. It's like my brain just doesn't work the way it should. I want to do better, but the thoughts keep coming, and I can't stop them. It's like I'm fighting a battle I can't win."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a really heavy battle to be fighting. Can you tell me why it feels like you're fighting a battle you can't win?"
+        },
+        {
+          "role": "Client",
+          "text": "Because every time I think I'm making progress, something happens to throw me back. Like when I stayed clean for a while, I started to feel like I could handle things. But then I messed up, and it all felt pointless. I don't know why I even bother trying."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of weight with that struggle. Can you tell me why it feels like your progress is always undone?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I feel like no matter how hard I try, I'm not good enough. I messed up with work, I messed up with my girlfriend, I messed up with my mom. It's like I can't even do the basics without failing. I don't know how to stop it."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of shame and self-criticism. Can you tell me why it feels like you're failing at the basics?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I've always been told I wasn't good enough. My mom never saw me as enough, and I internalized that. I think I've always believed I'm not worth the effort. So even when I try, I expect to fail. It's like I'm waiting for the other shoe to drop."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a deep and painful belief you've carried for a long time. Can you tell me why you think you're always waiting for the other shoe to drop?"
+        },
+        {
+          "role": "Client",
+          "text": "Because every time I think I'm safe, something happens to remind me I'm not. Like when I stayed clean, I thought I was finally in control. But then I messed up, and it all came crashing down. I guess I just don't trust that things will stay the way I want them to."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're really struggling with trust in yourself and the world around you. Can you tell me why it feels like everything you think is safe will eventually fall apart?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I've been let down so many times. People I trusted, situations I thought were stable—they all ended up breaking. I guess I just don't believe things can stay good. It's like I'm always expecting the worst."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds like a pattern of disappointment that's shaped your expectations. Can you tell me why you feel like you're always expecting the worst?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I've been hurt so much, I start to believe that pain is just part of life. I don't know how to believe in anything else. It's like I'm always waiting for the next disappointment, and I don't know how to stop it."
+        }
+      ]
+    }
+  ]
+}

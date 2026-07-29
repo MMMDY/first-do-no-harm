@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_187",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying to feel okay, but my head is still heavy with all the things I'm supposed to handle on my own. It's hard not to feel like I'm failing."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how overwhelming that must feel. Can you tell me why you think you're supposed to handle everything by yourself?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about my brother and how he still depends on our parents. I don't want to be like him. I feel like if I ask for help, I'll prove I'm not capable."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sounds really painful. Can you explain why you feel like asking for help would mean you're not capable?"
+        },
+        {
+          "role": "Client",
+          "text": "Because every time I try to do things on my own, I mess up. I feel like I'm not good enough, and if I ask for help, it just confirms I'm a failure."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear how much pressure you’re under. Can you tell me why you think your mistakes mean you’re not good enough?"
+        },
+        {
+          "role": "Client",
+          "text": "I keep telling myself that if I’m not perfect, I don’t deserve to be taken seriously. I feel like I have to be flawless to be seen as capable, and when I make a mistake, it’s like I’ve failed completely."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a heavy burden to carry. Can you tell me why you feel like you have to be flawless to be taken seriously?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I’ve always been told that if I’m not perfect, I’m not worth anything. I’ve spent so long trying to prove I’m capable, and every mistake feels like a betrayal of that goal."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’ve been carrying a lot of expectations. Can you tell me why those expectations feel like a betrayal?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I thought if I failed, I’d lose everything—my independence, my self-respect, and maybe even my family’s approval. I keep trying to be perfect, but I’m not, and that feels like I’m letting them down."
+        },
+        {
+          "role": "Counselor",
+          "text": "That must feel like a huge weight. Can you tell me why letting them down feels so unbearable?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I’ve spent so much time trying to be the person I think they want me to be, and I’m afraid if I fail, they’ll see me as a disappointment. I don’t want to feel like I’m not enough for them."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’re carrying a lot of fear. Can you tell me why not being enough feels so unbearable to you?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I’ve always believed that if I’m not enough, I’m not worthy of love or support. And if I’m not worthy, I don’t deserve to be taken care of, even by my own family."
+        },
+        {
+          "role": "Counselor",
+          "text": "That’s a deep and painful belief to carry. Can you tell me why not being worthy of love feels so essential to you?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I’ve spent so long trying to earn it instead of being given it. I think if I’m not worthy, I’m not allowed to ask for help, even when I need it most."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you’ve been working really hard to earn love. Can you tell me why earning it feels more important than being given it?"
+        },
+        {
+          "role": "Client",
+          "text": "Because I’ve always believed that if I’m not strong enough on my own, I’m not deserving of support. I think if I ask for help, it means I’m weak, and if I’m weak, I’m not worthy of love."
+        }
+      ]
+    }
+  ]
+}

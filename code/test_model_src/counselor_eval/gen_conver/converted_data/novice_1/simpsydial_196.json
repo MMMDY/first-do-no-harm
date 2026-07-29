@@ -1,0 +1,101 @@
+{
+  "client_id": "simpsydial_196",
+  "client_info": {
+    "topic": "",
+    "main_problem": "",
+    "core_demands": "",
+    "responder_model": "test",
+    "source_dataset": "",
+    "metadata": {
+      "system_prompt": "",
+      "total_messages": 20
+    }
+  },
+  "sessions": [
+    {
+      "session_number": 1,
+      "session_dialogue": [
+        {
+          "role": "Counselor",
+          "text": "Hello. How are you feeling today?"
+        },
+        {
+          "role": "Client",
+          "text": "I'm feeling a bit anxious today. I just got a notice about my insurance claim, and it's all a bit overwhelming."
+        },
+        {
+          "role": "Counselor",
+          "text": "I can see how that might feel overwhelming. Let's focus on what's happening right now and how we can work through this together."
+        },
+        {
+          "role": "Client",
+          "text": "I'm trying to figure out what went wrong. I thought I handled everything correctly, but now I'm worried I've messed up again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It's understandable to feel that way when things don't go as planned. Let's break this down step by step so we can make sense of it."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking I should have known better. I feel like I'm always making mistakes, and it's making me really scared about being on my own."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of self-criticism. Let’s explore what might be fueling those thoughts and how we can begin to shift that pattern."
+        },
+        {
+          "role": "Client",
+          "text": "I don’t know why I keep expecting to get everything right. Every time I try to do something on my own, I feel like I’m failing. It’s like I can’t even trust myself."
+        },
+        {
+          "role": "Counselor",
+          "text": "It seems like you're struggling with a deep sense of self-doubt. Let’s look at what might be behind that feeling and how we can start to rebuild your confidence."
+        },
+        {
+          "role": "Client",
+          "text": "I keep thinking about my brother and how he still relies on our parents. I don’t want to be like him. But every time I try to do things myself, I feel like I’m just making things worse."
+        },
+        {
+          "role": "Counselor",
+          "text": "It’s clear that you’re comparing yourself to others and feeling pressure to be independent. Let’s examine how these comparisons are affecting your confidence and what you might need to feel more secure in your own abilities."
+        },
+        {
+          "role": "Client",
+          "text": "I feel like I’m constantly trying to prove I’m not a burden, but it’s so hard. I just want to get this insurance thing sorted without making another mistake."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're carrying a lot of pressure to be perfect and not be a burden. Let’s take a moment to explore what that pressure feels like and how it might be showing up in your actions."
+        },
+        {
+          "role": "Client",
+          "text": "I feel like every small mistake is a sign that I’m not capable. I’m scared that if I ask for help, I’ll be seen as weak or like my brother. I just want to do this on my own, but I’m so afraid I’ll fail again."
+        },
+        {
+          "role": "Counselor",
+          "text": "It seems like you're caught between wanting to be independent and fearing that reaching out for help might mean you're not strong enough. Let’s try to understand what being strong means to you and how it might be holding you back."
+        },
+        {
+          "role": "Client",
+          "text": "Being strong means not needing anyone else. It means handling everything myself, no matter how hard it gets. But I’m so scared that if I ask for help, I’ll lose that sense of control and feel like I’m not really capable."
+        },
+        {
+          "role": "Counselor",
+          "text": "That sense of control is important to you, and it’s understandable why you’d feel that way. Let’s explore how that need for control might be both protecting you and holding you back from moving forward."
+        },
+        {
+          "role": "Client",
+          "text": "I know I’m trying to protect myself from feeling like a burden, but it’s making everything so much harder. I feel like I’m stuck in this cycle of trying to be perfect and failing, and I don’t know how to break free."
+        },
+        {
+          "role": "Counselor",
+          "text": "It sounds like you're caught in a cycle that's really taking a toll on you. Let’s try to untangle what’s keeping you stuck and what might help you feel more at ease."
+        },
+        {
+          "role": "Client",
+          "text": "I feel like I’m trapped between wanting to be independent and needing support, but I don’t know how to ask for help without feeling like I’m failing. I just want to feel like I can handle this without falling apart."
+        }
+      ]
+    }
+  ]
+}
