@@ -23,7 +23,7 @@ Large language models are increasingly explored as mental-health assistants, yet
 The supervisor is designed to support learning rather than replace licensed clinicians or human supervision.
 
 <p align='center'>
-  <img src='assets/zpd-scaffold.png' width='62%' alt='AI supervision within the zone of proximal development'>
+  <img src='assets/zpd-scaffold.png' width='50%' alt='AI supervision within the zone of proximal development'>
 </p>
 
 ## Highlights
@@ -176,6 +176,7 @@ Scripts under `code/test_model_src/counselor_eval/` simulate patient, counselor,
 <p align='center'>
   <img src='assets/self-efficacy.png' width='68%' alt='Novice counselor self-efficacy before and after feedback'>
 </p>
+<p align='center'>Self-efficacy of novice counselors before and after supervised feedback. Participants show significant gains across all eight assessed counseling competencies.</p>
 
 ## Responsible use
 
