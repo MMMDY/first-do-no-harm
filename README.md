@@ -174,7 +174,7 @@ Scripts under `code/test_model_src/counselor_eval/` simulate patient, counselor,
 </table>
 
 <p align='center'>
-  <img src='assets/self-efficacy.png' width='68%' alt='Novice counselor self-efficacy before and after feedback'>
+  <img src='assets/self-efficacy.png' width='50%' alt='Novice counselor self-efficacy before and after feedback'>
 </p>
 <p align='center'>Self-efficacy of novice counselors before and after supervised feedback. Participants show significant gains across all eight assessed counseling competencies.</p>
 
